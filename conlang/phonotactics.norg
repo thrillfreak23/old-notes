@@ -1,0 +1,47 @@
+# headmatter
+{:index:}
+
+* Jagarôth Phonotaxis
+
+** Almost all Jagarôth roots begin and end with a consonant. 
+   - exceptions to this rule
+   --- î, for example
+
+** Consonant clusters are only allowed either at word beginning or at word end, never medially.
+
+** the internal word boundaries of compound words are not bound by these rules.
+
+** The general pattern is (I = initial; M = medial; F = final; V = vowel)
+   - IVF or IVMVF or IVMVMVF
+   --- where I or F but not both can be a permitted cluster
+   --- where any of V can be a long vowel
+   --- where any /one/ of V can be a diphthong
+
+** There are exceptions to these rules, the word î, for example.
+
+** Permitted initial consonant clusters
+*** 3 consonant initial clusters
+    - skr skl str
+
+*** 2 consonant initial clusters
+    - p b t d k g w th dh sk st f v + r
+    - p b k g w th s sk f v + l
+    - p t k + s
+    - s + p t k n m
+    - k p + t
+
+** Permitted final consonant clusters
+   - nasal + p b t d
+   - r + p b t d k g n m s z sh zh th dh
+   - l + p b t d k g n m th
+   - diphthong + most consonants (consonants that represent a single phoneme)
+   - p t k + s
+   - s + p t k
+   - zd
+   - sht
+
+** Stress accent
+   - Jagarôth is not a heavily stressed language.
+   - the first syllable receives a light stress accent.
+   - The final syllable receives a light stress accent.
+   - The penult receives the biggest stress accent.

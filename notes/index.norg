@@ -1,0 +1,60 @@
+@document.meta
+title: index
+description: INDEX of "notes" workspace
+authors: rachel
+categories: 
+created: 2026-05-30T08:24:40-0500
+updated: 2026-06-01T06:30:40-0500
+version: 1.1.1
+@end
+
+NOTES INDEX
+
+* JUMP TO
+  - {:raggo:}[Raggo Index]
+  - {/ code_snippets.norg}[Code Snippets]
+  - {:$conlang/index:}[Conlang workspace index]
+  - {/ scratch.norg}[Scratch page]
+  - {/ init.lua.norg}[init.lua]
+ 
+* TODO
+  - ( ) take terra to waffle house
+  - ( ) catheters
+  - ( ) call urologist
+
+
+====
+
+* PRACTICE
+
+{@ Sunday 31 May 2026}
+{@ Sunday 31 May 2026}
+
+&variable& is a variable. %and this is a comment.%
+!fuckyou! is... what? a password!
+$f(x) = y$
+
+- (=) buy groceries
+-- (x) milk
+-- (x) butter
+-- (=) bread
+
+    =====
+
+$ Word
+This is the definition of the word.
+It can have multiple lines.
+
+$$ Another Word
+This is the definition of the other word.
+
+It can have blank lines.
+Below this line goes the ending "$$"
+$$
+
+this is a link to "slir": {$ slir}[slir]
+
+$ slir 
+nominal :: ear
+
+

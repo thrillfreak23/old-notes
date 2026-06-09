@@ -1,0 +1,927 @@
+Jagarôth dictionary
+{:index:}
+
+CHANGES
+s/-ash/-ast/ :: it sounds more metal :: DONE
+
+;; maybe this, maybe not
+s/verbal prefix: -en/verbal prefix: -em/gc
+
+TABLE :: verbal subject and nominal possessor suffixes
+ |---------|-----------------------------------------|
+ | \-em    | 1st person.(singular implied)           |
+ | \-emen  | 1st person.plural                       |
+ | \-eps   | 2nd person.(singular implied)           |
+ | \-epsen | 2nd person.plural                       |
+ | \-eth   | 3rd person.(singular implied) sapient   |
+ | \-ethen | 3rd person.plural sapient               |
+ | \-os    | 3rd person.(singular implied) insapient |
+ | \-osen  | 3rd person.plural insapient             |
+ |---------|-----------------------------------------|
+
+;; eliminate {$ -sest}[-sest]
+;; -sest might be unnecessary 
+
+need: or
+
+{$ zip}[zip]
+
+{$ tot}[tot]
+
+$ meth
+conjunction :: or
+;  there is not an enclitic equivalent as there is for _gash_; _meth_ is the only Jagarôth word for _or_
+
+$ perd
+verbal root :: to destroy, to cause to perish, to ruin
+; from Yrthic language Greek :: perdein, to destroy
+; but actually it means "to fart" so what the fuck??
+; valency :: S (nominative) v. O (accusative)
+; perdax :: a destroyed one; a thing lost, one lost
+; î memen tethej perdaxen ::
+; BE 1.pl.NOM 3.s.CARITIVE make-lost.PASS.pl
+; we are without her lost
+
+$ perdax
+nominal :: a destroyed one; a thing lost, one lost
+
+
+$ zip
+number :: zero
+
+$ zip 
+number :: zero; no, none
+;  numbers are both nouns and adjectives
+;  example :: î Vov zip :: There is no God.
+verbal root :: to not exist, to sum to zero
+;  zipâl- :: finite verb :: is zero, does not exist
+;  valency :: Subject (nominative) v. ::
+;  example :: Vov zipâleth :: God is zero, God does not exist.
+
+$ tot 
+number :: one
+;  numbers are both nouns and adjectives
+;  example :: î Vovem Voveps-thor Vov tot ::
+;  BE God.1s God.2s-and God one
+;  My God and your God are one God.
+verbal root :: to be one and the same, to be identical
+;  valency :: Subject (nominative) v. ::
+;  Vovem Voveps-thor totâlethen :: My God and Your God are identical/one.
+
+$ sad
+number :: two %(for usage see zip or tot)%
+
+$ fat
+number :: three %(for usage see zip or tot)%
+
+$ fûm
+number :: four  %(for usage see zip or tot)%
+
+$ kest
+number :: five
+
+$ kor
+number :: six
+
+$ jeb
+number :: seven
+
+$ vûk
+number :: eight
+
+$ veps
+number :: nine
+
+$ sain
+number :: ten
+
+$ ken...wel
+circumposition :: relative clause delimiters
+
+$ ken...wel
+circumposition :: relative clause delimiters
+example :: î tan kentethot vê panâlen borgîz mûmbid wel ::
+;  BE fellow.nom REL.3ss.acc PAST see.FIN.1s city.loc corpse.adj ENDREL
+;  It's the fellow whom I saw in Dead City.
+
+
+$ -then
+conjunction :: that; subordinate clause marker
+
+$ -then
+conjunction :: that; subordinate clause marker
+;  also marks indirect speech
+;  spelâleth hûn-thenot kafâlen Marishov ::
+;     say.FIN.3ss MORALOBLIGATION-that.ACC go.FIN.1ss Venus.all
+;     He says he goes to Venus.
+
+
+$ kenet
+nominal :: dog
+
+$ gîgôk
+nominal :: the Martian runnerbat
+;  descended from bats
+;  evolved on yrthshapen Skârmoon
+;  transplanted to Mars for hunting purposes
+;  stand on what were their ancestors wings
+;  prehensile hands (with thumbs!!) dangle between their legs
+;  communicate through echolocation
+;  now a scourge to the local population of Wahaz
+
+
+$ vêgor
+nominal :: the Martian wolf
+
+$ homin
+nominal :: a sapient that evolved on Yrth 
+;  currently inhabits Marish (Venus), Skâr (Yrth), Skârmoon (Luna), Wahaz (Mars)
+;  mohi :: nominal (anomalous) :: informal emission of "homin"
+;  homi :: nominal (anomalous) :: informal emission of "homin"
+
+$ jûjor
+particle :: yes/no sentence marker
+
+$ skrîd
+the affirmative interjection :: yes
+
+$ skrîdath
+verbal root :: to affirm
+;  valency :: transitive :: S (nom) vb. O (acc).
+;  skrîd /yes/ + -ath /applicative verbal suffix/
+;  skrîdathâleth staburneth rûthot ::
+;  yes.APPLIC.FIN.3ss stand.nominalizer.3ss way-of-peace-reason-health.ACC
+
+$ -ath :: verbal suffix :: applicative suffix
+;
+
+$ tath
+verbal root :: apply
+;  valency :: ditransitive :: Subject (nom) verbs Object (thing applied) (acc) Recipient/beneficiary (dat, perl)
+
+$ vê
+particle (tense marker) :: past tense
+
+$ -âl
+verbal suffix :: finite verb marker
+
+$ -az :: verbal suffix :: active participial marker
+;  conveys active voice if necessary
+;  often conveys little more than progressive aspect
+;  adjective + active participle ending \-az == smthg that is "adjective"
+
+$ vîl
+nominal :: the color yellow
+;  vîlathazâlos Rorb veshosot Wahazûr ::
+;  color-yellow.APPLIC.ActPart.FIN.3si Sun face.3si.ACC Mars.GEN
+;  The Sun colors the face of Mars yellow.
+
+$ vîlid
+adjective :: yellow
+
+$ vîlidaz
+nominal `<==` passive participial :: a yellow thing
+;  the-color-yellow.adjective.ActiveParticiple
+;  vîlidâlen :: I am yellow.
+
+$ -ax
+verbal suffix :: passive participial marker
+;  conveys passive voice when necessary
+;  sometimes conveys little more than perfective aspect
+;  hûdhax 
+;  to-shit.PASSPART :: a turd
+;  hûdhaxemp :: to-shit.PPART.unspec :: a turd that belongs to no one; an unconfessed or unpossessed turd
+;  thiktaxâlos tumpash veshem :: 
+;  touch.PASSPART.FIN.3si air.ABL face.1s.NOM
+;  My face is touched by the atmosphere/wind.
+
+$ tesk
+verbal root :: cause, causate
+;  valency :: transitive :: Subject (nom) verbs Object (acc)
+;  see [[-esk]]
+
+$ -esk
+verbal suffix :: causative suffix
+;  rê mûmbeskâlen tepsot ::
+;  FUTURE corpse.CAUS.FIN.1s 2s.ACC
+;  I will kill you.
+
+$ mûmb
+nominal :: corpse; carrion
+
+$ rê
+tense marker particle :: future tense particle
+
+$ vê
+tense marking particle :: past temse marker/particle
+
+$ hûdh
+verbal root :: to shit
+;  valency :: intransitive :: Subject (nom) vb.
+;  valency :: transitive :: Subject (nom) vb. Object (acc) (thing shat out)
+
+$ kwîz :: verbal root :: to piss
+;
+
+$ kwîzax
+nominal :: piss
+;  valency :: intransitive :: S (nom) vb.
+;  valency :: transitive :: S (nom = the pisser) vb O (acc = what's pissed out)
+
+$ foifir
+nominal :: cocaine
+
+$ zîl
+nominal :: opium
+
+$ jûk
+verbal root :: enjoy
+;  valency :: transitive :: S (nom = Agent) vb. O (acc = Object)
+;  jûkâleth foifirot :: He enjoys cocaine/he injects cocaine.
+
+$  hemp
+pronoun :: the unspecified or unspec personal pronoun
+;  often, in possessor suffix form, denotes that the speaker doesn't know to whom a thing belongs
+;  hûdhaxemp :: to-shit.PPART.unspec :: a turd that belongs to no one; an unconfessed or unpossessed turd
+
+$ -emp
+verbal subject ending :: unspecified subject
+
+$ -emp
+nominal possessor suffix :: unspecified possessor
+
+$ thikt
+verbal root :: touch
+;  valency :: transitive :: Subject (nom = toucher) verbs Object (acc = the touched thing)
+;  thiktaxâlos tumpast veshem :: 
+;  touch.PASSPART.FIN.3si air.ABL face.1s.NOM
+;  My face is touched by the atmosphere/wind.
+
+
+$ dreg
+verbal root :: give
+;  valency :: ditransitive
+;  	Subject (Agent) (nominal) verbs Object (Theme or thing given) (Accusative) Recipient (dative) 
+;  Example:
+;  	dregazâleth Tef yurenot Klîzînôdh
+;  	give.ACT.FIN.3ss Tef money.pl.ACC the-Church.DAT
+
+
+$ dregax
+nominal, adject :: a gift
+
+$ 2 tôth
+adjective :: collective; pertaining to all of a thing, to a large group of
+; see {$ 1 tôth}[1 tôth]
+
+$ 1 tôth
+nominal ::  a collective; all of a thing; a large number or quantity of smthg
+;  counter noun similar to En. _head_ as in "head of cattle"
+;  a collective is usually one of two things:
+;     1. all the individuals of a type
+;        hominôth Skârid :: the human.collective of Yrth; the homin population of Yrth
+;     2. a typical large number of a type (the collective as orginizing principle)
+;        korithôthen vipâlosen skrabenir ::
+;        horse.collective.pl fast.FIN.3si xeric-waste.pl.PERL
+;        Herds of horses speed across the xeric wastelands.
+
+$ bark
+nominal :: a gun of the slug-throwing variety
+
+$ barkath
+verbal root :: to shoot with a gun
+;  valency :: transitive :: S (nom = shooter) vb. O (acc = what gets shot)
+;  vê barkathâlen vêgorot kensos mûmbeskâlos kenetemot wel ::
+;  PAST gun.APPLIC.FIN.1s wolf.ACC REL.3si corpse.CAUS.FIN.3si dog.1s.ACC ENDREL
+;  I shot the wolf that killed my dog.
+
+$ kaf
+verbal root :: go, travel (to)
+;  valency :: S (nom = traveler) vb 
+;  valency :: S (nom = traveler) v. O (acc = destination)
+;  kafâlen borgov mûmbid ::
+;  	go.FIN.1s city.ALL corpse.ADJ
+;  	I go to the dead city/to Dead City.
+;  also this: kafâlen borgot mûmbid
+;  	here borgot is in the Accusative
+
+$ kafax
+nominal `<==` passive participial :: destination
+
+$ rûth
+adjective :: pertaining to the Way of Peach-Health-Reason 
+
+$ rûthis
+abstract nominal :: Way of Peace-Health-Reason
+
+$ io
+vocative particle
+
+$ Târ
+honorific :: low to high honorific, Lord/Lady
+
+$ jed
+adverb :: already	forces perfect(ive) aspect
+
+$ vesh
+nominal :: face
+
+$ thesh
+nominal :: the wind	cf. tump :: atmosphere
+
+$ tump
+nominal :: class M atmosphere, air
+
+$ Rorb
+nominal :: Sol, the Sun
+
+$ -thor
+conjunction :: and
+;  noun-phrase level conjunction
+;  does not join verbs because verbs are complete sentences.
+;  the conjunction _shid_ meaning "and" joins verbs
+;  î tot Vovem Voveps-thor 
+;  	BE one.NOM God.1s God.2s-and
+;  	My God and your god are one.
+
+$ -sest
+conjunction :: but
+;  noun-phrase level conjunction
+;  does not join verbs because verbs are complete sentences.
+;  the conjunction _shid_ meaning "and" joins verbs
+;  
+;  DELETE ya know, -sest might be unnecessary DELETE
+
+$ skrab
+nominal :: xeric wasteland
+
+$ stab
+verbal root :: stand `==>` live, dwell
+;  valency :: S (nom) v.
+
+$ tûth
+nominal :: reason, cause
+
+$ -ûth :: for reason, for cause	combinative form of tûth
+;  Examples and usage:
+;  lûth :: interrogative adverb :: for what reason, why?
+;  tikûth :: for this reason (usually followed by /am/)
+;  vê barkathâlen vêgorot tikûth am rûthisôdh
+;  	PAST gun.APPLIC.FIN.1s wolf.ACC this.for;reason APPOS peacefulness.abstractNominalizer.DAT
+;  ;  I shot the wolf for the sake of peace.
+
+$ am
+particle :: appositive particle 
+
+$ vip
+adjective :: fast
+
+$ vip
+verbal root :: to be/go fast
+;  valency :: intransitive :: S (nom = the fast thing)
+
+$ vipaz
+nominal :: a fast thing
+
+$ korith
+nominal :: horse
+
+$ bor
+adverb :: not
+
+$ boro-
+prefix :: polar opposite (like un-)
+
+$ bo-
+prefix :: non-polar opposite (like non-)
+
+$ ven
+nominal :: friend 
+
+$ Ven
+honorific :: equal to equal honorific	Friend
+
+$ spel
+verbal root :: speak, say, tell
+;  valency :: S (nom = speaker) vb. O (acc = what's spoken) Interlocutor (dat)
+
+$ spelax
+nominal :: utterance, word, speech
+
+$ jagar
+nominal :: word
+;  Jagarôth :: nominal :: word.collective = lexicon
+
+$ Jagarôth
+nominal :: word.collective = lexicon
+;  a language of the Low-Canals Region of Mars
+
+$ borg :: nominal :: city, town
+;  borgîz mûmbid stabâlethen hominen gôg shid spelâlethen Jagarôthîm ::
+;  	city.LOC corpse.ADJ stand.FIN.3plSapient human.pl
+;  	gôg :: adjective :: few
+
+$ gôg
+adjective :: few
+
+$ shid
+conjunction :: and
+;  joins verbs
+;  -thor joins everything else, but /shid/ joins verbs
+;  shelelâlen shid shelelâleps ::
+
+$ gash
+conjunction :: but
+;  joins verbs
+;  
+;  -sest does not exist
+;  gash is the only word for _but_
+
+$ hûn
+modal :: modal of MORAL OBLIGATION	must
+
+$ tên
+modal :: DESIRE modal	want
+
+$ fîn
+modal :: INTENTION modal	"finna" 
+
+$ kîn
+modal :: COUNSEL modal	should
+
+$ gûn
+modal :: HOPE modal	hope
+
+$ thîn
+modal :: HYPOTHETICAL modal
+;  jûjor thîn jûkâleps gaktâr-meg
+;  QUESTION HYPOTHETICAL enjoy.FIN.2s enjoy.INFIN-1s.COM
+;  Would you like to dance with me?
+
+$ klîn
+modal :: TRY modal
+
+$ son
+modal: can; the ABILITY or CAPABILITY modal
+
+$ gakt
+verbal root :: dance
+;  valency :: S. (nom=dancer) vb. O (acc=the dance)
+;  jûjor thîn jûkâleps gaktâr-meg ??
+;  Would you like to dance with me?
+
+$ koikask
+nominal :: the Martian canal junque
+
+$ jizix
+;  nominal :: methamphetamine
+
+$ hâhên
+nominal :: rain
+
+$ hâhên
+verbal root :: rain falls
+;  valency :: S (null subject /teb/`/`/-eb/, Nominative case) vb.
+;  hâhênâleb :: finite verb w/ null subject :: rain falls
+
+$ teb
+pronoun :: the null subject
+
+$ -eb
+verbal subject marker, nominal possessor marker :: null subject 
+
+$ -âr
+verbal root suffix :: Infinitive (INFIN)
+
+$ klal
+verbal root :: love, experience pleasant feelings of familiarity towards
+;  valency :: S (nom=experiencer) vb. O (perceived focus of emotion)
+
+$ morb
+verbal root :: hope, experience pleasant feelings of expectation towards
+;  valency :: S (nom=experiencer) vb. O (perceived focus of emotion)
+
+$ kodos
+verbal root :: to have faith in, experience pleasant feelings of trust towards
+;  valency :: S (nom=experiencer) vb. O (perceived focus of emotion)
+
+$ tsâl
+verbal root :: to fear, experience unpleasant feelings of dread/horror/terror/apprehension towards
+
+$ Klîzîn
+nominal :: the Church
+
+$ faur :: verbal root :: construct
+;  valency :: S (nom=agent) vb. O (acc=what's being constructed	 the construction)
+
+$ faurax
+nominal `<==` passive participial :: a construction	a building	 an edifice
+
+$ fauraz
+nominal `<==` active participial :: a builder, a tektôn
+
+$ târth
+nominal :: method, manner, way
+
+$ -ârth
+adverb morpheme <== târth :: by method, manner, way
+;  lârth :: adverb :: by what method, manner, way	 how?
+;  tikârth (am) :: adverb :: by this method (namely...)
+
+$ tûth
+nominal :: reason, cause, justification
+
+$ -ûth
+adverb morpheme <== tûth :: for reason
+;  lûth :: adverb :: why
+;  tikûth (am) :: adverb `<==` tik + -ûth :: for this reason (namely...)
+
+$ tûn
+nominal :: 3rd person singular obviative pronoun	person, somebody
+
+$ -ûn :: pronoun morpheme :: person
+;  lûn :: interrogative pronoun 3rd singular sapient :: who?
+;  lûnen :: interrogative pronoun 3rd singular insapient :: who? 
+;  used if the speaker knows beforehand that the answer will be plural
+;    lûn can always be used and can be answered in the plural
+;  tikûn :: this person
+;  takûn :: that person
+;  tokûn :: that distant person	 that stranger
+;  tekûn :: that person you are talking about
+
+$ hôken
+nominal :: smoke (from fire)
+
+$ jothor
+nominal :: fire
+
+$ tik
+demonstrative :: this (near speaker)
+
+$ tak
+demonstrative :: that (near interlocutor)
+
+$ tok
+demonstrative :: that yonder (distant from both speaker and interlocutor)
+
+$ tek
+demonstrative (kinda) :: the gist of your interlocutor's argument	what your inerlocutor is taling about
+
+$ thren
+nominal :: a bosom friend
+
+$ thren
+honorific :: a bosom friend
+;   used between equals
+
+
+$ lak
+nominal :: a social inferior
+
+$ Lak
+honorific :: the superior-to-inferior honorific
+
+$ môn
+nominal :: a person of high social prestige
+
+$ Môn
+honorific :: the honorific a highborn uses for another highborn
+
+
+$ Jagarôthkin
+nominal :: a speaker of Jagarôth
+
+$ kin
+nominal :: a person who is a specimen of a certain type
+; used in compound nouns 
+;    Jagarôthkin
+;        a Jagarôth person, a person who speaks Jagarôth
+;    Skârkin
+;        an inhabitant of the planet Skâr
+
+
+$ lîp
+nominal :: a page or a document
+;  lîpôth :: a book in codex form	a page-hoard
+
+
+$ lîpôth
+nominal :: page.multitude	a book
+
+$ shakis
+nominal :: a stellar system
+;  Rorb-Shakis :: The Sol System
+
+$ Rorb-Shakis
+nominal :: the Sol System
+
+$ nom
+nominal :: a thing, an ens
+
+$ tain
+nominal :: a complex device, usually electronic or electrical
+;  speltain :: a talk-device; telephone
+
+$ speltain
+nominal :: talk.device == phone
+
+$ welk
+nominal :: planet
+
+$ kel
+nominal :: a star
+
+$ turn
+nominal :: a condition, state
+;  \-urn :: compound form
+;  lurn :: what state? 
+;     lurnîz stabâleps ??
+;     What state are you in?
+;     How are you?
+
+$ -urn
+nominal :: compounding form of _turn_
+
+$ lurn
+nominal :: what state? \<== l- + \-urn
+;  lurnîz :: in what state?
+;  lurnîz stabâleps?? What state are you in? How are you?
+
+$ tsîts
+nominal :: a fly (insect) 
+;  anomalous noun because cluster at start and end
+;  or maybe ts is regarded as a single phoneme
+
+$ topap
+nominal :: potato
+
+$ kokon
+nominal :: corn
+
+$ neben
+nominal :: a bean
+
+$ hûlur
+nominal :: a cat
+
+$ bûbur
+nominal :: mouth
+
+$ veken
+verbal root :: to begin
+;  valency :: Subject (nominative) v. Object (accusative)
+;  takûb kikvekenâleth Tef Kazot ::
+;     at-that.time strike.begin.FIN.3ss Tef.NOM Kaz.ACC
+;     Then Tef began striking Kaz.
+;  takûb vekenâleth Tef kikârot Kazir ::
+;     then begin.FIN.3ss Tef.NOM hit.INFIN.ACC Kaz.PERL
+;     Then Tef began hitting Kaz.
+;     NOTE :: Kaz (object of infinitive kikârot) is demoted to the perlative 
+;            because the infinitive is already in the accusative
+
+
+
+$ bal
+nominal :: a god
+;  velem velembalôdh !!
+;  Blood for the Blood-God!!
+
+$ velem
+nominal :: blood
+;  velem velembalôdh !!
+;  Blood for the Blood-God!!
+
+$ gorg
+nominal :: skull
+;  gorgen gorgzakarôdh
+;  Skulls for the Skull-Throne
+
+$ zakar
+nominal :: throne
+;  gorgen gorgzakarôdh
+;  Skulls for the Skull-Throne
+
+$ bôg
+nominal :: ghost, spirit
+
+$ bos
+nominal :: positional noun - BEHIND; the location BEHIND smthg
+
+$ feletain
+nominal :: the royal court of a Martian city-state
+
+$ flet
+adverb :: still, ongoingly; forces progressive aspect
+;  flet sôn gaktâlen :: STILL CAN dance.FIN.1s
+
+$ foifir
+nominal :: cocaine
+
+$ gîm
+adverb :: Sp. mucho, a lot; very
+;  î shîdh gîm tan tak ::
+;  BE pale mucho fellow that
+;  That fellow is very pale.
+
+$ shîdh
+adjective :: pale, pallid, pasty-white
+
+$ gorm
+verbal root :: choose, pick, select
+;  valency :: Subject (nom) v. Object (acc) \[ optional: Source (Ablative) \]
+
+$ gûbur
+nominal :: person of low estate
+
+$ hâhâm
+nominal :: mother
+
+$ hogâsh
+nominal :: house, home, domicile
+
+$ heretom
+adjective :: loud
+
+$ î
+anomalous verb :: asserts existence; like Sp. _hay_
+;  îbor :: anomalous verb :: is not
+;  îax :: anomalous verb :: has been; is no more
+
+$ îbor
+anomalous verb :: is not
+
+$ îax
+anomalous verb :: has been; is not more
+
+$ shelel
+adjective :: okay
+;  shelelâlen shelelâleps-thor ::
+;  I'm okay and you're okay.
+
+$ shelelesk
+verbal root :: okay.causative :: repair, fix; to make (smthg) okay
+;  valency: Subject (nom) v. Object (accusative==thing made okay)
+;  tainot jed sheleleskâlen
+;  complex-device.ACC already okay.CAUS.FIN.1s
+;  I already fixed the device.
+
+$ shir
+nominal :: collective
+;  counter noun similar to En. _head_ as in "head of cattle"
+;  a collective is one of three things:
+;     all the individuals of a type
+;        hominshir Skârid :: the human.collective of Yrth
+;     a great number of a type
+;        
+;     a typical large number of a type (the collective as orginizing principle)
+;        korithshiren vipâlosen skrabenir ::
+;        horse.collectives.pl fast.FIN.3si xeric-waste.pl.PERL
+;        Herds of horses speed across the xeric wastelands.
+
+$ shis
+nominal :: snow
+;  shisâleb tikûb
+;  snow.FIN.null this.time
+;  At this time snow falls.
+
+$ zipûb
+adverb :: zip + -ûb == at-zero-time, never
+
+$ tikûb
+adverb :: at-this.time, now
+
+$ takûb
+adverb :: at-that.time, then
+
+$ tokûb
+adverb :: at-that-distant.time; long ago or in the far future
+;  vê tokûb stabâleth Târmebel...
+;  PAST that-distant.time stand/dwell.FIN.3ss Lord/Lady.girl...
+;  Once upon a time there lived a princess...
+
+$ tûb
+nominal :: an instance, an instant in time; moment; occasion
+;  lûb /when?/; tikûb /now/; takûb /then/; kekûb /at another time, otherwhen/; etc 
+;     takûb;
+;         tak + -ûb ::: at that time/point/moment/occasion
+;         tên kafâlen zipûb Skârov.
+;         desire-modal go.fin.1s zero.instance Terra.all
+;         I want never to go to Terra.
+;   compound form: {$ -ub}[-ub]
+
+$ -ub
+; nominal compounding morpheme :: 
+
+$ nûn
+nominal :: positional noun :: UP, the location ABOVE (smthg)
+;  nûnîz tethid warpâlos wewet ::
+;  ABOVE.LOC 3ss.ADJ fly.FIN.3si bird
+;  Above him flies a bird.
+
+$ vorôn
+nominal :: a bear
+
+$ 2 Vov
+nominal :: a God
+;  from {$ 1 vov}[1 vov] :: positional noun, the RIGHT of a thing
+
+$ 1 vov
+nominal :: location to the RIGHT of (smthg); positional noun
+
+$ wagum
+nominal :: opium or laudanum
+;  both forms of opium, solid and tincture, are expressed by _wagum_
+
+$ Wahaz
+nominal :: Jagarôth name for the planet Mars
+
+$ Marish
+nominal :: Jagarôth name for the planet Venus
+
+$ Skâr
+nominal :: Jagarôth name for the planet Yrth
+
+$ warp
+verbal root :: to fly
+;  valency :: Subject (nom==the flyer) v. 
+;  warpâlos nûnîz wewetôth tumpir
+;  UP.LOC fly.FIN.3si bird.horde atmosphere.PERL
+;  Above flies a flock of birds through the air.
+
+$ wavûm
+nominal :: night, nighttime
+
+$ wey
+verbal root :: eat
+;  valency :: transitive :: Subj. (nom==the eater) v. Obj. (ACC==the eaten)
+
+$ weyax
+nominal (passive participle) :: something eaten, smthg to eat; food
+
+$ weyum
+nominal :: a morsel, an ort
+;  from wey _eat_ + -um (from nom :: noun :: thing, ens)
+
+$ with
+nominal :: a galla like the ancestral priestesses of Ishtar, Inana, Astarte, Kypros
+
+$ wlap
+nominal :: pig, hog
+
+$ wrak
+verbal root :: to destroy
+; valency :: transitive :: S. (nom) v. O. (acc)
+;  wrakâlen tepsot !!
+;  I (will) destroy you!!
+;  wrakaxâlemen memôth virdast ::
+;  destroy.PASS.FIN.1p first-person-singular.collective time.ABL
+;  the first-person-singular.collective is an interesting idea
+;  The idea of regarding every one else as another I, another me,
+;  and most of all not forgetting the shoulds and shouldn'ts, musts 
+;  and mustn'ts which are implicated by that idea and upon 
+;  which implications of shoulds and shouldn'ts, musts and mustn'ts, 
+;  all persons of good will, skillful means and elegant 
+;  ideas/ideals are in agreement that we should abide by them.
+;  We should act as if everyone were another I.
+;  Hot fucking shit it's the Golden Rule.
+
+$ vird
+nominal :: time
+
+$ yâhor
+nominal :: war (polar opposote of rûthis)
+
+$ maimis
+nominal :: insanity
+
+$ maimid
+adjective :: insane
+;  from _maim_ archaic adjective "insane" 
+;  {$ maimis}[maimis] also comes from archaic *maim*
+
+$ yerth
+nominal :: the color green
+
+$ yur
+nominal :: money; a piece of money; a coin
+;  dregâleth Kaz yurethen Klîzînôdh ::
+;  give.FIN.3ss Kaz.NOM money.3ss.pl church.DAT
+;  Kaz gives his money to the Church.
+
+$ zîl
+nominal :: an illicit Martian drug
+;  more dangerous than heroin or cocaine or meth
+
+$ tometop
+nominal :: tomato
+
+$ Kahab
+nominal :: Phobos
+;  proper name
+
+$ Tos
+nominal :: Deimos
+;  proper name
+
+
+

@@ -1,0 +1,30 @@
+                        
+@document.meta
+title: Conlang Master Document
+description: Final consolidated reference for Jagarôth
+authors: owner
+categories: conlang
+created: 2026-05-19
+version: 1.0.0
+@end
+
+* JAGARÔTH
+** Phonology & Orthography
+  - {/ inventory.norg}[Phoneme Inventory]
+  - {/ phonotactics.norg}[Syllable Structure and Phonotactics]
+
+** Grammar & Syntax
+  - {/ nouns.norg}[Noun Morphology (Cases & Plurals)]
+  - {/ adjectives-adverbs-etc.norg}[Adjectives, Adverbs, Numbers]
+  - {/ verbs.norg}[Verb Paradigms (Tenses & Aspects & Modals)]
+  - {/ syntax.norg}[Word Order & Sentence Structure]
+  - {/ sentences.norg}[Illustrative Sentences]
+
+** Lexicon
+   - {/ dictionary.norg}[Dictionary & Roots]
+
+* Scratch
+  - {/ scratch.norg}[Scratch Page]
+
+* Other notes
+  - {:$notes/index:}[index]

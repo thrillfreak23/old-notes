@@ -1,0 +1,46 @@
+Jagarôth Syntax
+{:index:}
+
+* Word Order
+** VSO
+*** VSO is the default word order.
+**** barkathâleth vâv tanot bororûthot
+     - gun.APPLIC.FIN.3sgSap woman.NOM fellow.ACC un.peaceful.ACC
+     - The woman shot the unpeaceful fellow.
+*** VSO is preferred in everyday speech, except sometimes for effect.
+**** î tan bororûth kentethot vâv barkathâleth wel ::
+     - BE fellow un.peaceful REL.3sgSap.ACC woman.NOM gun.APPLIC.FIN.3sgSap ENDREL
+     - It's the unpeaceful fellow that the woman shot.
+     - The fellow is emphasized; the verb /barkathâleth/ /shot/ is also emphasized.
+**** tanot bororûthot vâv barkathâleth ::
+     - Again the the object /tanot/ is emphasized, and the verb /barkathâleth/.
+*** High register speech more often varies the word order for effect.
+*** Pragmatically, word order is free.
+** Head Marking
+   - Jagarôth is more head-marking than English.
+*** Verbs mark the SUBJECT 
+**** the SUBJECT encodes the following information:
+***** person (1st, 2nd, 3rd)
+***** number (singular unmarked for number; plural marked with -en)
+***** gender (for 3rd person singular)
+****** teth :: 3rd singular /sapient/
+       - plural: tethen
+       - agglutinating forms: -eth, ethen 
+****** sos :: 3rd singular /insapient/
+       - plural: sosen
+       - agglutinating forms: -os, osen 
+*** Nouns mark the POSSESSOR
+    - usually? or always?
+    - verbs now /always/ mark the nominal subject
+*** Adjectives mark according to the following rules:   
+**** Adjectives marked with -id 
+     - do NOT commonly also mark for case
+**** Native adjectives (not marked with -id)
+     - commonly DO mark for case
+*** Adverbs mark for nothing but ADVERB-NESS
+*** Modifiers FOLLOW what they modify
+* Relative clauses
+  - ken...wel
+* Subordinate clauses
+  - -then marks first words of subordinate clauses
+  - -then also is used to report indirect speech

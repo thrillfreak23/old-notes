@@ -1,0 +1,25 @@
+Jagarôth Nouns /alias/ Nominals
+{:index:}
+
+* Nominals
+  Jagarôth makes extensive use of nouns cases. 
+
+
+@table
+TABLE 1. NOMINAL CASE ENDINGS
+|--------------|----------|---------|
+| Case         | Singular | Plural  |
+|--------------|----------|---------|
+| Nominative   | -0       | -en     |
+| Accusative   | -ot      | -enot   |
+| Dative       | -ôdh     | -enôdh  |
+| Genitive     | -ûr      | -enûr   |
+| Ablative     | -ast     | -enast  |
+| Allative     | -ov      | -enov   |
+| Locative     | -îz      | -eniz   |
+| Instrumental | -enth    | -enenth |
+| Comitative   | -eg      | -eneg   |
+| Caritive     | -ej      | -enej   |
+| Partitive    | -ir      | -enir   |
+|--------------|----------|---------|
+@end
