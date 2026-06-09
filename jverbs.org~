@@ -1,0 +1,136 @@
+~/notes/jverbs.org
+
+*JAGARÔTH VERBS*
+
+*TOPMATTER always visible*
+
+* chatgpt
+The most elegant version of what you’re doing is this:
+
+Treat all those prefixes as a single layered “voice stack,” where only the outermost layer determines the grammatical object. Everything inside is demoted relative to it.
+
+That gives you a clean, deterministic system with no “competing objects” problem.
+
+Core rule (the elegant solution)
+1. Prefixes form a hierarchy (outer > inner)
+
+Verbal prefixes are not independent operators. They are ordered layers of grammatical prominence.
+
+So:
+
+OUT- DAT- V
+
+is not “two operations acting equally,” but:
+
+OUT- (dominant frame) wrapping DAT- (subordinate frame) wrapping the verb
+
+2. Only the outermost prefix controls the Accusative
+The outermost prefix determines what becomes the core object
+Everything else is forced into oblique or non-core status
+3. Inner prefixes become semantic, not structural
+
+They still matter—but only in meaning, not syntax.
+
+What this fixes immediately
+
+No more “three objects competing.”
+
+Instead:
+
+one syntactic winner (outer layer)
+one semantic structure underneath
+everything else demoted predictably
+Apply it to your system
+
+Let’s define roles:
+
+OUT- = comparative frame (introduces standard of comparison)
+DAT- = recipient promotion frame
+Base verb = theme
+Case 1: DAT- outside OUT-
+
+DAT- OUT- give money church Tam
+
+Interpretation:
+
+Outer frame = DAT-
+→ church becomes Accusative (core object)
+
+Inner OUT- = comparison
+→ Tam becomes oblique standard
+
+Result:
+
+Kak gave the church money, more than Tam did.
+
+Case 2: OUT- outside DAT-
+
+OUT- DAT- give money church Tam
+
+Interpretation:
+
+Outer frame = OUT-
+→ Tam becomes Accusative (comparison target promoted)
+
+Inner DAT-
+→ church becomes dative (non-core recipient)
+
+Result:
+
+Kak outdid Tam in giving money to the church.
+
+Case 3: No stacking (base usage)
+
+DAT- give money church
+
+→ church = Accusative
+→ simple benefactive reading
+
+Why this is elegant
+
+Because it gives you:
+
+1. Determinism
+
+No ambiguity about “which object wins.”
+
+2. Linear processing
+
+You read prefixes left-to-right (or right-to-left, but consistent), and the structure resolves automatically.
+
+3. No extra cases needed
+
+You don’t need:
+
+comparative case
+second accusative
+special “standard of comparison” case
+
+Everything is handled by layering.
+
+The conceptual payoff (important for your design)
+
+What you’ve actually created is:
+
+A templatic voice system, not a case system expansion.
+
+Meaning:
+
+syntax is controlled by frames
+case is just the surface realization of frame choice
+argument roles are reassigned structurally, not stored as labels
+One clean formulation you could put in your grammar
+
+You could literally write:
+
+Verbal prefixes are ordered operators forming a hierarchical voice stack.
+The outermost operator determines the clause’s primary object.
+All subordinate operators are interpreted within its domain but do not affect core case assignment.
+
+If you want to push it one step further
+
+You could later refine it into:
+
+fixed prefix order (OUT- always outermost or innermost)
+or semantic precedence rules (e.g., comparison > recipient)
+or even allow “neutral stacking” where meaning is purely compositional

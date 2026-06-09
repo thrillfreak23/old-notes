@@ -1,0 +1,259 @@
+# ~/notes/rago.org
+
+* RAGO: a minimal /lingua franca/ of the legendary future
+
+* vowels
+
+** a e i o u
+
+* consonants
+
+** p b t d k g m n ŋ l r w y h s z
+
+* potential lexicon
+haba: verb :: have
+ita: verb :: go
+iza: verb :: is, to be
+ta: conditional
+ve: optative
+o: imperative
+o ita!! go!!
+ve el ita: May he go
+proto: for during
+geba: give
+horo hour
+rago: Rago the language, to speak Rago
+ya: yes, to affirm
+si: if (technically a modal like ve and ta)
+den: then (technically a modal like ve and ta)
+tat: that
+kio: introduces yes/no questions
+seme: content question word
+chi: this
+cha: that
+-li: forms adjectives from nouns and predicants and numerals and...?
+meli: my, mine
+tuli: your, yours
+loli: his/her/its
+nosli: our, ours
+vuzuli: your, yours (pl.)
+humli: their, theirs
+wanli: first, firstly
+duli: second, secondly
+
+* Rago
+- Learn Rago.
+- High Rago for talking to inflated egos.
+- Low Rago for buying drugs and negotiating with prostitutes.
+- Speak Midlin. It's mid. (Standard Rago is called Midlin.)
+- The middle of the road no risks language.
+** Phonology
+*** Learn the alphabet.
+a b c d e f g h i j [k] l m n o p r s t u v x y z
+
+c: tʃ
+j: ʒ
+x: ʃ
+
+** Basic ideas of Rago
+*** based on predicates
+**** li: predicate marker
+**** everything after the li in a sentence is the predicate
+**** predicates are formed by li + a predicant
+**** a predicant is any content word
+*** open class modifiers go after what they modify
+**** a predicant in the modifier position becomes an adjective
+**** so does everything else
+*** closed class modifiers go before what they modify
+*** words are invariant other than a couple of suffixes like -li
+*** 2 prepositions: ana for relations that are not permanent, kata for permanent relations
+**** this is like long and blong in Tok Pisin
+*** 
+
+
+* Examples with glosses
+
+** o pana e yan. lo li Tefo. Tefo na Kako li ni yan. hum li ni yan lelaki du.
+
+  - o: imperative marker
+  - pana: verb, see; o pana, see!
+  - yan: person
+  - lo: he/she/it
+  - li: predicate marker
+  - Tefo: proper name, ergo Capitalized.
+  - na: and
+  - Kako: proper name
+  - ni yan: persons
+  - ni: plural marker
+  - hum: they/them
+  - lelaki: adjective, grown and male
+  - yan lelaki: man
+  - du: two
+
+  - li: predicate marker; separates subject from predicate
+
+** tu ia li pana e yan lelaki piki. lo pi nomen li Tefo. Tefo li luba e Ana. o pana e yan lelaki mute. lo pi nomen li Kako. Kako li luba e Ana. Tefo li luba e Ana. ni yan tu ci li luba e Ana. 
+
+- te: you
+- e: object marker
+- piki: little
+- nomen: name
+- luba: love
+- mute: big
+- tu: 2
+- ia: already
+- ci: this/these
+- ca: that/those
+- maje: more
+- min: less
+- sama: same
+- kom: as, like
+
+- e: object marker
+
+- pi: of, 's
+  - indicates possessor before (lo, in *lo pi nomen*)
+  - indicates possessed after (nomen, in *lo pi nomen*)
+  - the possessor is never an argument of the sentence
+  - the possessed is always an argument of the sentence
+
+Personal Pronouns
+|------+-----------|
+| me   | I/me      |
+| tu   | thou/thee |
+| lo   | he/she/it |
+| nos  | we/us     |
+| vuzu | you/ye    |
+| hum  | they      |
+|------+-----------|
+
+** sol li lumo. luna li lumo. sol na luna li lumo ana nebo. sol na luna li ni lumo. 
+
+- sol: the sun
+- lumo: a predicant, it can mean: is bright, is a light, to be bright, bright, light, etc.
+- luna: the moon
+- na: and
+- ana: the simple preposition, means what it needs to, do you even construe, bro?
+- nebo: sky
+- en: thing, anything that exists
+
+*** quick discussion of number in rago
+- sol na luna li lumo *and* sol na luna li ni lumo -- both can be correct
+- toki pona doesn't do it
+  - toki pona does not do number
+  - and rago does
+
+|--------------------+---------------------------------+-----------------------------|
+| ni en li en        | things are a thing              | it do be that way sometimes |
+| ni en li ni en     | things are things               | of course they are          |
+| ni lumo li lumo    | bright things are bright        | can't argue with that       |
+| ni lumo li ni lumo | bright things are bright things | still true                  |
+|--------------------+---------------------------------+-----------------------------|
+- more than one possible translation
+- will still work
+
+** rago li toki. rago li toki bon. me li toki. me li toki bon. me li toki bon e rago. me li rago. me li rago bon. me li rago e rago bon!!!
+
+- rago li toki: rago is talking/words/language; rago speaks/rago makes sound; etc
+- rago li toki bon: rago is good talking; rago sounds good; etc, etc.
+- me li toki: i talk, do language
+- me li toki bon: i speak well, i do language well
+- me li rago: i speak rago
+
+- every predicant can mean several things
+- every predicant can be several parts of speech
+- rago can refer to the language or to speaking the language
+  - is there really any difference? not in rago
+
+- see [[Predicants]]
+
+lo li yan seme?
+he is person what?
+What kind of person is he?
+
+seme is in the adjectival position so it means What kind of? more or less
+
+lo li seme?
+Who is he?
+
+o geba e lalo ana me!
+Give me water?
+
+attributive position or adjectival position
+
+lo li pa mori ana vane lalo
+he dies in a watery emptiness
+he dies in a watery hole/grave/wasteland
+
+
+
+
+** Kako li luba e Ana maje: Tefo li luba e Ana min. Kako li luba e Ana maje kom Kako li luba e Ana. Kako li luba e Ana maje kom lo li luba e Tefo.
+
+- min: less
+- maje: more
+- sama: same amount
+- meze: mid, middle, in the middle
+- 
+
+* <<Predicants>>: how they work
+
+** some predicants:
+- luba
+  - luba li bon: luba = noun
+  - me li luba: luba = verb
+- toki
+  - toki li bon: toki = noun
+  - me li toki: toki = verb
+- rago
+  - rago li bon: rago = noun
+  - me li rago: rago = verb (speak rago)
+- lumo
+  - lumo li bon: lumo = noun
+  - sol li lumo: lumo = verb or noun
+    - The sun is a light.
+    - The sun is-bright.
+- mute
+  - mute li bon: mute = noun, bigness or a big thing
+    - Big is good.  Being big is a good thing.  
+  - me li mute: mute = noun or adjective
+    - I am a big thing.
+    - I am big.
+
+- maje
+  : similarly with min and sama
+  - maje li bon: more is good
+  - mute maje li bon: bigger is good
+  - mute maje li bon maje: bigger is better
+  - en chi li mute maje kom en cha : this thing is bigger than that thing
+  - en meli li mute maje kom en tuli: my thing is bigger than your thing
+
+
+* EXAMPLES
+** lo li seme?
+*** literally: He/she/it is what/who?  Who/what is he/she/it?
+** kio tu li ana domo?
+- Are you at home?
+- ana isn't a predicant by itself, it just needs a complement like domo here to be a predicant
+- ana domo is a predicate meaning "be at home"
+
+Pabo li kanem. Pabo li nos pi kanem. Pabo li nos pi kanem bon. Pabo li kanem tat nos li luba e lo.
+Pablo is a dog.  Pablo is our dog.  Pablo is our good dog.  Pablo is the dog that we love.
+--note well: Pabo li kanem nosli.
+
+rago la, "li" li meto e chi: blah
+in the context of Rago, "li" means, amounts to, is defined as this: blah
+
+meto: predicant: amounts to, be equal or equivalent to, is defined as, to mean
+Rachel li me pi nomen.  Rachel li meto e me.  Rachel is my name. Rachel means me.
+
+tempo chi li nubeli: literally, this instance is cloudy
+meaning the conditions now are cloudy, meaning the weather
+tempo: conditions, situation, the way things are; the weather; the "climate", metaphorically
+
+* junk
+----
+not sure about tar...entar/ tat...entat/ whatever
+maybe have a beginning-of-sentence-only construction like toki pona ...la, in the context of...
+
+Freely use adjectives as verbs in an "ergative" sense, meaning the logical Object becomes the subject of the sentence, leaving the Agent unspecified (there must be an Agent, unspecified but nonetheless an Agent among the valencies inherent in the meaning of the verb; a door does not open itself, and yet doors open all the time). Assume your lucubrators are at least as intelligent as yourself, but first assume that your are not clever; having killed your darlings, go to town. Gallivant.

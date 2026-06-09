@@ -1,0 +1,79 @@
+#+title: Lhuthura Dictionary
+* Lhuthura Dictionary
+** oshen :: n :: tp: kasi, a plant, crops
+** shelhom :: n :: country, land, tp: ma
+*** shelom rod :: noun phrase :: motherland, fatherland
+** ezhad :: n :: tp: telo, water, wash, bathe, bath
+** lhuth :: n :: tp: toki, talk, speak, utter, bespeak, speech, jabber
+** ura :: adj :: tp: pona, simple, good, to better/improve
+** wewith :: n :: transgender woman, transgender man, non-binary person, trans affairs, to make (someone) transgender [Ed.: Not a thing but "they transed the frogs".]
+** ezh :: pronoun :: tp: mi, I, we, us, our
+*** more information here
+*** and a little more
+** owish :: pronoun :: tp: sina, you, your, ya'll, thou, thee, ye,
+** alel :: pronoun :: tp: ona, he, she, it, they
+** shothor :: n :: sky, cloud, weather
+** ish :: verb :: tp: jo, to have
+** dado :: v :: tp: unpa, to fuck or have other sexual relations with (someone), sexuality
+** rod :: n :: tp: mama
+*** shelom rod :: noun phrase :: motherland, fatherland
+** wom :: n :: tp: nena, mountain, bump, protuberance, promontory
+** ad :: particle :: tp: e
+** anol :: n :: tp: mije, man, boy, male
+** shani :: n :: tp: meli, woman, female
+** oba :: verb :: tp: sona, know, know how to, knowledge
+** lishin :: n :: tp: akesi, non-cute animal, lizard
+** hibethi :: n :: tp: alasa, hunt, forage, to fish
+** badeb :: n :: tp: kala, fish
+** hor :: adjective, particle :: tp: ala, nothing nothingness, not, zero, "No!"
+** ihun :: n :: tp: ilo, tool, device, machine, thing used for a specific purpose
+** with :: n :: tp: linja, long, very thin, floppy thing, e.g. string, rope, hair, thread, cord, chain
+** heb :: particle :: tp: li
+** thish :: :: tp: tan, from, because
+** thobish :: n :: tp: tenpo, time, period of time, moment, duration, situation
+** desh :: :: tp: tawa, to, for, move, go
+** rubel :: n v :: tp: olin, love, to love (someone)
+** lizhazh :: n, v, adj :: lawa, head, mind, control, lead
+** leb :: adj, n :: tp: wawa, strong, power, energy
+** domon :: adj, n, v :: awen, enduring, weight, continue
+** wawud :: :: lipu, flat object, paper, book, document, web page
+** rorozho :: :: nasin, way, manner, custom, road, path, doctrine, system, method
+** ayad :: :: nimi, word name
+** biha :: n :: tp: tomo, house, room, a boxish people container of some kind,
+** dab :: :: tp: oko, eye, to see (something)
+** ash :: interjection :: ouch!
+** methemam :: :: marijuana, weed, tree, ganja
+** bo :: n, vb, adj :: telo, water, liquid, wet, wash, beverage
+** thulhu :: :: ike, bad, complicated, evil, to make worse
+** amon :: :: jelo, yello, light green
+** shayal :: :: kama, come, become
+** shim :: :: wile (tp), want, need, desire, must
+** dhulor :: :: sinpin, front, wall, chest, face
+** leleli :: :: suwi, sweet, sweeten, sugar, cute
+** id :: :: the dative marker postpositive
+** em :: :: la, context phrase marker
+** woro :: :: lete, cold, cool, raw (of food), coldness
+** withilash :: pilin, heart physical or emotional, a feeling/lived experience/passion
+** shabadh :: :: sike, round or circular thing, ball, circle, cycle, sphere, wheel, adj - of one year
+** ahum :: :: pimeja, black
+** odhod :: :: walo, white
+** zhumadhi :: :: soweli, land animal possibly cute
+** iworin :: :: seli, fire, warmth, heat, to cook, cooking, to heat (something)
+** mamad :: :: sijelo, torso, trunk, body, physical state, health
+** oba :: :: waso, bird, winged animal
+** moth :: :: moli, dead, die, death, kill
+** lu :: ::
+** bal :: :: wan
+** nar :: :: tu
+** emer :: :: esun, market, store, to trade, a trade, an exchange of goods
+** ahash :: ::
+** mubu :: ::
+** rabeth :: ::
+** dhizhera :: ::
+** moriwi :: ::
+** liwaror :: ::
+** mothudal :: ::
+** rulemen :: ::
+** relalhal
+** dishulu ::
+** moyubed

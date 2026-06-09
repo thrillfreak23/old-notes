@@ -1,0 +1,648 @@
+* LEXICON
+
+** tik, tak, tok, and tek deictic adjectives? demonstratives? just deictics?
+*** tik :: deictic :: this (near speaker) 
+*** tak :: deictic :: that (near auditor)
+*** tok :: deictic :: that yonder (near neither speaker nor auditor) *** 
+
+*** tek :: nominal or special pronoun :: the gist of an interlocutor's argument deictic nominal 
+****  (weird and funky but I don't know what else to call it)
+***** that which one's interlocutor just said; so, the gist of your interlocutor's utterances ...
+***** ... usage :: hûdhax am tek :: 
+***** turd APPOSITIVE interlocutor's-gist :: 
+***** translation :: that shit you talked, your bullshit
+
+** shiv :: verbal :: to suffer, experience, feel
+**** a /shivum/ is some particular something that happens to you
+***** or that you suffered or experienced
+*** /tsalshivâl-/ :: verbal :: to experience fear, to be afraid
+
+** tsal :: nominal :: fear *** fear, like all emotions, is a thing, hence is a nominal 
+*** tsalithâl- :: verbal :: to make afraid, frighten
+
+** krech :: verbal :: grab, seize, take *** equiv. to /hendaptâl-/ ::
+   have-hold-of.incho.fin.- :: take in the hand, grab, snatch (if done quickly)
+
+** wey :: verbal :: eat *** weyax :: passive participle :: a thing that's been
+   eaten, my last meal, whatever it was **** /weyax/ is something that's
+   already been eaten. the food can't still be sitting there, logically...
+***** ...if it's described by the perfective aspect. so if the morsel or bite
+      is on the fork it's not a /weyax/... ***** ...instead a bite of food not
+      yet eaten (on the fork) is a /weyum/ *** /weyum/ :: eat.nominalizer =
+      food
+
+** zakar :: nominal :: throne *** velem velembalôdh, gorgen gorgzakarôdh!! ::
+*** blood blood-god-DATIVE, skulls skull-throne-DATIVE :: *** Blood for the
+    Blood God, skulls for the Skull Throne!!
+
+** tsal :: nominal :: fear *** fear, like all emotions, is a thing, hence is a
+   nominal
+
+** tik, tak, tok, and tek *** deictic adjectives? demonstratives? just
+   deictics? *** tik :: deictic :: this (near speaker) *** tak :: deictic ::
+   that (near auditor) *** tok :: deictic :: that yonder (near neither speaker
+   nor auditor) *** tek :: deictic nominal (weird and funky but I don't know
+   what else to call it) :: **** that which one's interlocutor just said; so,
+   the gist of your interlocutor's utterances **** usage :: hûdhax am tek ::
+   turd APPOSITIVE interlocutor's-gist :: ***** that shit you talked, your
+   bullshit
+
+   ** bôg :: nominal :: ghost, spirit
+
+** târ :: nominal :: lord, lady, master, mistress
+
+** velem :: nominal :: blood
+
+** vâv :: nominal :: woman
+
+** vom :: nominal :: mountain
+
+** wewet :: nominal :: bird
+
+** with :: nominal :: a tran
+
+** Obâr :: nominal :: emperor **** note :: the capitalization indicates that
+   /Obar/ is regarded as a personal name **** note :: another indication that
+   the word has a special status in the Jagarôth lexicon is how it begins with
+   a /vowel/, which is extremely rare in the J. language
+
+** thrish :: nominal :: worm
+
+** klag :: verbal :: to walk, stride, step
+
+** zag :: verbal :: to run (used of animals as well)
+
+** zhap :: verbal :: to smack, to slap; to make the sound associated with a
+   smack or a slap
+
+** krom :: verbal :: choose, pick, select
+
+** keb :: verbal :: give (smthg ACC) (to somebody or something DAT)
+
+** topap :: nominal :: potato
+
+** kokon :: nominal :: corn, maize
+
+** neben :: nominal :: bean
+
+** tometop :: nominal :: tomato
+
+** zip :: numeral :: zero
+
+** tot :: numeral :: one
+
+** sad :: numeral :: two
+
+** fat :: numeral :: three
+
+
+** fûm :: numeral :: four
+
+** kint :: numeral :: five *** was formerly /kest/
+
+** kor :: numeral :: six
+
+** jeb :: numeral :: seven *** was /jeps/ *** in base6 /jeb/ not used
+
+** pith :: numeral :: eight *** in base6 /pith/ not used
+
+** shex :: numeral :: nine *** in base6 /shex/ not used
+
+** hâpep :: numeral :: ten *** in base6 /hâpep/ not used
+
+** hâded :: numeral :: 100 *** in base6 /hâded/ not used
+
+** momor :: numeral :: 216 ***  -formerly it was thus ::- *** -momor :: numeral
+   :: 1000- *** -prev was /komen/- *** -2026: /sad momor sad hâpep kor/-
+
+** tsîts :: nominal :: a fly (insect) *** This word may be non standard or may
+   not be, not sure *** or is /ts/ regarded as a single vowel???
+
+** ken-...wel :: circumposition :: parenthetical and relative clause marker
+   - example 1 :: /homin, ken-tethôdh shê spelâlen wel,/ et cetera :: the genus
+     homo specimen that I was talking to :: (literally) the human, that I was
+     speaking to him/her, et cetera --- the him/her is what's called */a
+   resumptive pronoun/* --- the resumptive pronoun is suffixed with a hyphen to
+     /ken-/ -- example 2 :: /homin, ken-teth shê î tatameth/ :: the human, who
+     was his/her father, et cetera :: the human (he was his/her father) :: the
+     human, who he was her father, 
+
+
+
+** stokor :: numeral :: 1296
+
+
+** vip :: verbal :: go fast
+
+** lel :: verbal :: write or draw something on a surface
+
+** spel :: verbal :: speak or say
+
+** kadâr :: nominal :: cloud
+
+** hûlur :: nominal :: cat
+
+** shis :: nominal :: snow *** was sis previously, then sish
+
+** kark :: verbal :: t* do hard work, labor, slave
+
+** kel :: nominal :: a star, a distant sun
+
+** wrak :: verbal :: to destroy
+
+** skîn :: nominal :: pain, feeling of pain or discomfort *** feelings are
+   nominals because they are things, they are experiences with a name *** note:
+   previously skîn was a verbal and skînum a nominal meaning a pain
+
+** kaf :: verbal :: to go, to come; engage in motion relative to a location
+
+** rorb :: nominal :: the sun
+
+** bar :: adverbial :: not
+
+** boro- :: prefix :: makes a polar opposite *** related to /bar/ not
+
+** bo- :: prefix :: denotes a non-polar opposite *** related to /bar/ not
+
+**   mem    :: -en   :: 1s
+**   memen  :: -enen :: 1p
+**   teps   :: -eps  :: 2s
+
+
+   **   tepsen :: -epsen :: 2p
+
+
+  **   teth   :: -eth   :: 3s sapient
+
+
+  ** tethen :: -ethen :: 3p insapient
+
+
+  ** sos    :: -os    :: 3s sapient
+
+
+  ** sosen  :: -osen  :: 3p insapient
+
+
+  ** zed :: -ed :: reflexive, themself, themselves
+
+
+  ** zeden :: -eden :: reflexive, themself, themselves
+
+
+  ** hemp :: -emp :: unspecified, unspec.
+   **** no plural
+
+
+  **  totekek :: -ek :: reciprocal, one another, each other **** no plural
+ 
+** skrab :: nominal :: a xeric desert region, wasteland
+
+
+** homin :: nominal :: member of genus homo
+
+
+  ** mohî nonstandard but common and slangy variant of /homin/
+
+
+  ** homî nonstandard but common and slangy variant of /homin/
+   
+   mohî :: nominal ::nonstandard but common and slangy variant of /homin/
+   
+   homî :: nominal :: nonstandard but common and slangy variant of /homin/
+
+** skrab :: nominal :: a xeric desert region, wasteland
+
+
+
+
+** tan :: nominal :: fellow, man, dude
+** tor :: nominal :: tree
+** tort :: verbal :: to know
+   *** tortaptâl- :: verbal :: know.incho.fin.- :: be learning
+   ***** tortaptâleth gitep Inglîzikot ::
+   ***** know.incho.fin.3ss child.diminut English.adj.acc
+
+
+  ** tump :: nominal :: air, wind, class M atmosphere
+
+
+  ** lal :: nominal :: water
+
+
+  ** mâm :: adjectival :: old
+
+
+  ** mumb :: nominal :: a dead body, corpse, cadaver
+   *** refers to things composed of dead flesh
+
+
+  ** mumbith :: verbal :: to "body", kill
+   *** mumbith = mumb (dead flesh) + ith (causative suffix (cause to be/become))
+   ***** fîn mumbithâlen tsîtsot :: I kill the fly.
+
+** -um :: concretizing, nominalizing verbal suffix
+** surely there is some use for this???
+
+
+  ** see /nunum/ thing
+
+
+  ** _Examples of concretization_
+   *** /vîl/ yellow :: /vîlaz/ a yellow thing, smthg that is "yellowing"
+   *** /hûdh/ to shit :: /hûdhax/ a turd, smthing that is shat
+   *** /gakt/ to dance :: /jûk/ to enjoy :: /jûkâlen gaktâr/ :: I like to dance, I like dancing
+
+
+  ** /wey/ to eat :: /weyum/ morsel, ort, a bit of food, a bait or serving of food, a plate (of food)
+
+
+  ** /-um/ is used in /weyum/ because a morsel is a
+   sort of fragment of something larger and neither /-ax, -az/, nor /-âr/ can
+   express that :: the meaning of a /*portion*/ of something demands yet
+   another concretizing suffix, but any new one suffices because of the
+   /*lack*/ of activity in the object expressed with /-um/ 
+**** /-az/ by definition is an entire thing engaged in an active verbal action
+     and thus -az cannot express a morsel of food
+   *** /-ax/ by definition is
+     an entire thing that is being involved in a verbal activity by an agent,
+     thus not a fragment or morsel, or at least it cannot denote such an
+     object, for example, on a plate not yet in process of being eaten, thus
+     the necessity of /-um/ 
+ 
+** vîl ::  nominal :: yellow :: /vîlaz/ a yellow thing, smthg that is
+"yellowing" *** vîlik :: adjective :: yellow 
+
+** narl :: nominal :: a nycthemeron or the 24 hour plus period of rotation of Mars 
+*** by extension: 
+**** narl :: nominal :: rotational period, the length of the day of a world 
+
+** wavûm :: nominal :: night, nighttime 
+
+** nihâd :: the single Martian noonday meal or eating time 
+*** Martians typically eat once and only once per day at the noonday meal or nihâd 
+
+** kûlûd :: nominal :: flowering plant 
+
+** veken :: nominal :: tomorrow 
+
+** -îm :: adverbializing suffix :: forms adverbs 
+
+** visht :: nominal :: time, an occasion, instant, point in time 
+*** -isht :: combinatory form usually suffixed to an adjective 
+*** like /kekisht/ :: nominal :: another time, another instance; /takisht/ that time 
+**** kekishtîm :: adverb :: at another time, again 
+**** kex :: adverb :: again, a shortening of kekishtîm 
+
+** gûn :: HOPE modal :: hope 
+
+** -anth :: cessative aspect verbal suffix :: cessative aspect verbal suffix 
+
+** bal :: nominal :: a god 
+
+** bark :: nominal :: a gun *** barkurth / :: verbal :: to shoot (a
+gun or other weapon, Acc) (at a target, Dat) (with weapon, Instrumental) 
+
+** gorg :: nominal :: skull 
+*** gorgzakar the Skull Throne 
+
+** hend :: verbal :: have, possess, have a hold of/on 
+*** hendaptâl-, begin to have hold of, thus
+    take, grab, seize; equivalent to krech 
+**** hendaptâleth kegot :: he grabbed the rock
+**** have-hold-of.inch.fin.3ss stone.acc
+*** hendanthâl-, stop having hold of, let go
+   **** hendanthâleth kegot :: he let go of the rock
+
+
+
+  ** pan :: verbal :: see
+   *** the word for eye /panfar/ means seer (see-er); see -far
+
+
+
+  ** panfar :: nom :: eye
+   *** literally "see-er" /pan/ eye + /far/ agent
+*** not sure I like this, but maybe i do
+
+** far :: nominal :: agent, doer
+
+** am :: the appositive preposition
+*** previously called the appositive
+   interposition
+   *** usage example: /tek am hûdhax/, that shit you talk,
+   what-you-talk appositivePrep turd
+   *** note the parallel(s) between /am/ and
+   /ken...wel/ on the one hand, and /-thor/ and /koi/ on the other
+   *** RULE the
+   appositive preposition and therefore any appositive that it points to can
+   occur after almost any nominal in a manner quite unlike English
+
+
+  ** bûbur ::
+   nominal :: mouth
+
+
+  ** thesh :: nominal :: wind
+
+
+  ** hûdh :: verbal :: to shit
+
+  *** hûdha :: adjective :: shitty
+*** hûdhax :: passive participle => nominal
+   :: a thing that's been shat out, a turd
+
+
+  ** fon :: nominal :: light,
+   brightness
+   *** Although technically the word for photonic energy, kefet came
+   to be ...
+   *** used preferentially in the Low Canals region of Mars over the
+   older ...
+   *** word for visible light, fon. Practically, either may be used
+   ...
+   *** indifferently.
+
+
+  ** lay :: verbal :: radiate
+   *** In J. the sun, the
+   moons, the stars do not shine, they radiate.
+   *** lay can take an object,
+   namely the heat, light, or whatever that the object is radiating.
+
+
+  ** kefet
+   :: nominal :: visible spectrum light
+   *** Although technically the word for
+   photonic energy, kefet came to be used preferentially ...
+   *** in the Low
+   Canals region of Mars over the older word for visible light, fon.
+   Practically, ...
+   *** either may be used indifferently.
+
+
+  ** qîz :: verbal ::
+   to piss
+   *** formerly spelled kwîz
+
+
+  ** gûbur :: nominal :: a Sapient of low
+   estate, a disesteemed person
+
+
+  ** -îm :: adverbial suffix :: -ly
+   *** works
+   with nominals, adjectivals, etc, etc
+
+
+  ** -then :: direct speech clitic
+suffix, direct speech marker :: quotes a word, makes a word be felt as a spoken
+thing
+*** Follows the first word of the direct speech: /...spelâleth
+***
+kafâlen-then Marishôdh/ :: ..."He said "I go to Marish".
+** shelel ::
+adjectival :: okay, OK
+*** shelel :: verbal :: to be okay
+*** note ::the simple
+finite verb form of an adjectival always denotes "to be /adjectival/"
+***
+/*shelelâlen shelelâleps-koi*/ :: okay-FINITE-1s okay-FINITE-2s-AND
+** -koi ::
+clause-conjunctive clitic suffix :: sentence linking conjunction, "and"
+***
+/*shelelâlen shelelâleps-koi*/
+*** /*I'm okay and you're okay.*/
+** wâwad
+:: nominal :: egg
+** krîtin :: verbal :: to bother, annoy
+** kenet :: nominal
+:: dog
+** jizix :: nominal :: meth, amphetamine, speed
+** kîretein :: nominal
+:: eagle
+** varad :: nominal :: word
+*** varad Inglîza "eagle"-then Jagarôthîm
+î kîretein-then ::
+*** word-NOM English-ADJ "eagle"-quote COPULA
+"kîretein"-quote
+*** The English word "eagle" in Jagarôth is "kîretein".
+**
+Trelishar :: nominal, personal name :: a Jagarôth baby girl's name
+*** in the
+Jagarôth language's sphere of influence, connotes a typically and attractively
+feminine person, often bestowed on children in that hope, or maybe just because
+it sounds pretty
+** vrî- :: sub-comparative verbal prefix :: "under"-<verbal>
+*** corresponds to /skai-/ the super-comparative verbal prefix, "out"
+***
+vrî-layâlos Lûn rorbôdh :: under-radiate-FINITE-3sinsapient Moon Sun-DATIVE
+***
+"The Moon is less radiant/bright than the Sun."
+*** I don't really know what to
+call these
+*** super/sub-comparative verbal prefix, major/minor-,
+greater/lesser-
+** konokin :: nominal :: a kind of alter-human/homin
+*** found
+in small, often isolated and most often shunned communities throughout Sol
+System, often contemned by the popular imagination's malice as beings of low
+estate who merely subsist in the most undesirable locales only such as drifting
+hulks and Oort cloud rocks
+*** what are they like? Frankly, they look like
+walking corpses. They're skin is usually a dead white, save for the frequency
+of blood-red birthmarks in the kônokin genetic pool. Also they do not wear
+clothing and their faces are frozen grimaces almost entirely lacking in
+muscular mobility. They cover their faces usually with faceless masks of great
+or lesser terror, but terror. Their proportion and gait are ungainly and jerky,
+and though they are the least violent of homin breeds all other homin fear them
+as dark, uncanny entities possessed of uncouth but ultimately unknowable
+abilities and powers.
+** Sherîn :: nominal :: Martian female's name
+** stom ::
+nominal :: a short thick-trunked, bushy thorntree of Mars
+*** has black bark,
+angular dark green leaves in the Martian summer...
+*** ...twisted and angular
+branches sprouting a multitude of long reddish thorns
+** maurûn :: nominal ::
+the katabatic Martian polar gale(s)
+*** they fall from off the polar caps due
+to gravity, cold air being heavier than warm air and the polar caps being
+thick, here meaning tall
+** skêdhin :: nominal :: vampire
+** jed :: adverb ::
+already
+*** denotes completed, finished actions
+*** /jed qîzâlen/ "I already
+pissed" :: /vêpep qîzâlen jed/ "I just now pissed already"
+*** counterpart to
+/flet/ "still"
+** flet :: adverb :: still
+*** denotes uncompleted action
+**
+skrîn:: TRY modal :: try
+** wûn :: HYPOTHETICAL modal
+*** marks a verb as
+pertaining to conceived or hypothetical or hypothesized actions
+*** /wûn
+jûkâlen gaktâreps/ :: I should like you to dance
+** jûk :: verbal :: dance
+***
+see /gakt/ :: verbal :: dance
+** gakt :: verbal :: dance
+*** see /jûk/ ::
+verbal :: dance
+** kîn :: COUNSEL modal, should modal :: should, ought to
+***
+/rêpep kîn zazazâleth Marishôdh./ :: he/she ought to warp to Marish soon.
+**
+fîn :: INTENTIONALITY modal :: about to, "finna"
+*** /fîn zazazâlen Wahazôdh/
+:: I finna warp to Wahaz
+** tên :: DESIRE modal :: denotes a desire to do
+something
+*** vê tên zazazâleth Wahazôdh.
+*** in-past-time desire-modal
+warp.fin.3ss Wahaz-dat.
+*** she/he wanted to warp to Wahaz
+** bor :: adverbial
+:: not
+*** bor :: verbal, proverb :: to not do
+**** hûn borâleps!!! You
+mustn't!!!
+** gâl :: adverbial :: yes, affirmative(ly) (opposite of /bor/)
+***
+gâl :: verbal, proverb :: to do (used as proverb)
+**** hûn gâlâleps!!! :: You
+must do (it)!!!; You must!!!
+** hûn :: MORAL OBLIGATION modal :: must, denotes
+moral obligation
+*** /hûn rêpep zazazâleth Wahazôdh./ :: obligation-modal soon
+warp-fin-3ss Mars-dat :: she/he must warp to Marish.
+** vesh :: nominal :: gut,
+intestine
+*** most often used in the plural :: /veshen/ viscerals, guts
+**
+flibur :: nominal :: (a juvenile's word) penis
+** klûch :: nominal :: an eye
+*** panâlosen klûchen nunumoten :: The eyes see things
+*** was:
+*** panâlosen
+klûchen galojorot
+*** what the fuck is a galojor??
+** Kahab :: nominal, proper
+name :: Phobos
+** Tos :: nominal, proper name :: Deimos
+** koikask :: nominal
+:: a Martian canal junque
+** koikh :: nominal :: the Martian hooded robe
+***
+affected by a majority of the population
+*** can be worn by all sexes and
+genders
+** keb :: verbal :: give (smthg, acc) (to somebody, dat)
+*** kebax ::
+nominal :: gift
+** git :: nominal :: child, son, daughter, progeny, baby
+**
+zain :: nominal :: salt
+** Vasht :: nominal, proper name :: smallest of the
+nine Low-Canal towns
+** î :: anomalous inconjugable verbal :: BE, "there is",
+Sp. /hay/
+** îaz :: anomalous (mostly) inconjugable verbal :: BE-ing, "There is
+being..."
+*** see î, îax
+** îax :: anomalous (mostly)inconjugable verbal ::
+BE-perfective, "There was... "
+*** see î, îaz
+** -urth :: applicative verbal
+suffix
+*** changed from /ît/, but /ît/ didn't sound good
+*** applied directly
+to verbal root
+*** (which means it) creates a new root
+*** morbarkurthâlen
+kenetotemp maimisik ::
+*** "to destruction"-gun-applic-fin-1s dog-acc-unspec
+madness-adjective
+*** I shot the mad dog dead.
+*** lalurthazâlen kokonoten :: I
+am watering the corn.
+** ith :: causative verbal suffix
+*** applied directly to
+verbal root
+*** creates a new root
+*** lalikithâlos hâhên kegot ::
+***
+water-adjective-causative-finite-3si rain stone-accusative
+*** The rain made
+the dog wet.
+** mor :: verbal content prefix :: "to destruction", "till done,
+over with"
+*** vê morbarkurthâlen kenetotemp maimisik ::
+*** vê morbarkurthâlen
+kenetotemp maimisik ::
+*** "to destruction"-gun-applic-fin-1s dog-acc-unspec
+madness-adjective
+**** I shot dead the mad dog.
+** vê :: temporal adverb :: in
+past time
+*** /vê/ is generally omitted if at all possible ; often used once per utterance
+**** or is
+not used at all
+**** often replaced many other ways of expressing the time of
+action
+** vêpep :: temporal adverb :: a small amount of time ago, not long ago,
+a little in the past
+**** /vê + pep/ diminutive suffix
+** vêded :: temporal
+adverb :: a long time ago
+**** /vê + ded/ augmentative suffix
+** rê :: temporal
+adverb :: in future time
+** rêpep :: temporal adverb :: a small amount of time
+in the future, not long in the future, a little in the future
+**** /rê + pep/
+  diminutive suffix
+** rêded :: temporal adverb :: a long time from now
+****
+  /rê + ded/ augmentative suffix
+** -apt :: inchoative aspect verbal suffix
+**
+  -ik :: suffix :: adjectival suffix
+** -âr :: verbal suffix :: infinitive &
+  gerund verbal suffix
+** -ax :: verbal suffix :: perfective aspect marker
+****
+  by extension -ax is used as the passive marker too
+** -az :: verbal suffix ::
+  imperfective aspect marker
+**** by extension -az is used as the active marker
+too
+** nunum :: nominal :: a thing
+**** whence /-um/ nominalizing, participial
+suffix
+** thikt :: verbal :: touch
+** mem :: personal pronoun :: 1st singular
+** teps :: personal pronoun :: 2nd singular
+** teth :: personal pronoun :: 3rd
+   singular sapient
+
+
+  ** sos :: personal pronoun :: 3rd singular insapient
+   **
+   shev :: nominal :: face
+
+
+  ** keg :: nominal :: a stone
+   **** also used in the
+   sense /a brickbat/
+
+
+  ** kenet :: nominal :: dog
+   **** kenetemp :: nominal ::
+   stray dog ====
+
+

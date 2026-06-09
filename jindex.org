@@ -1,0 +1,6 @@
+# ~/notes/jindex.org
+
+[[file:~/notes/jlex.org][Jagarôth Lexicon]]
+[[file:~/notes/jtables.org][Jagarôth Tables]]
+[[file:~/notes/raggo.org][Raggo]]
+[[file:~/.emacs][.emacs]]

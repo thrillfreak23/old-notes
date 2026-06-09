@@ -1,0 +1,40 @@
+* Now is the time for all good men to come to the aid of their country.
+** no it really is.
+*** i mean it
+
+Jagarôth. A language of the Low Canal towns of Mars.
+
+vowels
+
+consonants
+
+initial clusters
+
+medial clusters
+
+final clusters
+
+* lexicon
+** kefet :: nominal :: light
+*** scientific term meaning "photonic energy"
+**** fon is the more everyday term for light
+** fon :: nominal :: light in the visible spectrum
+*** kefet is the more scientific term for light but is sometimes used in everyday speech
+** lay :: verbal :: to radiate
+** te :: preposition :: introduces a dependent clause inside a larger utteranance
+*** example :: pê spelâlet te Obar î lûth :: he said that the Emperor is good
+** bûbur :: nominal :: mouth
+** thesh :: nominal :: wind
+** hûdh :: verbal :: to shit
+*** hûdha :: adjective :: shitty
+** jed :: perfective aspectual :: denotes completed, finished actions
+*** jed kwîzalen "I already pissed"
+** -thor :: clitic :: and, the word-level conjunctive enclitic
+*** does not join clauses :: koy is the word for "and" that joins clauses
+*** -thor can join together adjectivals, nominals, verbals, etc, but to join two clauses you use koy
+
+* example sentences
+** The sun shines.
+*** kor layâlos ::
+** The sun is shining.
+*** shîm layâlos kor ::

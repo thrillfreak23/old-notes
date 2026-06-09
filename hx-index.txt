@@ -1,0 +1,3 @@
+# this file: ~/notes/hx-index
+
+~/notes/hx-text01.txt

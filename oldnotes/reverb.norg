@@ -1,0 +1,131 @@
+* REVERB
+** a redo of -Jagarôth- verbs
+** a redo of Jagaroth verbs
+
+** kaf :: vi root :: go
+** tikt :: vt root :: touch
+
+** kafal- :: finite v :: goes
+** tiktal- :: finite v :: touches
+
+  # for the purposes of this document the spelling is simplified
+* PRONOUNS and GENDER :: pronominal verbal endings
+a   |--------------+--------+--------|
+a   | 1s           | mem    | -en    |
+a   | 1p           | memen  | -enen  |
+a   | 2s           | teps   | -eps   |
+a   | 2p           | tepsen | -epsen |
+a   | 3s sapient   | teth   | -eth   |
+a   | 3p insapient | tethen | -ethen |
+a   | 3s sapient   | sos    | -os    |
+a   | 3p insapient | sosen  | -osen  |
+a   |--------------+--------+--------|
+
+* the parameters: 
+** -TENSE- there is no tense at all
+** NUMBER :: singular, plural
+** PERSON :: first, second, third
+** GENDER :: Sapient, insapient
+** VOICE :: active, passive
+** FRAME :: infinitive, finite, participle
+** ASPECT :: perfect, imperfect, inchoative, cessative
+
+
+* NUMBER :: singular, plural
+** tiktaleth tan sevinem ::
+** The man touches my face.
+** tiktalethen tanen sevinemen ::
+** The men touch our faces.
+
+* CASE
+a  |-----+------+--|
+a  | nom | -0   |  |
+a  | acc | -in  |  |
+a  | gen | -ur  |  |
+a  | dat | -ot  |  |
+  a  | abl | -ast  |  |
+a  | all | -ov  |  |
+a  | ins | -ent |  |
+a  | loc | -iz  |  |
+a  | com | -eg  |  |
+a  | car | -ej  |  |
+a  |-----+------+--|
+
+* VOICE
+** ACTIVE
+   - active voice is unmarked
+   --- tiktalen kegin :: i touch the stone
+** PASSIVE
+   - passive voice is marked by the addition of /tat/ after the finite verb marker /al/
+   --- tiktaltatos keg memast :: the stones is touched by me
+
+* PARTICIPLES
+  - do i even still have participles?
+
+    *_BREAKING CHANGE_*
+    TENSE   ASPECT VOICE
+    | simple active     | tiktalen      | I touch             |
+    | imperfect active  | tiktazalen    | I am touching       |
+    | perfect active    | tiktaxalen    | I have touched      |
+    | simple passive    | tiktaltaten   | I am touched        |
+    | imperfect passive | tiktazaltaten | I am being touched  |
+    | perfect passive   | tiktaxaltaten | I have been touched |
+
+* FRAMES
+  finite infinitive participle
+  finite /al/
+  infinitive /ar/
+  participle /azum, axum/ ????
+
+  tiktazum :: a touching thing ==> touching
+  tiktaxum :: a touched thing ==> touched
+
+
+* LEXICON
+  - {:jag-lexicon:}
+
+* yadda yadda blah
+** nonpast TENSE
+*** kafal mem borgodh :: i go to town
+*** kafal mem borgodh nodizd :: i go to town tomorrow
+*** tiktal mem kegot nodizd :: i will touch the rock tomorrow
+*** tiktal keg memot :: the rock touches me
+
+** past TENSE
+*** kafal-tat mem borgodh wodizd:: i went to town yesterday
+*** tiktal-tat borg memot wodizd:: i touched the rock
+
+** active participles
+*** kafaz :: active participle :: going
+*** i mem kafaz borgodh :: BE i going to-town
+*** kafazal mem borgodh :: go-actPrtcpl-finiteV i town-DAT
+
+    valency prefixes
+    need a matrix
+    |---------+----------+--------+--------+--------+--------+----------+------------+----------+----------|
+    | grammar | particle | 1s-1s  | 1s-1p  | 1s-2s  | 1s-2p  | 1s-3sSap | 1s-3sInsap | 1s-3sSap | 1s-3pSap |
+    |---------+----------+--------+--------+--------+--------+----------+------------+----------+----------|
+    | 1s      | ad       | adad-  | adam-  | adod-  | adom-  | adid-    | adimp-     | adim-    | adimp-   |
+    | 1p      | am       | amam-  | amad-  | amom-  | amod-  | amim-    | amimp-     | amid-    | amind-   |
+    | 2s      | od       | odam-  | odad-  | odom-  | odod-  | odim-    | odimp-     | odid-    | odind-   |
+    | 2p      | om       | omam-  | omad-  | omom-  | omod-  | omim-    | omimp-     | omid-    | omind-   |
+    | 3sSap   | id       | idam-  | idad-  | idom-  | idod-  | idim-    | idimp-     | idid-    | idind-   |
+    | 3pSap   | im       | imam-  | imad-  | imom-  | imod-  | imim-    | imimp-     | imid-    | imind-   |
+    | 3sInsap | ind      | indam- | indad- | indom- | indod- | indim-   | indimp-    | indid-   | indind-  |
+    | 3pInsap | imp      | impam- | impad- | impom- | impod- | impim-   | impimp-    | impid-   | impind-  |
+    |---------+----------+--------+--------+--------+--------+----------+------------+----------+----------|
+
+
+** nod :: nominal :: tomorrow
+** wod :: nominal :: yesterday
+** hod :: nominal :: today
+
+* this is old :: there is no tense!!!!
+** -TENSE- :: past, nonpast
+*** He goes/is going to town.
+*** /kafal tet borgot/ :: nonpast tense
+*** go-FIN 3ss town-LOC
+*** He went/was going to town.
+*** /kafaltat tet borgot/ :: past tense
+*** go-FIN-PAST 3ss city-LOC
+

@@ -1,0 +1,107 @@
+TOPMATTER
+
+# NEOJAGARÔTH
+  * Jagarôth with thematic voice system
+
+## Outer Structure summary
+  * Comparative system
+	* OUT- (exceed)
+	* UNDER- (fall short)
+  * Transfer system
+	* DAT- (recipient core)
+	* FOR- (benefactive)
+	* FROM- (source)
+  * Social/relational system
+	* WITH- (Comitative)
+	* AGAINST- (oppositional)
+	* OVER- (dominance)
+  * Cognitive/internal system
+	* IN- (internalization)
+
+## Design constraints
+  * Prefixes must belong to exactly one domain
+      * comparative
+      * transfer
+      * social
+      * cognitive
+  * Only one (1) domain may control core argument structure at a time
+  
+## fully worked sentence paradigm
+  * Neutral baseline
+  Kak.NOM give money.ACC church.DAT Tam.OBL
+  dregâl Kak yurot kirkôdh Tamist
+  Kak gives money to the church, Tam is just there.
+  ==> comparison implied pragmatically
+  
+  * WITH- frame 
+	- (comitative voice) 
+	- (co-participant emphasis)
+	
+	Kak WITH-give money.ACC church.DAT Tam.OBL
+	weg-dregâl Kak yurot kirkôð Tamaþ
+	
+	WHY? WHY isn't TAM promoted to ACC?
+	
+	Kak WITH-give Tam.ACC kirk.DAT money.OBL
+	
+		* FOR- frame
+		- benefactive focus
+		- 
+		
+# case assignment tables
+## BASE VERB: GIVE
+|--------------------|--------------|
+| Role               | Default case |
+|--------------------|--------------|
+| Subject            | Nom          |
+| Theme (money)      | Acc          |
+| Recipient (church) | Dat          |
+| Comparison (Tam)   | Oblique      |
+|--------------------|--------------|
+- dregâl Kak yurot kirkôð Tamant
+- give.FINV Kak money.ACC church.DAT Tam.PERL
+- gloss
+  - -ant: Perlative (PERL) Case Ending
+
+
+
+## A. OUT-/UNDER FRAME
+|------------------|-------------------------------------------|
+| Role             | Case                                      |
+|------------------|-------------------------------------------|
+| Subject          | Nom                                       |
+| Theme (money)    | Acc                                       |
+| Recipient        | Dat                                       |
+| Comparison (Tam) | Oblique (Comparative case/Lative case) |
+|------------------|-------------------------------------------|
+
+- skaydregal Kak yuron kirkod Tamir
+- 
+
+## OUT-COMP (promotion)
+| Role             | Case    |
+|------------------|---------|
+| Subject          | Nom     |
+| Comparison (Tam) | Acc     |
+| Theme (money)    | Oblique |
+| Recipient        | Dat     |
+|------------------|---------|
+- skâður-dregâl Ka Tamot yurant kirkôð
+
+## DAT- FRAME
+subject (Kak): nom
+beneficiary (church): Acc or Dat (language choice): acc: -on
+theme (money): obl: -oth
+comparison (Tam): lat: -ir
+
+Kak fordregal Kirkon yurenoth Tamir
+### neojagarôth case endings
+- Core
+    - nom: -0
+    - acc: -on
+    - dat: -od
+    - obl: -oth
+    - lat: -ir
+- Distal
+	- gen: ur
+	- more?

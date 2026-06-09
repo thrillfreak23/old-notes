@@ -1,0 +1,30 @@
+* DONE ( ) obsolete, move, get rid of this line suffixed to l-
+** correlative nominal suffixed morphemes (e.g., /-om/) are suffixed to l-
+** and the case endings (e.g., /-enth/  when; lûn /who/; los /what/; lûr /whose/; lom /where/; lomov /whither/; lomasht /whence/; lenth /how/; lûth /why/; leg /with whom/; lej /without whom/; 
+
+** correlative nounfrags
+note: these all have adverbial meanings
+**** time: -ub
+***** tikûb: at this time, now
+***** takûb: at that time, then
+***** tokûb: at that distant time
+A word favored by writers of fairy tales.
+
+**** person: -ûn
+***** tikûn: this person here
+Used elsewhere to substitute for I/me, but not in the Low-Canals, and not by the native speakers of Jagarôth.
+***** takûn: that person there
+***** tokûn: that person yonder
+Used against strangers, especially offworlders, it implies *you belong far from here*.
+***** lûn: who
+**** place: -om
+***** tikom: this place here
+***** takom: that place there
+***** tokom: that place yonder
+***** lom: where?
+**** means: -enth
+***** tikenth: this way, "like this"
+Literally *by this means/method*, translated more idiomatically above.
+
+
+* 

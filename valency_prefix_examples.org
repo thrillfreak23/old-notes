@@ -1,0 +1,49 @@
+[[~/notes/jlex.org]] go back
+
+examples
+
+- hekehâhênâleb rûthisot :: Rain falls stemming from the Way of Peace.
+
+- hokekâl Kak kenetir rûthisot :: Kakon hit the dog seeking out peace.
+
+- sharkekâl Kak mûmburnot kenetethid vêgorir :: Kak hit the wolf to
+  save his dog from death.
+
+- sorfîshikinazâl Kak thinskînenot :: Kak is "terminaling" in
+  mental/inward pain.
+
+valency prefixes
+|--------+-------------------------------+--------------------------------------|
+| Tier 1 | Directional prefixes          |                                      |
+|--------+-------------------------------+--------------------------------------|
+| hek-   | provenant                     | S verbs, action stemming from O      |
+| ho-    | appetent                      | S verbs, seeking out O               |
+| shar-  | avertent                      | S verbs, averting O                  |
+| sor-   | mansent                       | S verbs, abiding in O                |
+| zath-  | terminative                   | S ends verbal action towards O       |
+| pel-   | inchoative                    | S begins verbal action towards O     |
+|--------+-------------------------------+--------------------------------------|
+| Tier 2 | Social-Relative prefixes      |                                      |
+|--------+-------------------------------+--------------------------------------|
+| skâ-   | excedent                      | S verbs superiorly to O              |
+| vrî-   | deficient                     | S verbs inferiorly to O              |
+| kash-  | obstant                       | S verbs against O                    |
+| ban-   | beneficient                   | S verbs to help O                    |
+| daur-  | maleficient                   | S verbs to hurt O                    |
+| mîv-   | deferential                   | S verbs deferring to O               |
+|--------+-------------------------------+--------------------------------------|
+| Tier 3 | Relational prefixes           |                                      |
+|--------+-------------------------------+--------------------------------------|
+| jeg-   | cooperant                     | S verbs along with O                 |
+| ket-   | thematic                      | S verbs about/concerning theme O     |
+| gez-   | causal                        | S verbs because of O                 |
+| nath-  | instrumental                  | S verbs w/ tool or specific method O |
+| vrok-  | circumstantial                | S verbs under circumstance O         |
+|--------+-------------------------------+--------------------------------------|
+| Tier 4 | Internal-Perspective prefixes |                                      |
+|--------+-------------------------------+--------------------------------------|
+| moz-   | simulant                      | S verbs simulating O                 |
+| thin-  | subjective/internal           | S verbs internally                   |
+| krel-  | conative                      | S tries to verb at O                 |
+| fesh-  | habitual                      | S habitually verbs at O              |
+|--------+-------------------------------+--------------------------------------|

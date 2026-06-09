@@ -1,0 +1,693 @@
+Jagarôth :: A language of the Martian Low-Canals
+* JAGARÔTH
+
+* Abbreviations
+** Adj :: Adjectival
+** Adv :: Adverbial
+** Quote :: the Quote Enclitic
+
+* PHONOLOGY
+
+** garbage
+
+* GRAMMAR and SYNTAX
+
+* LEXICON
+** kenet
+*** nominal
+*** dog
+** jizix
+*** nominal
+*** meth, speed, amphetamine
+** kîreteyn
+*** nominal
+*** eagle
+** varad
+*** nominal
+*** a word
+*** varad Inglîza eagle-then Jagarôthîm î kîreteyn-then
+**** word-Nom
+     English-Adj
+     eagle-Quote
+     Jagarôth-Adv
+     copula
+     eagle-Quote
+** -îm
+*** Adverbial Suffix
+*** "-ly"
+** then
+*** Quote Enclitic
+** fon
+*** nom
+*** visible spectrum light
+** kefet
+   Although technically the word for photonic energy, kefet came to be
+   used preferentially in the Low Canals region of Mars over the older
+   word for visible light, fon. Practically, either may be used
+   indifferently.
+*** nom
+*** light (as in photons)
+** fon
+   Although technically the word for photonic energy, kefet came to be
+   used preferentially in the Low Canals region of Mars over the older
+   word for visible light, fon. Practically, either may be used
+   indifferently.
+*** nom
+*** visible light
+** lay
+In J. the sun, the moons, the stars do not shine, they radiate.
+lay can take an object, namely the heat, light, or whatever that
+the object is radiating.
+*** verbal
+*** radiate
+** -then
+1. This word is redundant? Could I not have J. do quoted speech like so? "He said this <appositive particle> blah blah blah. 2. I need a work like Latin 'ait', which is only used to report direct speech. 3. -then is also a direct speech marker? Just use it?
+
+*** directspeech marker
+*** follows the first word of the direct speech: ...spelâlet kafâlen-then Marishôd. "He said "I go to Marish".
+** bûbur
+*** nom
+*** mouth
+** thesh
+*** nom
+*** wind
+** hûdh
+*** verbal
+*** to shit
+*** hûdha
+**** adj
+**** shitty
+** koy
+*** conjuction
+*** and
+*** the *and* that joins clauses, not phrases
+*** see -thor, which is used with phrases of all sorts
+** am
+*** interposition
+*** the appositive interposition
+*** usage example: tek am hûdhum, that shit you talk, what-you-talk appositive turd
+*** note the parallel(s) between am and ken...wel on the one hand, and -thor and koy on the other
+** pan
+*** verbal
+*** see
+*** the word for eye panfar means seer (see-er); see -far
+** panfar
+*** nom
+*** eye
+*** literally "see-er" pan eye + far agent
+** far
+*** nom
+*** agent, doer
+** shelel
+*** adj
+*** OK, okay
+*** verbal
+*** to okay, to give the okay to (Acc)
+*** I'd thought of making shelel the word also for "good", but that would mean that shelel the verbal would have to mean "to amend, to improve, to make good or repair, etc, etc" and that's not what OK means in any way.
+** bal
+*** nom
+*** a god
+** bark
+*** nom
+*** a gun
+*** verbal
+*** to shoot (a gun or other weapon, Acc) at (a target, Dat) with (weapon, Instrumental) 
+** gorg
+*** nom
+*** skull
+*** gorgzakar the Skull Throne
+** hend
+*** verbal
+*** have, possess, have a hold of/on
+*** shîm hendâl-, begin to have hold of, thus take, grab, seize; equivalent to krech
+*** dim hendâl-, stop having hold of, let go
+** klal
+*** verbal
+*** to love; feel a pleasant familiarity towards, thus one might klal one's wife and also klal one's green beans, because it's a feeling
+** -um
+*** concretizing suffix
+*** may be suffixed to verbals, adjs, noms, etc (probably)
+*** when attached to a verbal the resulting word usually denotes something to do with the passive object of the verbal activity; example, weyum morsel, a piece of food, ort, a bait of food; also, a plate of food, a meal
+*** see nunum a thing
+** wey
+*** verbal
+*** eat
+*** weyum
+**** nom
+**** a concrete object of the verbal wey
+**** when attached to a verbal the resulting word usually denotes something to do with the passive object of the verbal activity; example, weyum morsel, a piece of food, ort, a bait of food; also, a plate of food, a meal
+** lal
+*** nom
+*** water
+*** lalum
+**** nom
+**** a drink of water
+** malam (note: used to be malm)
+*** adj
+*** old
+** mumb
+*** nom
+*** a corpse, a dead animal, carrion; mumb denotes any object composed of dead flesh, as opposed to dry or bare bones
+*** nominal
+**** corpse, dead flesh, a cadaver
+*** verbal
+**** to slay, lit. to make (a living thing) into a corpse
+***** :: mumbâlos rorb skêdhinoten :: slay-FINITE-3sInsap sun vampire-ACC-plu. :: the sun kills vampires
+***** :: mumbâz î skêdhin :: a vampire is a killer 
+***** :: mumbaxâz î borgtan · skêdhinen tethot mumbâlethen :: the villager is a murder victim; vampires killed her 
+***** :: shîm shêpep mumbaxâlethen borgtanen skêdhinashen :: IMPERFECT in-past-time-dimunitive village-people body-PASS-FIN-3Sap-pl vampire-ABL-pl :: Recently, villagers are being slain by vampires.
+***** :: vâv borgûr tak shê mumbaxâleth skêdhinash :: woman village-GEN that PAST slay-PASS-FIN-3sap vampire-ABL :: a woman of that village was slain by a vampire ::
+***** :: vâv borgûr tak mumbaxâleth-tat skêdhinash :: woman village-GEN that PAST slay-PASS-FIN-3sap vampire-ABL :: a woman of that village was slain by a vampire
+
+** -ach
+*** verbifying suffix
+*** the "become/becoming" suffix
+*** example: mumbach verbal, become a mumb, i.e., to die
+** mumbach
+*** verbal
+*** to die
+*** mumb + -ach the becoming suffix
+** tan
+*** nom
+*** a man, fellow, dude
+*** the informal word for a male homin
+** tor
+*** nom
+*** a tree
+** tort
+*** verbal
+*** to know
+** tûmp
+*** nom
+*** air, wind, "class M" atmosphere
+*** compare thesh
+** zakar
+*** nom
+*** throne
+*** gorgzakar the Skull Throne
+** tsal
+*** nom
+*** the feeling of fear
+*** note: emotions are nouns because they are observable things, and one experiences them
+** tik, tak, tok, and tek
+*** deictic adjectives
+*** tik
+*** this (near speaker)
+*** tak
+*** that (near auditor)
+*** tok
+*** that yonder (away from speaker and auditor alike)
+*** tek
+*** nom
+*** what one's interlocutor just said; so, the gist of your interlocutor's utterances
+** bôg
+*** nom
+*** ghost, spirit
+** târ
+*** nom
+*** lord, lady, master, mistress
+** velem
+*** nom
+*** blood
+** vâv
+*** nom
+*** woman
+** vom
+*** nom
+*** mountain
+** wewet
+*** nom
+*** bird
+** with
+*** nom
+*** a tran
+** Obar
+*** nom
+*** emperor
+** thrish
+*** nom
+*** worm
+** klag
+*** verbal
+*** to walk, stride, step
+** zag
+*** verbal
+*** to run (used of animals as well)
+** zhap
+*** verbal
+*** to smack, to slap; to make the sound associated with a smack or a slap
+** krom
+*** verbal
+*** choose, pick, select
+** ketep
+*** verbal
+*** give smthg (ACC) to somebody or something (DAT)
+** topap
+*** nom
+*** potato
+** kokon
+*** nom
+*** corn, maize
+** neben
+*** nom
+*** bean
+** tometop
+*** nom
+*** tomato
+** keg
+*** nom
+*** a stone of a size you can pick up and throw
+** vip
+*** verbal
+*** go fast
+** lel
+*** verbal
+*** write or draw something on a surface
+** spel
+*** verbal
+*** speak or say
+** kadâr
+*** nom
+*** cloud
+** zip
+*** numeral
+*** zero
+** tot
+*** numeral
+*** one
+** sad
+*** numeral
+*** two
+** fat
+*** numeral
+*** three
+** fûm
+*** numeral
+*** four
+** kest
+*** numeral
+*** five
+** kor
+*** numeral
+*** six
+** jeps
+*** numeral
+*** seven
+** kint
+*** numeral
+*** eight
+** shek
+*** numeral
+*** nine
+** hâpep
+*** numeral
+*** ten
+** hâded
+*** numeral
+*** 100
+** komen
+*** numeral
+*** 1000
+*** 2026: sad komen sad hâpep kor
+** momor
+*** numeral
+*** 10e6
+** hûlur
+*** nom
+*** cat
+** sish
+*** nom
+*** snow
+*** was sis previously
+** kark
+*** verbal
+*** do hard work, labor, slave
+** kel
+*** nom
+*** a star, a distant sun
+** wrak
+*** verbal
+*** destroy
+** skîn
+*** nom
+*** pain, feeling of pain or discomfort
+*** feelings are nominals because the are things
+*** note: previously skîn was a verbal and skînum a nominal meaning a pain
+** wavûm
+*** nom
+*** night, nighttime
+** kaf
+*** verbal
+*** to go, to come; engage in motion relative to a location
+** rorb
+*** nom
+*** the sun
+** bar
+*** adv
+*** not
+** boro-
+*** prefix
+*** makes a polar opposite
+** bo-
+*** prefix
+*** denotes a non-polar opposite
+** nunum
+*** nom
+*** a thing
+*** see -um concretizing suffix
+** mem
+*** possessive adjective
+*** 1s possessive adj
+** homin
+*** nom
+*** member of genus homo
+*** mohi
+**** nonstandard but common and slangy variant of homin
+*** homi
+**** nonstandard but common and slangy variant of homin
+** skrab
+*** non
+*** a xeric desert region
+** tsîts
+*** nom
+*** a fly (insect)
+** ken-...wel
+*** circumposition
+*** parenthetical and relative clause marker
+*** example: homin, ken-tethôd pê spelâlen wel, ...
+*** the genus homo specimen that I was talking to
+*** (literally) the human, that I was speaking to him/her, ...
+*** the him/her is what's called a resumptive pronoun
+*** the resumptive pronoun is suffixed with a hyphen to ken-
+** dram
+*** verbal
+*** sleep
+** warp
+*** verbal
+*** previously meant throw, hurl, but before that it was to fly
+*** to fly
+** Wahaz
+*** proper name
+*** Mars
+** lûn
+*** sapient interrogative pronoun
+*** who?
+** los
+*** insapient interrogative pronoun
+*** what?
+** moth
+*** nom
+*** the sky, the heaven(s), outer space
+** jothor
+*** nom
+*** fire
+** borg
+*** nom
+*** city, town, settlement
+** -âl
+*** suffix
+*** finite verbal marker
+** -o
+*** suffix
+*** imperative suffix
+*** pano! see
+** -en
+*** suffix
+*** nominal plural marker
+** -em
+*** suffix
+*** 1s possessive suffix
+** men
+*** pronoun
+*** 1s, I/me
+*** suffix form: -en
+** teps
+*** pronoun
+*** 2s, thou
+*** suffix form: -eps
+** teth
+*** sapient 3rd person singular pronoun
+*** 3s, he/she
+*** suffix form: -eth
+** sos
+*** insapient 3rd person pronoun
+*** it
+*** suffix form: -os
+** menen
+*** 1p pronoun
+*** we
+*** suffix form: -enen
+** tepsen
+*** 2p pronoun
+*** ye
+*** suffix form: -epsen
+** tethen
+*** pronoun
+*** 3p sapient
+*** suffix form: -ethen
+** sosen
+*** pronoun
+*** 3p insapient
+*** suffix form: -osen
+** zed
+*** pronoun
+*** reflexive
+*** suffix form: -ed
+** totekek
+*** pronoun
+*** reciprocal
+*** from tot (one) + kek (another)
+*** suffix form: -ek
+** hemp
+*** pronoun
+*** unspecified and impersonal (which is one kind of unspecified)
+** kek
+*** adj
+*** other
+** -thor
+*** clitic
+*** the conjunctive clitic ("and")
+** -sest
+*** clitic
+*** but
+** -bath
+*** clitic
+*** although, even though
+** chê...îchê
+*** clitic
+*** if...then
+*** note: not many Jagarôth words begin with a vowel but some do
+** -tat
+*** past tense clitic
+*** it's extra, but it's one of the oldest parts of the language so...
+** -ôd
+*** case suffix
+*** dative
+** -0
+*** case suffix (it's zero, but still, the lack of marking is a marking)
+*** nominative
+** -îz
+*** case suffix
+*** locative
+** -ot
+*** case suffix
+*** accusative
+** -ûr
+*** case suffix
+*** genitive
+** -erth
+*** case suffix
+*** instrumental
+** -ash
+*** case suffix
+*** ablative
+** î
+*** copula
+*** does copula stuff
+** am
+*** interposition
+*** appositive
+** tatam
+*** nom
+*** father
+** haham
+*** nom
+*** mother
+** yerth
+*** adj
+*** green
+** welk
+*** nom
+*** planet
+** hôken
+*** nom
+*** smoke (of fire)
+** hâhên
+*** nom
+*** rain
+** nonid
+*** nom
+*** location AT a place (genetive)
+** posid
+*** nom
+*** location BEHIND a place (genetive)
+** forid
+*** nom
+*** location IN FRONT OF a place (genetive)
+** penid
+*** location INSIDE/WITHIN a place (genetive)
+** mebel
+*** nom
+*** girl
+** gûbur
+*** nom
+*** a person of low estate; a person held in contempt by the speaker
+** sisips
+*** nom
+*** a human head hard
+** wlâp
+*** nom
+*** pig, hog
+** gîm
+*** adv
+*** mucho, very, much, a lot
+** shîdh
+*** adj
+*** pale, pallid, pasty white, whitish, off white
+*** basically every kind of white or pale but for pure white
+*** compare kûkun pure white
+** kûkun
+*** nom
+*** pure whiteness, pure white light
+** kwîz
+*** verbal
+*** to piss
+** -pep
+*** diminutive suffix
+*** diminutive
+** -ded
+*** augmentative suffix
+*** augmentative
+** shê
+*** previously was pê and then bê
+*** adv
+*** particle
+*** past tense marker
+*** "in the past"
+** shêpep
+*** adv
+*** adverbial particle bê + diminutive -pep
+*** "in the past"-DIMUNITIVE
+*** in the (relatively) recent past
+** shêded
+*** adv
+*** adverbial particle bê + augmentative -ded
+*** "in the past"-AUGMENTATIVE
+*** in the (relatively) distant past
+** vê
+*** adv
+*** adverbial particle
+*** past tense marker
+*** in the past
+** vêpep
+*** adv
+*** adverbial particle "in the future" + diminutive
+*** in the relatively near future
+** vêded
+*** vêpep
+*** adv
+*** adverbial particle "in the future" + augmentative
+*** in the relatively distant future
+** rê
+*** adv
+*** adverbial particle
+*** in the present
+*** preposed to the verb
+** rêpep
+*** adv
+*** in the present instant
+** rêded
+*** adv
+*** in the present age (in the present long period of time)
+** skêdhin
+*** nom
+*** vampire
+
+* FINITE VERBAL CONJUGATION
+| weyâlen     | I eat                     |
+| weyâlenen   | We eat                    |
+| weyâleps    | Thou eat'st               |
+| weyâlepsen  | Ye eat                    |
+| weyâleth    | He/She eats               |
+| weyâlethen  | They eat                  |
+| weyâlos     | It eats                   |
+| weyâlosen   | They eat (insentient)     |
+| weyâlemp    | UNSPEC eats               |
+| weyâled     | she eats herself          |
+| weyâlotekek | they eat each other       |
+| weyâr       | to eat, the act of eating |
+| weyâz       | eating                    |
+| weyâx       | eaten                     |
+| weyazâlen   | I am eating               | note -az- w/ short a
+| ...         | ...                       |
+| weyaxâlen   | I am eaten                | note -ax- w/ short a
+| ...         | ...                       |
+
+weyâren :: indirect speech or reported speech) I eat
+??? is this a thing I want to do
+
+
+* NOMINAL POSSESSIVE ENDINGS
+| topapem    | my potato       |
+| topapeps   | thy potato      |
+| topapeth   | his/her potato  |
+| topapos    | its potato      |
+| topapemen  | our potato      |
+| topapepsen | your potato     |
+| topapethen | their potato    |
+| topaposen  | their potato    |
+| topapemp   | an owned potato |
+
+* some NOTES on ASPECT
+| imperfect  | shîm |
+| perfect    | kîn  |
+| inchoative | skên |
+| cessative  | dim  |
+** these are all mutually exclusive; i.e., only one is used with a verb
+
+* Illustrative Examples
+
+** 1. The sun shines.
+*** :: rorb layâlos ::
+*** sun-nominative radiate-finitevb-3sInsapient
+*** :: rorb layâlos kefetîm ::
+**** kefetîm :: visible-light-ly
+
+** 2. The sun is shining.
+*** :: rorb shîm layâlos ::
+**** note: used to be thus: :: rorb layazâlos ::
+**** sun IMPERFECT radiate-FINITE-3sInsapient
+
+** 3. The sun shone.
+*** :: rorb shê layazâlos ::
+**** sun PAST radiate-FINITE-3Insapient
+
+
+** 4. The sun will shine.
+*** :: rorb vê layâlos ::
+**** sun FUTURE radiate-
+
+* TO DOs
+** TODO The sun was shining :: rorb shê shîm layâlos
+** TODO NOTA BENE NB :: rectify this document concerning -âx -âz and the aspectuals.
+** TODO TO DO incorporate ~/thing.org into this document.
+** TODO concerning VOICE
+*** example hûdhâx *one that has shit*
+            hûdhâz *one that is shitting*
+*** both these are active. there is no passive as yet in Jagarôth
+*** Proposal a prefixed passive root :: gast-
+*** Proposal: the concretizing suffix -um already does this work??? Yes/no?
+** TODO CHANGE -âz to active participle marker, CHANGE -âx to passive particle marker, REINTRODUCE words analogous to fîn, dim etcetera (called ASPECTUALS) for imperfect and perfect aspects
+*** thus hûdhâz "shitting, pertaining to a shitting creature", hûdhâx "shitted, a thing that's been shat out", hence "a turd"
+*** thus "the sun is shining" :: rorb shîm layâlos
+

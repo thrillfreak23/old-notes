@@ -1,0 +1,356 @@
+vowels :: a e i o u â ê î ô û ay ey iy oy uy aw iw
+consonants :: p b t d k g m n ŋ r l h w y f v s sh z sh th dh x (ks)
+
+INITIAL CLUSTERS 
+
+MEDIAL CLUSTERS
+
+FINAL CLUSTERS
+
+LEXICON
+
+kîreteyn :: nominal :: eagle
+varad :: nominal :: a word
+    varad Inglîza eagle-then Jagarôthîm î kîreteyn-then. :: word-Nom English-adj 
+    eagle-(quotation primitive) copula "kîreteyn"-(quotation primitive) :: 
+    an English word "eagle" in J. 
+-îm :: adverbial ending :: -ly
+then :: quotative postclitic :: emphasizes the previous word or phrase as a word that's quoted, like a foreign word or an example
+kefet :: nominal :: light (as in photons)
+fon :: nominal :: visible spectrum light
+lay :: verbal :: radiate
+te :: clause marking preposition :: that
+bûbur :: nominal :: mouth
+thesh :: wind
+hûdh :: verbal :: to shit :: hûdha adj shitty
+koy :: particle :: linking conjunction (*and*, but used between clauses only; -thor is used to link nominals, adjectivals, etc)
+am :: particle :: appositive interposition (it goes between two things and equates them)
+pan :: verbal :: see
+shelel :: adjectival :: okay
+bal :: nominal :: a god
+bark :: nominal :: gun
+gorg :: nominal :: skull
+hend :: verbal :: have, possess
+klal :: verbal :: love
+krech :: verbal :: grab, seize, take
+lal :: nominal :: water
+malm :: adjectival :: old
+mumb :: verbal :: die
+tan :: nominal :: man
+tor :: nominal :: tree
+tort :: verbal :: know
+tump :: nominal :: air, wind, class M atmosphere
+wey :: verbal :: eat
+zakar :: nominal :: throne
+tsal :: verbal :: fear
+lal :: nominal :: water
+tik, tak, tok :: adjectival :: this one (near speaker), that one (near audient), that one over yonder (near neither)
+tek :: demonstrative :: what one's interlocutor just said; or, the gist of your interlocutor's utterances
+bôg :: nominal :: ghost, spirit
+târ :: nominal :: lord, master, also used as a title
+velem :: nominal :: blood
+vâv :: nominal :: woman
+vom :: nominal :: mountain
+kenet :: nominal :: dog
+wewet :: nominal :: bird
+with :: nominal :: a tran
+Obar :: nominal :: emperor
+thrish :: nominal :: worm
+klag :: verbal :: stride, walk, step
+zag :: verbal :: to run
+gorm :: verbal :: choose, pick, select
+ketep :: verbal :: give smthg to smbdy
+topap :: nominal :: potato
+kokon :: nominal :: corn
+neben :: nominal :: bean
+tometop :: nominal :: tomato
+keg :: nominal :: a stone, a rock, of a size you can pick up & throw
+vip :: verbal :: go fast
+lel :: verbal :: write or draw smthg on a surface
+spel :: verbal :: speak or say smthg
+kadâr :: nominal :: cloud
+zip :: numeral :: zero
+tot :: numeral :: one
+sad :: numeral :: two
+fat :: numeral :: three
+fûm :: numeral :: four
+kest :: numeral :: five
+kor :: numeral :: six
+kreb :: numeral :: 36 (6^2)
+hâpep :: numeral :: 216 (6^3)
+momor :: numeral :: 1296 (6^4)
+hûlur :: nominal :: cat
+sis :: nominal :: snow
+kark :: verbal :: do hark work, labor, slave
+kel :: nominal :: star
+wrak :: verbal :: destroy
+skîn :: verbal :: hurt, feel pain
+skînum :: nominal :: a pain in the body, an injury
+wavûm :: nominal :: night
+kaf :: verbal :: to go, to come; engage in motion relative to a location
+rorb :: (insentient) nominal :: the sun
+bar :: adverbial :: not
+bo- :: prefix :: denotes non-polar opposite
+boro- :: prefix :: denotes polar opposite
+-um :: suffix :: denotes a concrete nominal object, added to adjectivals,  verbals
+nunum :: nominal :: a thing
+mem :: adjectival :: 1st person possessive adjective
+homin :: nominal :: member of genus homo
+mohi :: nominal :: variant of homin, slang
+homi :: nominal :: variant of homin, slang
+skrab :: nominal :: desert (geography)
+tsîts :: nominal :: a fly
+ken ... wel :: circumposition :: the parenthetical circumposition, used also for relative clauses
+    +[ken ... wel] maybe "ken ... wel" ????
+    +[ken ... wel] means Add this line to the line that begins thus...
+dram :: verbal :: sleep
+warp :: verbal :: throw, hurl
+Wahaz :: nominal :: Mars
+lûn :: animate interrogative pronoun :: who?
+los :: inanimate interrogative pronoun :: what?
+moth :: verbal :: the sky, the heaven(s), outer space
+jothor :: nominal :: fire
+borg :: nominal :: city, town, settlement
+*-eks :: suffix :: inchoative aspect or the beginning of an action or state*
+*-an :: suffix :: progressive (continuative) aspect*
+-âl :: suffix :: finite verb marker
+-o :: suffix :: verbal imperative marker :: pano! see!
+-en :: suffix :: verbal plural marker
+-em :: suffix :: nominal 1s possessive marker
+men :: personal pronoun :: 1s, I/me
+teps :: personal pronoun :: 2s, thou/thee
+teth :: personal pronoun :: 3s sapient
+sos :: personal pronoun :: 3s insapient
+menen :: personal pronoun :: 1p, we exclusive
+tepsen :: personal pronoun :: 2p, ye
+sosen :: personal pronoun :: 3p insapient
+tethen :: personal pronoun :: 3p sapient
+zed :: personal pronoun : reflexive
+totekek :: personal pronoun : reciprocal (from "tot kek", one-other or "one another")
+hemp {formerly was wen}:: personal pronoun :: unspecified
+-thor :: clitic :: the conjunctive enclitic ("and")
+-sest :: clitic :: the adversative enclitic ("but")
+-bath :: clitic :: concessive clitic ("although")
+-tat :: clitic :: past tense enclitic {of course it's here, it's the oldest part of the language}
+-ôd :: case ending :: dative
+-0 :: case ending :: nominative (zero or null ending)
+-îz :: case ending :: locative
+-ot :: case ending :: accusative
+-ûr :: case ending :: genitive
+-erth :: case ending :: instrumental
+-ash :: case ending :: ablative
+kek :: adjectival :: other
+î :: the copula :: does copula stuff
+tatam :: nominal :: father
+haham :: nominal :: mother
+yerth :: adjectival :: green
+welk :: nominal :: planet
+hôken :: nominal :: smoke (of fire)
+hâhên :: nominal :: rain
+nonid :: nominal (w purely grammatical function) :: location AT a place (in the genitive)
+forid :: nominal (w purely grammatical function) :: location IN FRONT OF a place (in the genitive)
+penid :: nominal (w purely grammatical function) :: location INSIDE a place (in the genitive)
+posid :: nominal :: location BEHIND a place (in the genetive)
+mebel :: nominal :: girl
+gûbur :: nominal :: a person of low estate; a person held in contempt by speaker
+sisips :: nominal :: human head hair 
+wlâp :: nominal :: pig
+gîm :: adverbial :: Spanish mucho, very, much, a lot
+shîdh :: adjectival :: pale, pallid, pasty white
+kwîz :: verbal :: to piss
+-pep :: diminutive suffix 
+-ded :: augmentative suffix
+
+
+FINITE VERBAL CONJUGATION
+weyâlen :: I eat
+weyâlenen :: We eat
+weyâleps :: Thou eatest
+weyâlepsen :: You eat
+weyâleth :: she/he eats
+weyâlethen :: they eat
+weyâlos :: it eats (insapient)
+weyâlosen :: they eat (insapient) 
+weyâlemp :: UNSPEC eats
+weyâled :: she eats herself
+weyâlotekek :: they eat each other :: from tot + kek "one-other, one another"
+weyâr :: to eat, the act of eating
+weyâz :: active participle :: eating
+weyâx :: passive participle :: eaten
+
+NOMINAL POSSESSIVE Endings
+topapem :: my potato [NB: -en alone, being ambiguous, can mean either 
+topapeps :: thy potato
+topapeth :: his/her potato
+topapos :: its potato
+topapemen :: our potato 
+topapepsen :: y'all's potato
+topapethen :: their potato
+topaposen :: their (insapient) potato
+topapemp :: unspecified's potato, somebody's potato, an owned potato
+
+DECLINED VERBALS w/ PERSONAL Endings
+hûdhâlen :: I shit 
+hûdhâlenen :: We shit
+hûdhâleps :: you shit
+hûdhâlepsen :: y'all shit
+hûdhâleth:: he/she shits
+hûdhâlethen :: they shit
+hûdhâlos :: it shits (insapient)
+hûdhâlosen :: they shit (insapient)
+
+
+
+
+ILLUSTRATIVE EXAMPLES
+*borgîz men :: ill-formed*
+*î men borgîz* :: *ill-formed*
+borgîzâlen :: town.LOC.finiteVerb.1s
+
+borgîzâlen :: town-LOC-finiteVerb-1singular
+
+keneteth boroklalâlen :: dog.ACC-3sPoss polaropposite.love.finiteVerb.1s :: "I hate his dog"
+keneteps î weyomem.  :: dog.0NOM.2sPoss eat.concrete.0NOM.1sPoss :: "Your dog is/was/will be my snack"
+keneteps î weyomem. [nb: old "-en" here is ambiguous {can mean both plural
+    or 1s possessive} and that's why 1s possessive suffix much be
+    "-em".
+keneteps fê weyomemâl. :: your dog  
+
+zorn ken kafâlos Sarnathôd wel :: The Doom that Came to Sarnath ::
+
+*mohi tak ken vâv tatamemâlet wel hahamemâl* :: human.NOM this BPAREN woman.NOM father.GEN.finiteVerb EPAREN 
+    mother.1s.finiteVerb :: that person, who is the woman/wife of my father, is my mother :: 
+    NOTABENE :: this is a bad sentence
+    fix this.
+    fixed version:
+    mohi tak, ken-teth vâvâlet  tatamemôd-wel, hahamemâlet.
+        that human, who is the woman of my father, is my mother.
+        human that, REl-she/he woman-FINITE-3s father-1sP-RELEND, mother-1sP-FINITE-3s.
+    this is how relatives are done
+
+#############################################################################
+
+Jagarôth :: gîm :: adverbial :: much, a lot, very, greatly
+
+shîdh gîm :: very pale
+
+QQQ
+/home/rachel/LEXICON.md
+tek :: demonstrative :: what one's interlocutor just said; or, the gist of your interlocutor's utterances
+
+hûdh :: verbal :: to shit, defecate
+hûdhum :: a turd, a "piece of shit"
+
+hûdhum tek :: that shit (literally, that turd) you said
+-- equivalent to tek hûdha
+-a :: converts verbal or nominal etc to adjectival
+thesh hûdha :: equivalent to the word for fart ::
+
+????? Change -om nominalizer to -um
+
+bûbur :: nominal :: mouth
+hûdhalen bûburîzeps :: i shit in your mouth
+fimp :: verbal :: to piss
+
+pano te Jeynot zagâr! :: See Jane run! :: see-IMPERATIVE that Jane-ACCUSATIVE run-INFINITIVE
+te :: clause marking preposition :: that
+
+NUMBERS
+zip :: numeral :: zero
+tot :: numeral :: one
+sad :: numeral :: two
+fat :: numeral :: three
+fûm :: numeral :: four
+kest :: numeral :: five
+kor :: numeral :: six
+jeps :: numeral :: seven
+kint :: numeral :: eight
+shek :: numeral :: nine
+hâpep :: numeral :: ten
+hâded :: numeral :: 100
+komen :: numeral :: 1000
+momor :: numeral :: 10e6
+-- Thus the 2026 would be sad komen sad hâpep 
+
+
+
+Jagarôth notes
+#################
+current below here
+
+kwîz :: verbal :: to piss
+fîn kwîzâlen bûburîzeps 
+
+-um :: NB: *concrete* nominalizer
+-âr :: infinitive and abstraction nominalizing suffix :: 
+
+MODALS and ASPECTUALS
+NB :: modals are particles and are used instead of the modal verb +
+    infinitive method of English to express grammatical mood
+NB :: aspectuals in J. are particles and are used to describe an
+    action's relation to time and movement through time
+hûn :: MORAL OBLIGATION modal :: must, denotes moral obligation
+    hûn zazazâleth Marishôd. :: OBLIGATION warp-FINITEVB-she/he Marish-DAT ::
+    she/he must warp to Marish.
+kin :: COUNSEL modal, should modal :: should, ought to
+    kin zazazâleth Marishôd rêpep. :: he/she ought to warp to Marish soon. 
+fîn :: modal :: about to, "finna" :: fîn zazazâlen Marishôd :: I finna warp to Marish
+tên :: modal :: denotes a future intent to, tryna
+    pê tên zazazâleth Marishôd. :: PAST-time-adv INTENT-modal warp-FINITEVB-she/he Marish-DAT. 
+    :: she/he plans to warp to Marish.
+jed :: perfective aspectual :: denotes completed, finished actions :: jed kwîzâlen "I already pissed"
+    jed zazazâleth Marishôd :: PERFECT-aspect warp-FINITEVB-she/he Marish-DAT.
+shîm :: imperfect aspectual :: denotes ongoing action
+skên :: inchoative aspectual :: denotes starting action 
+dim :: cessative aspectual :: denotes stopping action
+
+yur :: nominal :: money
+
+fê :: adv :: in the future
+fêpep :: adv :: a bit in the future
+pê :: adv :: in there past
+pêpep :: adv :: just a little in the past
+rêp :: adv :: in the present
+rêpep :: adv :: in the present instant
+-pep :: dimunitive nominal-verbal-adjectival-adverbial suffix
+
+
+
+-tat :: past tense verbal suffix
+-0 :: Non-Past
+-îm :: adverbial suffix, -ly
+-o :: imperative suffix
+-âr :: infinitive suffix
+-âx :: passive participle :: a verbal adjectival that describes the object
+    as *acted upon by an agent* :: the agent may or may not be expressed
+    :: the agent, if present, is cast in the ablative case, as the action
+    comes *from* the agent
+-âzd :: active participle :: a verbal adjectival that describes the agent as *perpetrating the verbal action* ::
+
+hekolak :: nominal :: any interstellar spacecraft, starship :: 
+kraw :: nominal :: generic term for plane, spaceplane (in Galaxia plane and spaceplane are synonymous), lighter, tender (there are other words also for lighter and tender) ::
+
+zazaz :: verbal :: to warp, travel across space without passing through it normally, such as planoforming or Battlestar-Galactica-style hyperspace jumping or transluxation with a translux (transluxor?) drive/mechanism/machine/device.  
+
+Consider this amendment:::: change the finite verbal suffix from -al to -âl :: would verbs thus be easier to pronounce? NB: this would result in verbs pronunciation like my original intent
+
+
+
+
+AMENDMENT SUGGESTION: should PRONOUN tet she/he be instead "*teth*"?
+Because maybe in the word "*zazazâleth*" the "-th" makes it easier to
+distinguish the person of the verb than is the case with
+"*zazazâlet*", especially in rapid speech; a noisy fricative instead
+of a quiet "t".
+
+*fuck* 
+TRANSLATIONS :: remember to speak it slowly :: Jagarôth is best spoken slowly
+The sun shines. 
+    In Jagarôth the sun, the moon, the stars do not "shine" :: They *radiate* 
+    kenet *light* refers to the physical phenomenon, not a seer's experience of it.
+    fon *light* refers to seen, visible light
+    The sun shines. • layâlos rorb • layâlos rorb fonot •
+    Note ::  The sun is insapient because it can never speak
+
+The sun is shining. :: layâz î rorb :: shîm layâlos rorb :: shîm layâlos
+fonîm rorb :: Sol visible-light-ly radiates.

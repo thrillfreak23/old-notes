@@ -1,0 +1,2695 @@
+Jagarôth Lexicon
+++++++++++++++++
+
+
+Problem: not metal enough, witness thrip flet.
+Honestly though i'm starting to like thrip and flet.
+Lots of syllables. Lots of redundancy. I tell myself that's okay.
+Seventy myriads in the future. A myriad is ten thousand.
+In my Legendary Future /myriad/ has continued being used but only in the specialized sense of /ten thousand/ *years*.
+The phonotactic rules of the Jagarôth Language have long discouraged the adoption of /myriad/.
+The native /Jagarôth/ equivalent is /what/?
+A future far more distant than dune or foundation. 
+/zip tot sad fat fûm kez [[kor]] [[jeb]] [[vûk]] [[veps]] [[sain]]/
+
+null subject.  not just unspec but null.  unspec means there's a logical subject but a null subject is a different kind of verb like It's raining.  there is no it.  the idea of an "it" doing the raining is absurd, ergo the verb with that valency is a different kind of verb, one that doesn't have a subject.  it's just an activity happening.  full stop.  
+
+pronoun table
+|---------+-------------+---------------+----------------|
+| pronoun | person+num  | verbal marker | nominal marker |
+| mem     | 1s          | -en           | -em *          |
+| teps    | 2s          | -eps          | -eps           |
+| teth    | 3ss         | -eth          | -eth           |
+| sos     | 3si         | -os           | -os            |
+| memen   | 1p          | -enen         | -emen *        |
+| tepsen  | 2p          | -epsen        | -epsen         |
+| tethen  | 3ps         | -ethen        | -ethen         |
+| sosen   | 3pi         | -osen         | -osen          |
+| hemp    | unspecified | -emp          | -emp           |
+| zed     | reflexive   | -ed           | -ed            |
+| totekek | reciprocal  | -ek           | -ek            |
+| teb     | null        | -eb           | -eb            |
+|---------+-------------+---------------+----------------|
+
+case ending table
+|---------------+-------+-------------|
+| core cases    |       | neoversions |
+|---------------+-------+-------------|
+| nom           | -0    |             |
+| acc           | -ot   |             |
+| dat           | -ôdh  |             |
+|---------------+-------+-------------|
+| oblique cases |       |             |
+|---------------+-------+-------------|
+| gen           | -ûr   |             |
+| abl           | -ash  |             |
+| allative      | -ov   |             |
+| loc           | -îz   |             |
+| instr         | -enth | -ist        |
+| perl          | -ir   |             |
+| com           | -eg   |             |
+| car           | -ej   |             |
+|---------------+-------+-------------|
+- core cases are capable of being added on top of a first case ending
+
+valency prefixes
+|--------+-------------------------------+--------------------------------------|
+| Tier 1 | Directional prefixes          |                                      |
+|--------+-------------------------------+--------------------------------------|
+| hek-   | provenant                     | S verbs, action stemming from O      |
+| ho-    | appetent                      | S verbs, seeking out O               |
+| shar-  | avertent                      | S verbs, averting O                  |
+| sor-   | mansent                       | S verbs, abiding in O                |
+| zath-  | terminative                   | S ends verbal action towards O       |
+| pel-   | inchoative                    | S begins verbal action towards O     |
+|--------+-------------------------------+--------------------------------------|
+| Tier 2 | Social-Relative prefixes      |                                      |
+|--------+-------------------------------+--------------------------------------|
+| skâ-   | excedent                      | S verbs superiorly to O              |
+| vrî-   | deficient                     | S verbs inferiorly to O              |
+| kash-  | obstant                       | S verbs against O                    |
+| ban-   | beneficient                   | S verbs to help O                    |
+| daur-  | maleficient                   | S verbs to hurt O                    |
+| mîv-   | deferential                   | S verbs deferring to O               |
+|--------+-------------------------------+--------------------------------------|
+| Tier 3 | Relational prefixes           |                                      |
+|--------+-------------------------------+--------------------------------------|
+| jeg-   | cooperant                     | S verbs along with O                 |
+| ket-   | thematic                      | S verbs about/concerning theme O     |
+| gez-   | causal                        | S verbs with O                       |
+| nath-  | instrumental                  | S verbs w/ tool or specific method O |
+| vrok-  | circumstantial                | S verbs under circumstance O         |
+|--------+-------------------------------+--------------------------------------|
+| Tier 4 | Internal-Perspective prefixes |                                      |
+|--------+-------------------------------+--------------------------------------|
+| moz-   | simulant                      | S verbs simulating O                 |
+| thin-  | subjective/internal           | S verbs internally                   |
+| krel-  | conative                      | S tries to verb at O                 |
+| fesh-  | habitual                      | S habitually verbs at O              |
+|--------+-------------------------------+--------------------------------------|
+
+dreg :: give
+kaf :: go, come
+kek :: strike, smite
+mûmbag :: causative verbal root :: make to be a corpse; kill
+-ag :: neocausative verbal suffix
+-îj :: neo "become"
+-ath :: neoapplicative
+bark :: nominal :: gun
+barkath :: verbal root :: shoot with a gun
+zathkekâl Kût vêgorot barkenth
+zathkekâl Kût vêgorot barkist
+
+
+;; example one
+--
+io Târem, vê zathbanbarkathâleps rûthisôdh borgemenûr vêgorot kensos
+jed mûmbagâlos tôthot memenûrot borgûrot hominenot wel.
+--
+Oh my Lord, you gunned down for the Peace/Health/Rationality of our
+city the wolf which had already killed many of our city's people.
+--
+zath TERMINAL action ==> vêgor
+ban BENEFICIENT action ==> rûthis borgemenûr
+barkathâl gun.applicative.FIN :: shoot
+rûth :: adjective; rûthis :: abstract nominal :: Way of Peace-Health-Reason
+io :: vocative particle
+Târ :: honorific :: low to high honorific, Lord/Lady
+-em :: 1s possessor suffix
+vê :: past tense particle OR adverb in-time-past
+ken...wel :: relative circumfix
+-sos :: resumptive pronoun :: nominative singular insapient, it
+borg :: city; borgemen :: our city; borgemenûr :: our city's
+borgûrot :: of-the-city.ACC, city.GEN.ACC
+jed :: adverb :: already; forces perfect(ive) aspect
+mûmb :: corpse
+-ag :: causative
+-âl :: finite verb marker
+-os :: 3si verbal subject marker
+tôth :: adjective and nominal :: many, a plurality
+-ot :: accusative suffix
+memen :: we/us; memenûr :: our
+homin :: human being; in this case, Martian
+--
+;; end example one
+
+
+* example two
+
+** sharkekâl Kak mûmbagârot kenetethid vêgorir
+*** Kak hit the wolf to save his dog from getting killed.
+
+** sharkekâl Kak mûmbagaxot am kenetethot vêgorir.
+
+*** it works like this:
+
+shar (fend off) ==> mûmbagax (1) |                :
+--                     am        | (his dog dead) : Kak kekâl ==> vêgor 
+--                  keneteth     |                :
+--
+(1) mûmb :: nominal :: corpse + -ag :: causative + -ax :: PASSIVEParticiple
+--
+** translation :: To forfend a thing killed, namely his dog, Kak smote the wolf.
+
+** notes
+- shar :: valency prefix :: avertent
+- ban :: valency prefix :: beneficient
+- shar is outermost; it wins the contest for the Accusative
+- kek :: verbal root :: strike, smite
+
+
+
+* example three
+** hekehâhênâleb rûthisot
+*** hek(e): provenant
+*** hâhênâleb: it rains
+*** hâhên :: nominal :: rain
+*** -eb :: null pronoun subject marker from teb
+*** rûthis :: the praxis of peace-health-reason
+*** translation:
+**** Rain falls out of the praxis of peace.
+**** Rain falls emergent from /rûth/.
+
+
+* example four
+** sharkekâl Kak mûmbagârot kenetethid vêgorir.
+*** shar :: avertent
+*** kek :: verbal root :: hit, smite, strike
+*** -âr :: verbal nominalizer
+**** mûmbagâr :: to kill, killing :: here, what is averted
+*** translation:
+**** Kak hit the wolf averting his dog's killing.
+** sharkekâl Kak mûmbagaxot am kenetethot vêgorir.
+*** translation:
+**** Kak hit the wolf to avert a murdered thing, namely his dog.
+** zathbankekâl Kak vêgorot kenetethir.
+** zathbankekâl KaK vêgorot kenetethôdh.
+*** the perlative or the dative is used on the final object here, his dog, indifferently.
+
+* example five
+** sorfîshikinazâl Kak thinskînenot ::
+*** sor :: mansent
+*** fîsh :: computer terminal
+*** fîshikin :: computer-terminal.person, a computer addict
+*** sorfîshikinazâl :: is abiding in while "terminaling"
+*** thinskînen :: what he is abiding in, inner pain
+**** thin :: subjective valency prefix used here semantically, not grammatically
+***** means "inner"
+*** translation:
+**** Kak is "terminaling" in mental/inward pain.
+
+
+* example six
+** pelkrelstabâl Chaz rûthisot.  
+** Chaz begins trying to abide in the way of peace.
+
+* example seven
+** nathathinmûmbagâl Chaz barkot Kakir tikûth am boroklalâleth-then tûnot.
+*** Chaz thinks about killing Kak with a gun because he hates him.
+*** nath :: instrumental valency prefix
+*** thin :: subjective valency prefix
+*** mûmbag :: verbal root :: kill
+*** barkot :: gun.ACC, the instrument promoted to the accusative
+*** Kakir :: Kak, the object of mûmbag, demoted to perlative
+*** tikûth :: for this reason
+*** am :: appositive particle; after it comes the reason
+*** boro :: polar opposite
+*** klal :: love, experience feelings of pleasant familiarity towards
+*** -then :: subordinate clause launcher
+*** tûnot :: the obviative pronoun/noun thing, he/she
+**** here refers to the one present in the sentence who isn't "teth" (Chaz)
+
+
+
+
+valency prefixes
+|--------+-------------------------------+--------------------------------------|
+| Tier 1 | Directional prefixes          |                                      |
+|--------+-------------------------------+--------------------------------------|
+| hek-   | provenant                     | S verbs, action stemming from O      |
+| ho-    | appetent                      | S verbs, seeking out O               |
+| shar-  | avertent                      | S verbs, averting O                  |
+| sor-   | mansent                       | S verbs, abiding in O                |
+| zath-  | terminative                   | S ends verbal action towards O       |
+| pel-   | inchoative                    | S begins verbal action towards O     | * per
+|--------+-------------------------------+--------------------------------------|
+| Tier 2 | Social-Relative prefixes      |                                      |
+|--------+-------------------------------+--------------------------------------|
+| skâ-   | excedent                      | S verbs superiorly to O              |
+| vrî-   | deficient                     | S verbs inferiorly to O              |
+| kash-  | obstant                       | S verbs against O                    |
+| ban-   | beneficient                   | S verbs to help O                    |
+| daur-  | maleficient                   | S verbs to hurt O                    |
+| mîv-   | deferential                   | S verbs deferring to O               |
+|--------+-------------------------------+--------------------------------------|
+| Tier 3 | Relational prefixes           |                                      |
+|--------+-------------------------------+--------------------------------------|
+| jeg-   | cooperant                     | S verbs along with O                 |
+| ket-   | thematic                      | S verbs about/concerning theme O     |
+| gez-   | causal                        | S verbs because of O                 |
+| nath-  | instrumental                  | S verbs w/ tool or specific method O |
+| vrok-  | circumstantial                | S verbs under circumstance O         | * trok
+|--------+-------------------------------+--------------------------------------|
+| Tier 4 | Internal-Perspective prefixes |                                      |
+|--------+-------------------------------+--------------------------------------|
+| moz-   | simulant                      | S verbs simulating O; S fakely verbs |
+| thin-  | subjective/internal           | S verbs internally                   |
+| krel-  | conative                      | S tries to verb O                    | * kred
+| fesh-  | habitual                      | S habitually verbs at O              |
+|--------+-------------------------------+--------------------------------------|
+
+
+* 00000000
+** example sentences to learn Jagarôth with
+*** thiktâl thesh veshemot.
+**** touch.FIN wind face.1s.ACC
+***** NOTE: the above /veshemot/ represents a change
+***** it used to be /veshotem/ 
+***** but (my face) is the phrase ACC is applied to
+***** ergo face and my ought to border: ergo /veshemot/
+**** The wind touches my face.
+*** thiktaxâl veshem theshash Rorbash-thor
+**** touch.PASS.FIN face.1s wind.ABL sun.ABL-and
+**** My face is touched by the wind and the sun.
+**** NOTE: the complete lack of assimilation here seems ... suboptimal???
+*** thiktaxâl veshem theshash kensos vipâlos skrabenir wel.
+**** touch.PASS.FIN face.1s wind.ABL REL.3ss be-fast.FIN.3ss wasteland.pl.PERL ENDREL
+**** My face is touched by the wind that rushes along the wastelands.
+**** thiktaxâl veshem vs. kensos vipâlos
+***** thiktaxâl veshem: -âl w/ no personal ending
+****** because the subject of the verb follows immediately
+***** kensos vipâlos: -âlos w/ personal ending 
+****** because the subject does not immediately follow
+*** vê kafâlenen vipîm kenetemeneneg yâhorid borgov mûmbid.
+**** PAST go.FIN.1p be-fast.ADV dog.2p.pl.COM war.ADJ city.ALL carrion.ADJ
+**** We went swiftly with our war hounds to the dead city.
+*** katakafâzenen korithemenenenot mûmbeskazâlenen borothremenenûrot
+**** UPON.go.ACT.2p horse.2p.pl.ACC carrion.CAUS.ACT.FIN.2p OPPOS.friend.2p.pl.GEN.ACC
+**** Riding upon our horses we slew our enemies.
+***** kata- prefix promotes kaf to transitive with object kenetemenenot
+****** kaf go; katakaf go upon, ride
+***** -âz + -âl = -azâl
+****** -âz is dissimilated to -az when occurent with -âl in -azâl
+***** -âz active participle suffix
+****** here indicates progressive aspect
+****** mûmb carrion; mûmbesk verbal root /cause to be carrion/ = kill
+******* then mûmbeskaz = killing; mûmbeskazâlenen finite verb /we are killing/
+***** NOTE: korith.emen.en.ot: emen is 1p possessor, en is the plural of the noun korith
+****** korith: horse: the horse is a large domesticated mammal originally native to the planet Skâr, now found only on Wahaz
+***** -esk: causative suffix
+****** mûmb is not just carrion, it can mean be-carrion
+****** ergo mûmb + esk = cause to be carrion
+***** -ûrot: double case marking is permitted
+****** genitive + accusative
+****** borothren: enemy, from boro- opposite + thren friend
+***** marking hierarchy: noun + possessor + plural + case ending(s)
+***** unmarked for time
+****** the previous illustrative sentence indicates past tense and is not repeated here
+*** vê spelâleth hûn-then kafâleth Marishov
+**** PAST say.FIN.3ss OBLIGATION-IndirectSpeech go.FIN.3ss Venus.ALL
+**** He said that he must go to Marish.
+**** hûn: modal of moral OBLIGATION
+**** -then: subordinate clause and indirect speech marker
+***** NOTE: should -then be both subordinate clause marker and indirect speech marker
+***** why not? "that" serves both purposes in English
+*** borg am Chochab vê mûmbeskaxâlos; î tikûb pselax am Borg Mûmbid.
+**** The city Chochab was rendered dead; it now is called Dead City.
+**** city APPOS Chochab PAST (to-be-)carrion.CAUSE.PASSPART.FIN.3si; BE this.at-time speak.PASSPART APPOS City Carrion.adj 
+*** jûjor tô jûkâleps gaktâr-meg
+**** Would you like to dance with me?
+***** jûjor: question marker; goes before the question
+***** tô: hypothesis modal, "would, might"
+***** jûk: verbal root: enjoy
+****** in Jagarôth one /enjoys/ a lot of things: drugs, dancing, sex, a fight, death, anything
+***** gakt: verbal root, dance
+***** -âr: verbal noun marker, the act of ---ing
+***** -meg: enclitic shortening of memeg: i/me.COMitative
+*** skâdregâl Kakom Tefomot klîzînôdh yurir.
+**** skâ-: OUT- moreso, out-
+***** skâ-: hijacks the valences of the verb it prefixes
+***** skâ- as it were "takes a direct object": that which is being compared
+***** any direct object of what would have been the verb but for ska- is demoted to the perlative thematic
+***** any indirect object (like klîzînôdh above) remains in the dative
+**** dreg: verbal root: give
+***** valence: S vb O indO
+**** skâdreg: complex verb: outgive
+***** valence: S skadreg O indO thematic
+**** Kakom, Tefom: "nonprivate" "names" -- placeholder names for maskwearing
+**** klîzîn: the Holy Martian Catholic Church; a church building; a church congration; the population of the Church
+**** yur: defective nominal (no plural), money
+**** -ir: perlative case marker, here the perlative thematic
+**** Kakom outgave Tefom to the Church, alongside money.
+***** The simple presence of money in the sentence makes it the theme, ie, what's given
+*** lârth jed nashkafâleps borgot mûmbid
+**** How have you already come from the dead city?
+**** lârth: l- interrogative + -ârth combinatory form of bârth = by what method = how
+**** jed: already, forces perfective aspect
+**** nash-: FROM-
+***** compare ABL -ash
+***** takes a quasi-object in the Accusative, the SOURCE of an action, thing or state
+*** lârth jed kafâleps borgash mûmbid??? -- the exact equivalent of the above
+**** the above is kinda dumb? or is it possibly useful????
+*** Kakom skâkekâleth Tefomot Pekomir
+**** Kakom outhit Tefom, theme being Pekom
+**** predictably the pseudo-object of skâ- is Tefom, who is being compared with Kakom
+**** Pekomir = Pekom + ir perlative case, taking care of what's left over, namely who's getting hit
+**** kek: verbal root, hit; strike
+**** Pekom: another placeholder name
+*** Where there's smoke, there' fire.
+- Different ways to say it.
+**** hôken-kaz jothor-dan
+***** If smoke, then fire.  Where there's smoke there's fire.
+***** smoke-if fire-then
+***** -kaz: if
+***** -dan: then
+**** hôkenîz jothor
+***** smoke.LOC fire
+***** In smoke, fire.
+***** jothor hôkenûb
+****** tûb hôkenid jothor
+****** In the smokey place, fire.
+***** jothor tûb hôkenûr
+****** in-the-place smoke.GEN fire
+****** In the place of smoke there is fire.
+*** 
+
+* Correlatives 
+*** definitions:
+**** t- forms: adverbs
+***** tîz: in the place, at location
+***** î mem tîz Chazûr: I'm at Charles's place.
+****** î mem tîz Chazid: also works
+**** n- forms: nominals
+***** example: nîz, a location
+**** l- forms: interrogative pronouns and adverbs
+***** lîz: where?
+** tik/tak/tok/tek- forms: adverbs
+** nûth: a reason, cause
+** târth: by what means, method
+** nârth: a means, method
+** tûth: for reason, cause
+** tûn: another word for Sapient
+*** used in an obviative sense as an alternative within a sentence to teth, as if it were a pronoun
+*** seldom used in a sentence before teth has already been "occupied" by another referent
+**** Example 1
+***** Pabom skaklalâleth Chazot memir.  Pablo outloves Charles, relative to me.
+****** Pablo loves me more than Charles loves me. 
+***** tegklalâleth tûnot Jinjir.  Pablo, along with Charles, loves Ginger
+****** teg-: COMITATIVE valencizer
+****** here teth = Pablo, so Charles becomes tûn, the obviative noun/pronoun thingie
+** nûn: another word for tûn, seldom used
+** tûb: at a point in time, moment
+** nûb: a moment, an instant
+** tos: another word for thing
+** tîz: at a location
+** nîz: a place, location
+
+
+add to lexicon:
+ven :: friend :: neutral honorific
+thren :: a bosom friend
+
+honorifics:
+
+low to high: Târ
+high to low: Lak
+neutral equals: Ven
+high equals: Môn
+plus + dom augmentative
+plus + pîn diminutive
+
+social role suffixes
+-etheps: -nik expert, obsessive
+-avâr: worker, laborer; tells what your job is
+-ikin: what general kind of person you are Wahazikin: martian
+
+sandhi rules:
+
+prefixes: (s, z, sh, j, ch, th, dh) : two of these together must be
+separated by an epenthetic vowel that comes from the morpheme that is
+added: mozospel- sham.speak
+
+suffixes: are connected to their nouns by an epenthetic vowel that
+comes from the suffixed morpheme. if the vowel is long it is
+shortened.
+
+
+| core cases    |       |
+|---------------+-------|
+| nominative    | -0    |
+| accusative    | -ot   |
+| dative        | -ôdh  |
+|---------------+-------|
+| oblique cases |       |
+|---------------+-------|
+| genitive      | -ûr   |
+| perlative     | -ir   |
+| instrumental  | -enth |
+| locative      | -îz   |
+| ablative      | -ash  |
+| comitative    | -eg   |
+| caritive      | -ej   |
+
+
+* Valencizer Tier Hierachy and Rules
+** TIER1 :: the Directional Tier
+hek-  :: PROVENANT
+ho-   :: APPETENT
+shar- :: AVERTENT
+sor-  :: MANSENT
+/NEW/ zath- :: TERMINATIVE – The action is performed until it is completely finished/exhausted.
+/NEW/ pel-  :: INCHOATIVE – The action is just beginning or "bursting" forth.
+** TIER2 :: the Social-Relative Tier
+skâ-  :: EXCEDENT
+vrî-  :: DEFICIENT
+kash- :: OBSTANT
+ban   :: BENEFICIENT
+/NEW/ dôr-  :: MALEFICIENT – The opposite of ban- (Beneficient). While kash-
+               (Obstant) blocks, dôr- implies the action actively harms or insults a third party.
+/NEW/ mîv-  :: DEFERENTIAL – The action is performed specifically to show
+               honor or lower one's status relative to the object.
+** TIER3 :: the Relational Tier
+jeg-  :: COOPERANT
+ket-  :: THEMATIC
+gez-  :: CAUSAL
+/* vuk-  :: RECIPROCAL */
+/* zâ-   :: REFLEXIVE  */
+/NEW/ nath- :: INSTRUMENTAL – The subject uses a tool or specific method to complete the action.
+/NEW/ vrok- :: CIRCUMSTANTIAL – The action is defined or restricted by the
+         environment/setting (e.g., "to dance because of the rain").
+** TIER4 :: the Internal-Perspective Tier
+moz-  :: SIMULANT
+thin- :: SUBJECTIVE
+/NEW/ krel- :: CONATIVE – "To try to [Verb]." (e.g., instead of a separate
+verb for "try," the valencizer shifts the focus to the attempt).
+/NEW/ fesh- :: HABITUAL – The action isn't a one-off; it's a defining trait or routine of the subject.
+
+* Valencizers
+** the Directional set (Movement and Source)
+*** hek-   : FROM- (The Source: "A happens originating from B")
+*** ho-   : TOWARD- (The Goal: "A happens moving to/aimed at B")
+*** shar- : AWAY- (The Avoidance: "A happens specifically to get away from B")
+/* *** sir-  : THROUGH- (The Channel: "A happens by means of B’s
+presence") */
+*** sor- : ABIDE- (The Locale or Condition: "A happens at or in (the conditon of) B")
+** the Social/Relative Set (Comparisn and Status)
+*** skâ-  : OUT- (Superiority: "A does the verb better/more than B")
+*** vrî-  : UNDER- (Inferiority: "A does the verb less/worse than B")
+*** kash- : AGAINST- (Opposition: "A does the verb in spite of or in conflict with B")
+*** ban-  : FOR-  (Beneficiary: "A does the verb for the sake/benefit of B")
+** the Relational Set (Interactive)
+*** jeg-  : WITH- (Cooperation/Instrument: "A does the verb alongside or using B")
+*** ket-  : ABOUT- (Topic: "A does the verb concerning the subject of B")
+*** gez-   : CAUS- (Causative: "A does the verb, but B is the reason it happened")
+*** vuk-  : RECIPROCAL- (Comparison: Each other)
+*** zâ-   : REFLEXIVE- (themself)
+** the State of Mind Set (Internal/Perspective)
+*** moz-  : SHAM- (Pretense: "A does the verb as an act or a lie toward B")
+*** thin- : INWARD- (Subjective: "A does the verb within their own mind/opinion")
+* Valencizers: 
+** words used:
+**** vîl :: verbal :: be-yellow : val - S verb
+**** kek: verbal root: to hit, strike, smite : val - S verb O
+**** hâhênâl :: verbal :: rains; takes null subject teb, -eb : val - verb
+***** hâhên :: nominal
+***** hâhênâleb :: it rains
+***** -eb :: null subject
+***** teb :: the null pronoun
+**** kend :: exchange, a more general word for give/take
+***** val : S verb O Dat
+*** THE VAlENCIFIERS
+**** shar- :: AWAY/AVERTENT- (The Avoidance: A happens specifically to avoid B)
+***** hâhênâleb :: impersonal finite verb :: it rains
+VALENCY :: vb (impersonal)
+bo- :: non-
+rûthis ::: the Praxis of Peace; the state of abiding in peace and
+health and reason
+****** sharhâhênâl borûthisot kensos skînenot
+******* The rain falls averting non-peace and pains.
+***** rûth :: verbal stem :: to practice skillful means of peace and health and reason
+VALENCY: S vb 
+****** sharrûthâl Chaz skînenot.  
+****** notes
+******* rûth :: adjective :: peaceful and healthy and rational
+******* rûth :: verbal stem :: to practice skillful means of peace and health and reason
+******* rûthis :: nominal :: the Praxis of Peace
+******* -is :: nominalizing suffix :: adjective ==> some nominal abstraction
+******* skîn :: nominal :: a painful experience; loosely, the idea of pain; usually used in the plural
+****** AVERTENT.be-peaceful.FIN Chaz.NOM a-pain.pl.ACC
+****** Chaz practices peace 
+***** kek :: strike, hit, smite
+VALENCY :: S vb O
+****** sharkekâl Chaz mûmburnot kenetir.
+****** AWAY.hit.FIN Chaz corpse.state.ACC dog.PERL
+****** Chaz hits the dog to avoid death.
+***** hend:: verbal root :: exchange
+VALENCY :: S vb O (what's exchanged) DAT/ABL (the person with whom the
+exchange is made; DAT denotes giving; ABL taking/receiving
+****** sharhendâl Chaz mûmburnot Klîzînôdh yurenir.
+****** AVERTENT.exchange.FIN Chaz corpse.Abstraction.ACC Church.DAT money.pl.PERL
+**** ho- :: TOWARD/APPETENT :: The Goal: A happens moving to/aimed at B.
+***** hâhênâleb
+****** hohâhênâleb rûthisot.
+****** APPETENT.rain.FIN.null
+****** Rain falls seeking the way of peace, health, rationality.
+***** rûth
+****** horûthâl Chaz tikot am-then rûtheskâleth vâvot.  
+****** APPETENT.be-peaceful.FIN Chaz.NOM this.ACC NAMELY-Indirectdiscourse 
+****** Charles abides in peace in order to make his wife peaceful.
+***** kek 
+****** hokekâl Chaz vâvot kenetir.
+****** Charles hit the dog to achieve his goal of the woman.
+***** hend
+****** hohendâl Chaz rûthisot Klîzînôdh yurenir.
+****** APPETENT.exchange.FIN Chaz peaceful.ness.ACC Church.DAT money.pl.PERL
+**** hek- :: FROM/PROVENANT :: The Source: A happens originating from B
+***** Original sentence:
+***** kekâl Chaz kenetot am botortaxot.
+****** Charles hit the unknown dog.
+***** hekkekâl Chaz vâvot kenetir
+****** FROM-.hit.FIN Charles.nominative woman.ACC OPPOS.know.PASSpart.PERL dog.PERL
+****** Charles hit the strange dog, the act originating from that woman
+**** sor- ::  ABIDE/MANSENT(The Locale or Condition: "A happens at or in (the conditon of) B")
+****** lurnot sorstabâleps?
+****** INTERROG.condition.ACC ABIDE.stand.FIN.2s
+****** What condition are you in?  How are you?
+**** skâ-  : OUT/EXCEDENT (Superiority: "A does the verb better/more than B")
+***** skâkekâl Chaz Tefot kenetir
+***** OUT-.hit.FIN Chas.NOM Tef.ACC dog.PERL
+****** nb: NOM == 0
+***** Chaz outhits Tef, concerning the dog.
+***** Chaz hits the dog more or harder than Tef hits the dog.
+**** vrî-  : UNDER/DEFICIENT (Inferiority: "A does the verb less/worse than B")
+***** vrîkekâl Chaz Tefot kenetir.
+***** Chaz hits the dog less or less hard than Tef does.
+**** kash- : AGAINST/OBSTANT (Opposition: "A does the verb in spite of or in conflict with B")
+***** kashkekâl Chaz Tefot kenetir.
+***** Chaz hit the dog in opposition to Tef.
+**** ban- : FOR/BENEFICIENT  (Beneficiary: "A does the verb for the sake/benefit of B")
+***** bankekâl Chaz Tefot kenetir.
+***** FOR.hit.FIN Chaz.NOM Tef.ACC dog.PERL
+***** Chaz hit the dog for Tef's sake.
+**** jeg-  : WITH/COOPERANT (Cooperation/Instrument: "A does the verb alongside or using B")
+***** jegkekâl Chaz Tefot kenetir.
+***** WITH.hit.FIN Chaz.NOM Tef.ACC dog.PERL
+***** Along with Tef, Chaz hit the dog.
+**** ket-  : ABOUT- (Topic: "A does the verb concerning the subject of B")
+***** ketkekâl Chaz kenetir rûthot.
+***** Chaz hits the dog, over peace.
+**** gez-   : CAUS- (Causative: "A does the verb, but B is the reason it happened")
+***** totîm gezkekâl Chaz kenetir hûnurnir.
+***** Chaz only hits the dog because of necessity.
+**** vuk-  : RECIPROCAL (Comparison: Each other)
+***** vukkekâl Chaz Tef-thor.
+***** Chaz and Tef hit each other.
+****** equivalent to : kekâled Chaz Tef-thor
+**** za-   : REFLEXIVE (themself)
+***** zamozkekâl Chaz.
+***** Chaz pretended to hit himself.
+**** moz-  : SIMULANT (Pretense: "A does the verb as an act or a lie toward B")
+***** Chaz kashmozkekâl Tefot kenetir.
+***** Chaz fake-hit the dog to spite Tef. (He didn't really hit it.)
+**** thep- : SUBJECTIVE (Subjective: "A does the verb within their own mind/opinion")
+***** thinkekazâl Chaz kenetot.  Chaz thinks about being-hitting the dog.
+****** or: Chaz is thinking about hitting the dog
+****** in this case the progressive aspect might be mentally transferred from the act of hitting to the act of thinking about it
+
+
+
+* varad (OBSOLETE): used to mean word
+* jagar :: nominal :: word
+* tôth :: nominal :: a collective
+* -ôth :: nominal suffix: a collective
+* Jagarôthkin: a speaker of Jagarôth
+* lîp :: nominal :: a page or document
+* lîpôth: nominal :: a collective of pages, a book
+* shakis :: nominal :: a stellar system
+* Rorb-Shakis :: nominal :: the Sol System
+* nom :: a thing, an ens
+* tain :: a complex or electrical or electronic device of any kind
+* -ain: a complex or electrical or electronic device of any kind
+* mân :: ground, land, country
+* hahammân :: nominal :: motherland
+* hahamwelk :: nominal :: motherplanet
+* welk :: planet
+* -urn: condition, state
+* turn: a condition a state
+* lurn: what condition?
+
+
+it's turn: a state or condition
+combinative form: -urn
+hence lurn: what condition
+
+sor- : ABIDE- (The Locale or Condition: "A happens at or in (the place
+or time or state of) B")
+
+
+
+
+* -kaz
+** part of speech: conjunction
+** definition: if; the conditional conjunction
+** valency: 
+** examples and usage: 
+** note:
+
+* -dan
+** part of speech: conjunction
+** definition: then; the conditional followup
+** valency: 
+** examples and usage: 
+** note: 
+
+
+
+* borothren
+** part of speech: nominal
+** definition: enemy
+** valency: 
+** examples and usage: 
+** note: 
+*** boro /not/ + thren /friend/
+
+
+* thren
+** part of speech: nominal
+** definition: friend
+** valency: 
+** examples and usage: 
+** note: 
+
+
+* korith
+** part of speech: nominal
+** definition: horse
+** valency: 
+** examples and usage: 
+** note: 
+
+
+* -ir
+** part of speech: suffix
+** definition: perlative suffix
+** valency: 
+** examples and usage: 
+** note: 
+
+
+* -âl
+** part of speech: suffix
+** definition: finite verb marker
+** examples & usage: attaches to most words in most forms
+*** attaches to numerals
+**** totâlosen Mars Wahaz-thor ::: î welk tot
+***** /aliter/ totâl Mars Wahaz-thor ::: î welk tot
+***** one.fin.3pi Mars Wahaz-and ::: there-is planet one
+**** totâl- be one
+*** attaches to verbal roots to make finite verbs
+**** thiktâlos rorb veshem 
+***** /aliter/ thiktâl rorb veshem
+**** the sun touches (is shining on, metaphorically) my face
+***** [[vesh]] /face/
+*** attaches to adjectives to make a verb meaning "be-adjectival"
+**** jûjor shelelâleps ??? Are you okay?
+***** shelelâl- be okay; [[shelel]] okay
+*** attaches to declined nouns according to the Rule of Construal:
+**** borgovâlen /I make for the city/
+**** borgovazâlen /I am making for the city/
+** valency: 
+** note: 
+
+
+
+
+
+* am
+** part of speech: appositive particle
+** definition: namely, even
+** valency: 
+** examples & usage: 
+*** /târ am balem baleps-thor î bal tot ::/
+**** lord appos god.1s god.2s-and copula god one
+**** The Lord Our God and your god are one god. 
+**** in Jagarôth all words and phrases that are appositive to each other must be separated by *am*. "Our Lord, *even* Jesus Christ" kinda thing.
+*** another way of saying it: /târ am balem baleps-thor totâlethen/       :::
+**** totâlethen ::: one.fin.3ps: are one 
+** note: 
+*** *what about cases like this where there are nested appositives? /The Lord Our God even Jesus Christ./ Like so:
+**** ((The Lord Our God) even Jesus Christ)
+**** this is a TODO 
+ 
+
+* -ash
+** part of speech: suffix
+** definition: ablative case suffix
+** valency: 
+** examples & usage: 
+*** attaches to nouns, adjectives when necessary, any kind of noun
+*** borgethov /to his city/ city.3ss.all
+*** other case suffixes: [[-ûr]], [[-ot]], [[-ôdh]], [[-ârth]], [[-îz]], [[-ash]], [[-ov]], [[-eg]], [[-ej]]
+** note: 
+
+* -ax
+** part of speech: suffix
+** definition: past participle/passive marker
+** valency: 
+** examples & usage:
+*** attaches to verbal roots
+**** to make past participles: example, [[hûdhax]] /to-shit.Ppart, a turd/
+**** to make passive verbs: example:
+***** vêthiktaxâlos keg rorbash
+***** in-past-time.touch.Ppart.fin.3si stone sun.abl
+***** The stone was touched by the sun.
+** note: /viz./ [[-az]], [[-axaz]]
+
+
+* -axaz
+** part of speech: suffix
+** definition: perfect progressive; /have already been -ing/ 
+** valency: 
+** examples & usage: 
+*** thiktaxazâlen /verbatim: I have already [suffered]  being touched/
+** note:
+
+* -az
+** part of speech: suffix
+** definition: active participle marker
+** valency: 
+** examples & usage:
+*** attaches to verbal roots
+**** to make active participles (or participials, which in Jagarôth are nominals): hûdhaz, to-shit.Apart, a shitting entity
+***** the adjectival form is /hûdhazid/ shitty".
+*** to make progressive aspect verbs: example, vêthiktazâlos kegot Rorb
+**** in-past-time.touch.Apart.fin.3si stone.acc sun
+**** The sun was touching the stone.
+*** active participles, ending in /-az/, can take an object:
+*** krechaz weyumotepsen î tan kentethot borgîz mûmbid vêpanâlen wel
+*** grab.ActParticip eat.nominalizer.acc.3sp BE man WHO.3ss.acc city.loc carrion.adj past-time.see.fin.1s RELTERM
+*** The one grabbing your food items is the fellow that I saw in the dead city.
+** note: /viz./ [[-ax]]
+
+* bal
+** part of speech: nominal
+** definition: a god
+** valency: 
+** examples & usage: /velem velembalôdh !!!/ 
+*** /velem velembalôdh !!!/
+*** blood blood.god.dat !!!
+*** Blood for the Blood-God!
+** note: 
+
+* bârth OBSOLETE
+** part of speech: nominal
+** definition: method, way, means
+** valency: 
+** examples & usage: agglutinating form -ârth :: by means of
+*** lârth penidash borgûr mûmbid jed kafâleps ???
+*** ?.method inside.abl city.gen cadaver.adj already go.FIN.2s
+*** How did you already go from the ria
+** note: 
+
+
+* bôg
+** part of speech: nominal
+** definition: ghost, spirit
+** valency: 
+** examples & usage: 
+** note: Among the slaves and the helots of the Low-Canals -- no, even among the overseer class and the well off, superstition is rampant; but it's proverbial concerning the slave class.
+
+* bor
+** part of speech: adverb
+** definition: not
+** valency: 
+** examples & usage: modifies whole clauses
+*** îbor tan [[tekid]] !!!
+**** He is not the fellow you're talking about!
+**** BE.not fellow interlocutor's-gist.adj
+*** tanot tekid vêpanâlen bor ::
+**** fellow.acc your-gist.adj in-past-time.see.fin.3ss not 
+**** I did not see the fellow you speak of.
+** note: used to be /bar/; will need to find and replace
+
+* boro-
+** part of speech: prefix
+** definition: opposite marker
+** valency: 
+** examples & usage: 
+*** bororûth /adj/ bad off, doing poorly, fallen on hard times
+**** bororûthâleth /He's bad off./
+** note: 
+
+* bos
+** part of speech: nominal
+** definition: BEHIND, positional noun
+** valency: 
+** examples & usage: 
+*** totûn î bosîz memûr
+**** someone BE behind.loc 1s.gen
+**** Someone is behind me.
+** note: 
+*** memûr is often shortened to [[mûr]]:
+**** totûn î bosîz mûr ::
+
+* bûbur
+** part of speech: nominal
+** definition: mouth
+** valency: 
+** examples & usage:
+*** threndâl keneteps hûdaxot bûburîzos 
+**** have.fin dog.2s to-shit.pPart.acc mouth.loc.3si
+**** Your dog has a turd in its mouth.
+** note: /see/ [[thrend]] /have, possess/ 
+
+* dreb
+** part of speech: verbal root
+** definition: give
+** valency: 
+*** Agent (nominative) verb Object (acc) indirectObject (dat)
+*** alternatively: Agent (nom) verb Object (gen, in the partitive sense) indirectObj (dat)
+** examples & usage: 
+*** vêdrebâlen tepsôdh yuroten vûk ::
+**** past-tense.give.fin.1s 2s.dat money.acc.pl eight
+***** I gave you eight monies.
+***** ALTERNATIVELY
+***** vêdrebâlen tepsôdh yuremûren vûk ::
+****** past.give.fin.1s 2s.dat money.gen.pl eight
+****** I gave to you of my monies eight.
+****** /Aliquibus verbis et ad tædium/ I gave you a part consisting of eight monies from out of the whole of my monies.
+****** I'm not sure this makes sense. The intention is to speak of a /part/. Why would be more specific? And one gives eight money out of the whole... /Eureka! it does make sense!/
+** note: [[vûk]], [[yur]]
+
+
+* -eg
+** part of speech: suffix
+** definition: comitative suffix, /with/
+** valency: 
+** examples & usage: 
+*** vipazâl tump mothîz kadâregen
+**** fast.Apart.fin air sky.loc cloud.com.pl
+** note: 
+
+* -esk
+** part of speech: suffix
+** definition: causative verbal suffix
+** valency: 
+** examples & usage:
+*** causative is not an aspect; it is a change of valency
+*** somebody was doing something vs. person 1 makes somebody do something
+*** attaches to verbal roots
+*** EXAMPLES
+**** karkeskâl Târ memot
+**** The Lord makes me labor.
+**** drebeskâl Târ memot yurûren sad kalîzôdh am hahamôdhemen laur
+**** give.caus.fin Lord 1s.acc money.gen.pl 2 Church.dat appos mother.dat taboo/hedged/holy
+**** The Lord made me give 2 of my monies to our holy mother the Church.
+** note
+
+* fat
+** part of speech: numeral
+** definition: three
+** valency: 
+** examples & usage: 
+** note: 
+
+
+* feletain
+** part of speech: nominal
+** definition: the royal court (of a Jagarôth city)
+** valency: 
+** examples & usage:
+** rêpanâlen tepsot feletainîz !!
+**** I will see you in the royal court!!!
+**** FUTURE.see-FINITE-1s 2spronoun-ACCUSATIVE court of law-LOCATIVE
+** note: 
+
+* fesk
+** part of speech: verbal root
+** definition: to cause
+** valency: 
+** examples & usage:
+*** this might get long coz I don't understand
+*** kafâl mem borgov ::: I go to town.
+*** feskâl teth kafâlen-thenot borgov                                   :::
+**** cause.fin 3ss go.fin.1s-SubordinateCause.acc town.all             :::
+**** "He causes that I go to town."
+** note: 
+** examples & usage: 
+*** this might get long coz I don't understand
+*** kafâl mem borgov ::: I go to town.
+*** feskâl teth kafâlen-thenot borgov                                   :::
+**** cause.fin 3ss go.fin.1s-SubordinateCause.acc town.all             :::
+**** "He causes that I go to town."
+
+
+* flei-
+** part of speech: verbal prefix
+** definition: "under-", comparative-like
+** valency: A or S frei-verb + optional Ablative (the thing being compared with), any leftovers dealt with as best as possible
+** examples and usage: 
+*** flei-layâl Rorbash Kahab
+**** under-shine.FIN sun.abl Phobos
+*** Tam flei-dregâl Kirkôdh Kakash
+**** Tam undergives to the Church compared with Kak.
+** note: 
+
+
+* flet
+** part of speech: adverb
+** definition: forces progressive aspect; still, ongoingly
+** valency: 
+** examples & usage: 
+** related
+*** [[jed]]
+***  [[thrip]]
+** examples and usage: 
+- denotes an activity as ongoing, still happening
+  - forces progressive aspect
+- flet stabâleth Skârîz takûb ::: He was living on Terra at that time.
+** notes
+
+* foifir
+** part of speech: nominal
+** definition: cocaine
+** examples and usage
+** notes
+
+
+* fûm
+** part of speech: numeral
+** definition: four
+** valency: 
+** examples & usage: 
+** note: 
+
+* gash
+** part of speech: conjunction
+** definition: but; clause-level disjunction
+** example and Usage
+*** in-past-time.go.fin.1s but see.fin.1s dog.acc.unspec.plural ::: I went to the dead city but I didn't see the stray dogs.
+** valency: vêkafâlen borgov mûmbid gash panâlen kenetotempen
+** notes
+*** was [[thrip]] but that wasn't metal enough, and now thrip is the habitual apsect marker
+
+* gîgôk
+** part of speech: nominal
+** definition:  The Martian runnerbat, /alias/ the screamer, more dangerous than the Terran cassowary; a carnivorous packrunner; avoid their hunting pods.
+** examples and usage:
+** notes:
+
+* gîm
+** part of speech: adverb
+** definition: Spanish mucho, very, much, a lot
+** examples and usage:
+*** î shîdh gîm tan tak
+*** BE pale exceedingly fellow that
+*** My that fellow is exceedinly pale
+** notes: [[shîdh]]
+
+* gorg
+** part of speech: nominal
+** definition: skull
+** examples and usage
+*** gorgen gorgzakarôdh !!! velem velembalôdh !!!
+*** skull.pl skull.throne.dat !!! blood blood.god.dat !!!
+** notes
+*** [[zakar]]
+*** [[velem]]
+*** [[bal]]
+
+
+* gorm
+** part of speech: verbal root
+** definition: choose, pick, select
+** examples and usage: 
+** notes
+
+* gûbur
+** part of speech: nominal
+** definition: a person of low estate; a person held in contempt by speaker
+** examples and usage: 
+** notes
+
+* haham
+** part of speech: nominal
+** definition: mother
+** examples and usage: 
+** notes
+
+* hâhên
+** part of speech: nominal
+** definition: rain
+** examples and usage: 
+** notes
+
+* heretom
+** part of speech: adjective
+** definition: loud
+** valency: 
+** examples & usage: 
+** note: opposite of [[kush]]
+
+* hogâsh
+** part of speech: nominal
+** definition: home, domicile, house
+** examples and usage: 
+** notes:
+
+* hôken
+** definition
+*** nominal: smoke (of fire)
+** examples and usage: 
+** notes
+
+
+* hûdh
+** part of speech: verbal root
+** definition: to shit
+** examples and usage: 
+** tekeps am [[hûdhax]]                                                      ::: 
+*** gist.2s appos to-shit.Ppart
+*** that shit you're talking
+*** jûjor hûdhâlos vorôn torkrôkîz ???
+**** question? to-shit.fin.3si bear tree.collective.loc
+**** /Does a bear shit in the woods?/
+** notes
+*** <<hûdhax>> (nominal past perfect participle) turd <== shit.passive ::: a thing that has been shat
+**** note: do not create a new entry (org-mode heading) for [[hûdhax]]: defining it one time is enough
+**** <<hûdhid>> to-shit.adj; /hûdhaxid/ turdy
+**** note: do not create a new entry (org-mode heading) for [[hûdhid]]: defining it one time is enough
+**** see [[-ax]], [[-id]], [[vorôn]] /bear/, torkrôk /woods/, from [[tor]] /tree/ + [[krôk]] /collective/; see also, [[shîr]] /a paucality, a few/, [[târth]] /a plurality, a very many/, [[tot]] /one, a single one of/, [[jûjor]] /question opener/, [[-or]] /imperative suffix/
+
+* hûlur
+** part of speech:
+** definition
+*** nominal: cat
+** Related
+** examples and usage: 
+** notes
+
+* î
+** part of speech: anomalous verb
+** definition: is are; /Sp. hay/
+** related
+- [[am]]
+- [[îax]]
+- [[îbor]]
+- [[îor]]
+- [[îorbor]]
+** examples and usage: 
+*** asserts (or questions) existence
+**** "jûjor î Sherîn borgîz ???" "skrîd, borgîzâleth :::"
+***** question BE Sherîn city.loc??? yes, city,loc.fin.3ss
+***** Is Sherîn in the city? Yes, she is in the city.
+*** serves as copula, linking (even if not between) subject and predicate
+**** lal tak î shelel                                                  :::
+***** water that BE okay
+***** That water is okay (good to drink)
+**** jûjor î shelel lal tak
+***** question BE okay water that
+***** Is that water okay?
+** notes: 
+*** Sp. /hay/ is an impersonal verb, as it takes no person. When î occurs between predicates it functions as a copula. When î occurs before any predicates, it asserts the existence of the predicates, and is not acting like a copula there
+
+
+* îax
+** part of speech: anomalous verb
+** definition: was, has been; [[î]] + [[-ax]]
+** related
+** examples and usage: 
+*** asserts that something /has/ existed or that something /has been/ something else
+*** îax memen Wahazkinen !!!
+**** BE-PassPart 1s.pl Mars.human.pl
+**** WE have been Martians!
+** notes
+
+
+* îbor
+** part of speech: anomalous verb
+** definition: the negative anomalous verb, /to be/ ; the /hay/-particle, is not
+** related
+- [[î]]
+- [[îax]]
+- [[îâl-]]
+** examples and usage: 
+*** îbor mem Wahazkin, î Skârash
+*** BE.not I Mars.human, BE Terra.abl
+** notes
+*** î + bor ::: /hay/-particle + not
+
+* -id
+** part of speech: suffix
+** definition: adjectival suffix
+** examples and usage: 
+*** attaches to nominals, verbal roots, underived adverbs, numerals, to make adjectives
+*** [[hûdhid]] shitty
+*** [[totid]] alone (note: cardinal and ordinal numbers ????, becasue [[totid]] cannot mean first)
+*** Rorbid sunny; solar
+** notes
+
+* -îm
+** part of speech:
+** definition
+*** suffix: adverbial suffix; makes adverbs
+** examples and usage: 
+*** [[totîm]] /alone, lonely/
+*** vêlayazâl Rorb vîlitazintîm
+**** in-the-past.shine.ActPart.fin sun color-yellow.adj.ActPart.incho.adv
+**** The Sun was shining /turning-yellowly/.
+***** The Sun was shining in a turning yellow manner.
+**** see [[-int]], [[vîl]], [[lay]]
+*** attaches to numerals, nouns, adjectives, verbal roots
+** notes
+
+* -int
+** part of speech:
+** definition
+*** suffix: the inchoative suffix; 
+** Related
+** examples and usage: 
+*** attaches to verbal roots to denote /becoming/
+*** bororûthâl tan tik, vîlidintâleth
+***** not.good.fin.3ss color-yellow.adj.incho.ActPart.fin.3ss
+***** That man's unhealthy, he's turning yellow
+***** bororûthâl'tan tik: not.good.is.he: rûth is a adjective
+** notes
+
+* îor
+** part of speech:
+** definition
+*** anomalous verb: BE + imperative; Be!!!
+** Related
+*** [[î]]
+*** [[îax]]
+*** [[îbor]]
+*** [[îorbor]]
+*** [[îâl-]]
+** examples and usage: 
+** notes
+
+* îorbor
+** part of speech:
+** definition
+*** anomalous verb: /don't be!!!/ î + -or /imp suff/ + bor /not/
+** Related
+*** [[î]]
+*** [[-or]]
+*** [[bor]]
+** examples and usage: 
+** notes
+
+* jagor
+** part of speech:
+** definition
+*** nominal: the Martian wolf, elongated variant of the Terran gray wolf; coat is thick and bright red and bristles and flares about the shoulders and back of the neck.
+** Related
+** examples and usage: 
+** notes
+
+* jeb
+** part of speech:
+** definition
+*** numeral: seven
+** Related
+** examples and usage: 
+** notes
+
+* jed
+** part of speech:
+** definition
+*** adverb: already
+** Related
+** examples and usage: 
+*** denotes an activity as completed
+*** forces perfective aspect
+** notes
+
+* jothor
+** part of speech:
+** definition
+*** nominal: fire
+** Related
+*** jothorid /adj/ fiery
+** examples and usage: 
+** notes
+
+* jûjor
+** part of speech:
+** definition
+*** particle: question marker
+** Related
+** examples and usage: 
+*** in Jagarôth a question begins with some interrogative word. if question is yes/no (polar), and no interrogative pronoun is available, jûjor begins the clause
+*** opens questions
+*** jûj ::: archaic verbal root meaning to speak, to say
+*** -or ::: interrogative verb ending
+*** jûjor is basically a transitive verb, imperative mode, where the rest of the clause is the object of the verb root jûj-
+*** jûjor vê panâleps kenetotem borgîz mûmbid ???
+**** question in-past-time.see.fin.2s dog.acc.1s city.loc carrion.adj?
+**** Did you see my dog in the dead city?
+** notes
+
+
+
+* kadâr
+** part of speech: nominal
+** definition: cloud
+** valency: 
+** examples & usage: /vipazâl tump mothîz kadâregen/
+** note: 
+
+* kaf
+** part of speech:
+** definition
+*** verbal root: go, come (from somewhere /Abl/) (to somewhere /All/)
+** Related
+** examples and usage: 
+*** fîn shêpep kafâlen Marishov.
+*** finna in-recent-time.dim go.fin.1s Terra.all
+*** I'm finna to go to Terra shortly.
+** notes
+
+* Kahab
+** part of speech: proper name
+** definition: The Greater Moon
+** valency: 
+** examples & usage: 
+** note: 
+
+* kark
+** part of speech:
+** definition
+*** verb root: work, labor, do hard labor, to slave
+** Related
+*** karkum: a job, a hard job of work, they're all hard
+** examples and usage: 
+** notes
+
+
+
+* Kêdath
+** part of speech:
+** definition
+*** proper name: one of the cities of the Low-Canals
+** Related
+** examples and usage: 
+*** kafâleth vâvem Kêdathash. 
+*** My wife comes from Kêdath.
+** notes
+*** [[kaf]] /go, come/
+
+
+* keg
+** part of speech:
+** definition
+*** nominal: a stone, a rock
+** Related
+** examples and usage: 
+** notes
+
+
+* kek
+** part of speech: adjective
+** definition: other
+** valency: 
+** examples & usage:
+*** kekom /elsewhere/
+** note: 
+
+* kel
+** part of speech:
+** definition
+*** nominal: star
+** Related
+*** [[Rorb]] the Sun
+*** [[lay]]
+*** [[welk]]
+** examples and usage: 
+** notes
+
+* kenet
+** part of speech:
+** definition
+*** nominal: the Martian domesticated dog
+** Related
+** examples and usage: 
+** notes
+
+* ken...wel
+** part of speech:
+** definition
+*** circumposition: the relative and subordinate clause circumposition
+** Related
+** examples and usage: 
+*** ken...wel is the first /double particle/ in J. 
+*** a /resumptive pronoun/ attaches to /ken/ without a hyphen
+*** /wel/ closes the construction, and isnt ommissable.
+**** ken...wel encloses relative and subordinate clauses
+***** relative clauses modify nominals
+***** subordinate clauses modify everything else including verbs
+****** tan kentethot klalâlen wel [[îbor]] Wahazîz
+****** fellow REL.3ss.acc love.fin.1s BE.not Mars.loc
+****** The man that I love is not on Mars ([[Wahaz]]).
+****** /ken/ marks a relative clause. /tethot/ is the resumptive pronoun, which is always included within a ken...wel construction
+** notes
+
+* kez
+** part of speech:
+** definition
+*** numeral: five
+** Related
+** examples and usage: 
+** notes
+
+
+* kin
+** part of speech:
+** definition
+*** nominal: a human; combinatory form
+** Related
+** examples and usage: 
+*** Skârkin
+**** an Yrthsman
+** notes
+
+* kîretein
+** part of speech:
+** definition
+*** nominal: eagle
+** Related
+** examples and usage: 
+** notes
+
+* klag
+** part of speech:
+** definition
+*** stride, walk, step
+** Related
+** examples and usage: 
+** notes
+
+* klal
+** part of speech:
+** definition
+*** verb root: love, have charity towards (smbody /Acc/)
+** Related
+** examples and usage: 
+*** the verbal root /klal/ does not denote the /feeling/ of love; it denotes the actions, the /karkumen/ that are performed to love your neighbor as yourself
+*** Sherîn spelazâleth klalâleth-then tanoteth gash karkâleth bor tethôdh
+*** Sherîn say.ActPart.fin.3ss do=charity.fin.3ss-quote man.acc.3ss but labor.fin.3ss not him.dat
+*** Sherîn says she loves her man but she labors not for him.
+**** you know that /karkâleth/ is not reported speech because it does not have a [[-then]] attached to it
+** notes
+
+* koikask
+** part of speech: nominal
+** definition: Martian canal junque
+** valency: 
+** examples and usage: 
+** note: 
+
+
+* kokon
+** part of speech:
+** definition
+*** nominal: maize
+** Related
+** examples and usage: 
+** notes
+
+* kolt
+** part of speech: nominal
+** definition: matter, affair
+** Related
+** examples and usage: 
+*** hûn tortâlen qâthoteps koltîz tik
+** notes
+
+* kor
+** part of speech: 
+** definition
+*** numeral: six
+** Related
+** examples and usage: 
+** notes
+
+
+* kraw
+** part of speech: nominal
+** definition: spaceplane (in the Legendary Future, most planes are spaceplanes)
+** valency: 
+** examples and usage: 
+** note: 
+
+
+* krech
+** part of speech: 
+** definition
+** Related
+** examples and usage: 
+** notes
+
+* krêkid
+** part of speech: 
+** definition
+*** nominal: wine
+** Related
+** examples and usage: 
+*** wine in particular, as wine is always mentioned in old legendary Mars stories
+*** tên weyâlen krêkidot.
+*** I want to drink wine.
+** notes
+*** [[wey]]
+
+* krôk
+** part of speech: 
+** definition
+**** nominal: collective, a counter noun (similar to English a /head/ of cattle)
+** Related
+** examples and usage: 
+*** jûjor vorôn hûdhâlos torkrôkîz ???
+**** question? to-shit.fin.3si bear tree.collective.loc
+**** /Does a bear shit in the woods?/
+** notes
+*** 
+
+* kûlûth
+**** part of speech: nominal
+**** definition: reason
+**** valency:
+**** examples & usage: /-ûth/ agglutinating form for correlatives
+***** lûth /for what reason, why/
+****** lûth vê kafâleps borgov wavûmîz tak ???
+****** what.reason-for past.go.fin.2s city.all night.loc tak
+****** /Why did you go to town that night?/
+***** tikûth /for this reason/ + am /namely/ = /because/
+***** tikûth am /because (speaker associates self with this reason)/; takûth am /because (speaker dissociates self from that reason)/; tokûth /because (speaker feels reason is outlandish)/; 
+***** 
+**** note:
+<<-ûth>>
+
+
+
+* kush
+** part of speech: adjective
+** definition: quiet
+** valency:
+** examples & usage:
+** note: opposite of [[heretom]]
+
+* lâl
+** part of speech: 
+** definition
+** Related
+** examples and usage: 
+** notes
+
+* lay
+** part of speech: 
+** definition
+*** verbal root: radiate, shine
+** examples and usage: 
+*** thrip layâlos Rorb mothîz Wahazîz
+*** habitually radiate.fin.3si sun sky.loc Mars.loc
+** notes
+** Related
+*** things that radiate
+**** [[kel]] star, [[welk]] planet, [[Tos]] Deimos, Kahab Phobos
+
+
+* lel
+** part of speech: 
+** definition
+*** verbal root: write or draw smthg on a surface
+** Related
+** examples and usage: 
+** notes
+
+* los
+** part of speech: 
+** definition
+*** insapient interrogative pronoun: who?
+** Related
+** examples and usage: 
+** notes
+
+* lûn
+** part of speech: 
+** definition
+*** sapient interrogative pronoun: who?
+** Related
+** examples and usage: 
+** notes
+
+
+* maimis
+** part of speech: 
+** definition
+*** nominal: madness, insanity
+** Related
+** examples and usage: 
+*** î maimis tepsôdh !!!
+*** 
+** notes
+
+* mâlm
+** part of speech: 
+** definition
+*** adjective: old
+** Related
+** examples and usage: 
+*** flet mâlmîthaxâlen kel bororûth tot
+**** progressive-wise old.caus.PassPart.fin.1s star bad one
+**** I am being made old by an evil star.
+** notes
+
+* Marish
+** part of speech: 
+** definition
+*** nominal: the planet Venus
+** Related
+** examples and usage: 
+** notes
+
+* mebel
+** part of speech: 
+** definition
+***  nominal: girl
+** Related
+** examples and usage: 
+** notes
+
+* mem
+** part of speech: possessive pronominal adjective
+** definition: my, mine: 1s possive adjective
+** valency: 
+** examples & usage: agglutinating form: [[-em]] 
+*** not often found in full form /mem/
+*** thiktor bor veshem ::: /Do not touch my face./ /Viz./ [[-or]] /imperative suffix/
+** note: 
+
+* mîm
+** part of speech: 
+** definition
+*** nominal: location BELOW (smthg, gen)
+** Related
+** examples and usage: 
+*** î vesh Wahazid mîmîzmemûr
+**** BE face Mars.adj below.loc 1s.gen
+** notes
+
+
+* momor
+** part of speech: 
+** definition
+*** numeral: 216 
+** Related
+** examples and usage: 
+** notes
+
+* môth
+** part of speech: nominal
+** definition: sky
+** valency: 
+** examples & usage: 
+*** vipazâl tump môthîz kadâregen
+**** fast.ActivePart.fin air sky.loc cloud.com.pl
+*** kraw vê warpâlos penov môthûr
+**** spaceplane PAST.fly.FIN.3si within.all space.gen
+**** The spaceplane flew into space.
+*** kraw vê warpâlos môthov
+**** The spaceplane flew to space.
+*** kraw vê warpâlos môthîzov
+**** The spaceplane flew into space (to in space).
+** note: 
+
+* mûmb
+** part of speech: 
+** definition
+*** nominal: cadaver, carrion, corpse, a dead sapient
+** Related
+** examples and usage: 
+*** vê panâlen kenetoteps borgedîz mûmbûren
+**** I saw your dog in the city of the dead.
+**** in-past-time.see.fin.1s dog.acc.2s city.aug.loc cadaver.gen.pl
+** notes
+
+* nâl
+** part of speech: nominal
+** definition: nycthemeron
+** valency: 
+** examples & usage: 
+** note: 
+*** a /nâl/ or /nycthemeron/, considered as a unit of time, is one day, /scilicet/ the period of a planetary revolution
+*** Seven myriads ago, Mars's period of revolution was /24 hours 37 minutes/
+
+* neb
+** part of speech: 
+** definition
+*** nominal: location IN FRONT OF (smthg, gen)
+** Related
+** examples and usage: 
+** notes
+*** was /for/ but that's so obviously from /forward etc/
+
+* neben
+** part of speech: 
+** definition
+*** nominal: bean
+** Related
+** examples and usage: 
+** notes
+
+
+* nom
+** part of speech: nominal
+** definition: a location
+** desc
+*** used (in agglutinating form /-om/) as a correlative basis
+** examples & usage
+*** tikom /here/
+*** lom /where?/
+** notes 
+*** <<-om>> adverbial, agglutinating form used as basis for correlatives
+*** signifies a thing is /at a location/
+
+
+* nûn
+** part of speech: 
+** definition
+*** nominal: location ABOVE (smthg, gen)
+** Related
+** examples and usage: 
+*** warpâl' kraw gâdov
+*** fly.fin.' spaceplace above.all
+** notes
+
+* Obâr
+** part of speech: 
+** definition
+*** nominal: the Emperor
+** Related
+** examples and usage: 
+** notes
+
+
+
+* -or
+** part of speech: suffix
+** definition: imperative suffix
+** valency: 
+** examples & usage: attaches to verbs and things that might be construed as verbs
+*** thiktor bor veshem ::: /Do not touch my face./
+*** tokomovored !!! ::: Betake yourself far away
+*** hûn gathored, David :: /You gotta kill yourself, David/ 
+**** /verbatim/ this is more literally like: Kill yourself, David, you gotta.
+*** jûjor... question marker
+*** "jûjor î Sherîn mûmid ???"
+**** Is Sherîn dead?
+*** vipor !!! Run!!! /see [[vip]]/
+** note: 
+
+* -ot
+** part of speech: 
+** definition
+*** suffix: accusative case marker
+** Related
+** examples and usage: 
+*** totîm Rorb tump-thor thiktâlosen mumbidûr kegoten borgûr 
+**** one.wise sun air-and touch.fin.3pi  carrion.adj.gen stone.acc.pl city.gen
+**** Only the sun and the air touch the stones of the dead city.
+**** a note on adjectives
+**** note: adjectives take no case ending if adjacent to the nominal they modify
+**** note: if separated from the nominal they modify, adjectives take the case ending of their nominal
+** notes
+
+* pan
+** part of speech: 
+** definition
+*** verbal root: see
+** Related
+** examples and usage: 
+** notes
+
+* pen
+** part of speech: 
+** definition
+*** nominal: location INSIDE (smthg, gen)
+** Related
+** examples and usage: 
+** notes
+
+* qâth
+** part of speech: 
+** definition
+*** nominal: mind, sensorium; opinion
+** Related
+** examples and usage: 
+*** hûn tortâlen qâthoteps koltîz tik ::
+**** OBLIGATION know-FINITE-1s mind-ACCUSATIVE-2sPoss affair-LOCATIVE-this ::
+**** I must know your mind in this affair.
+** notes
+
+
+* qîz
+** part of speech: 
+** definition
+*** verbal: to piss
+** Related
+** examples and usage: 
+** notes
+*** was qîz; might still be qîz
+
+
+* rê-
+** part of speech: 
+** definition
+*** adverb: in future time
+** Related
+** examples and usage: 
+** notes
+
+
+
+* Rorb
+** part of speech: 
+** definition
+*** proper name: the sun
+** Related
+** examples and usage: 
+** notes
+
+* rûth
+** part of speech: 
+** definition
+*** adjective: good, wholesome, healthy, pertaining to what the rich experience
+** Related
+*** [[totid]] (a derived adjective)
+** examples and usage: 
+*** /tekeps î rûth/ ::: /What you say is good./
+** notes
+*** So called /natural adjectives/ such as /rûth/ do not require the adjectival ending (/-id/) bc they are already adjectives; bare, naked adjectives gone wild
+
+* sad
+** part of speech: 
+** definition
+*** numeral: two
+** Related
+** examples and usage: 
+** notes
+
+* sain
+** part of speech: 
+** definition
+*** numeral: ten
+** Related
+** examples and usage: 
+** notes
+
+
+* -sest
+** definition
+*** suffix: but; disjunction suffix
+** Related
+- related: [[-thor]] ::: disjunction suffix
+- related: /shid/ ::: clausal conjunction; "and"
+** examples and usage: 
+- enclitic suffix, which means that for purposes of stress accent /-thor/ loses its own stress accent and causes the position of the modified word's stress accent to change
+- attaches to nominals, adjectives, adverbs, but not verbs, because many Jagarôth verbs are complete sentences in there own right and /-thor/ does not conjoin clauses
+** notes
+-
+  
+* shâ
+** part of speech: 
+** definition
+*** adverb: in the present time
+** Related
+** examples and usage: 
+*** tense particle
+*** natural adverb
+*** Precedes verb. If aspect particle present, it comes after vê or other tense particle.
+**** word order: tense aspect verb
+** notes
+
+ 
+
+* shelel
+** part of speech: 
+** definition
+*** /adjective/ okay, good, describes the condition of someone having health and/or wealth
+** Related
+*** [[rûth]] /adj/ good (opposite of bad)
+** examples and usage: 
+*** shelelâlen shid shelelâleps
+*** I'm okay and you're okay
+** notes
+
+
+* shid
+** part of speech: 
+** definition
+(conjunction): and
+** Related
+- [[-thor]], [[gash]], [[-sest]], [[thrip]]
+** examples and usage: 
+*** /shelelâlen shid shelelâleps :::/
+*** okay.fin.1s and okay.fin.2s
+*** I am okay and you are okay.
+** notes
+*** /shid/ conjoins clauses. Not nominals, not adjectives, etc.
+*** /-thor/ conjoins words and phrases of every kind but for declined verbs (because they are clauses) and entire clauses
+
+* shîdh
+** part of speech: adjective
+** definition: pale, pallid, having a color of pasty white
+** valency: 
+** examples & usage:
+*** î shîdh gîm tan tak
+*** BE pale exceedingly fellow that
+*** My that fellow is exceedinly pale
+** note: 
+
+* shîdh
+** part of speech: 
+** definition
+*** adjectival :: pale, pallid, pasty white
+** Related
+** examples and usage: 
+** notes
+
+* shîr
+** part of speech: 
+** definition
+*** nominal: collective, a counter nominal (similar to English a /head/ of cattle)
+** Related
+** examples and usage: 
+**** stabazâlos kenet torshîrîz ::: the dog is standing in the coppice/copse
+**** stand.Apart.fin.3si dog tree.paucality.loc
+** notes
+*** [[stab]]
+
+* shis
+** part of speech: 
+** definition
+*** nominal: snow
+** Related
+** examples and usage: 
+** notes
+
+* shiv
+** part of speech: 
+** definition
+*** verbal root: to suffer, experience, feel
+** Related
+- /shivum/ a particular something that happens to you or that you suffered or experienced
+- it may be described as an event, it may be a color, a feeling...
+- î târth shiven memôdh bororûthen
+- î târth shivemen bororûthemen
+- BE multitude feeling.1s.pl polaropp.good.1s.pl
+  - My bad feelings are a multitude.
+** examples and usage: 
+- /tsalshivâlen/
+- fear.experience.fin.1s
+- equiv. to /î tsal memôdh/ :::
+  - BE fear me.dat
+** notes
+
+* sisips
+** part of speech: nominal
+** definition: a human head hair
+** Related
+** examples and usage: 
+** notes
+
+* skai-
+** part of speech: verbal prefix
+** definition: "out-", comparative-like 
+** valency: A or S skai-verb + optional Ablative (the thing being compared with), with any leftovers dealt with as best as possible
+** examples and usage: 
+*** skai-layâl Tosash Kahab
+**** out-radiate.FIN Deimos.abl Phobos
+**** Phobos outshines Deimos Phobos is brighter than Deimos.
+*** skai-dregâl Kirkôdh Tamash Kak
+**** out-give.FIN Church.dat Tam.abl Kak
+**** Kak gives more to the Church than Tam gives.
+** note: 
+
+* Skâr
+** part of speech: 
+** definition
+*** proper name: the planet Terra, third from Sol
+** Related
+** examples and usage: 
+** notes
+
+* skîn
+** part of speech: 
+** definition
+*** nominal: pain, the sensation of pain; a thing that causes pain
+** Related
+** examples and usage: 
+*** thrip skînîthâlos Rorb memôdh
+*** The Sun is used to causing me pain.
+** notes
+
+* skrab
+** part of speech: 
+** definition
+*** nominal: The xeric waste, the catholic Martian future held at bay by mainstrength and chattel slavery; a future hard to believe in from the shadows of the forests of Syrtis Major; easier, from a xeric waste.
+** Related
+** examples and usage: 
+** notes
+
+* skrîd
+** part of speech: 
+*** definition
+particle: the affirmative particle, yes
+*** Related
+*** examples and usage: 
+- "jûjor î Sherîn borgîz ???"
+  - question copula Sherîn city.loc
+  - "Is Sherîn in the city?"
+- "skrîd, borgîzâleth :::"
+  - yes city.loc.fin.3ss
+  - "Yes, she is in the city."
+*** notes
+
+
+
+* skril
+** part of speech: nominal
+** definition: visible light
+** valency: of an applicative verb, because /skril/ is an applicable type of thing
+*** skrilûdâl A: the sun (nom), O: my face (acc)
+** examples & usage: 
+*** skrilûdâl Rorb Wahazûr veshot
+*** light.applic.fin sun Mars.gen face.acc
+*** The sun "applies" visible light to the face of Mars.
+** note:  [[-ûd]] ::: applicative suff.
+
+
+
+
+* spel
+** part of speech: 
+** definition
+*** verbal root: speak or say (smthg acc)
+** Related
+** examples and usage: 
+** notes
+
+** stab
+** part of speech: 
+** definition
+*** verbal root: *abide*, stand, exist, inhabit, dwell at
+** Related
+** examples and usage: 
+*** stabâlen Kêdathîz
+*** stand.fin.1s Kêdath.loc
+*** I live at/in Kêdath
+** notes
+*** [[Kêdath]]
+
+* stokor
+** part of speech:  
+** definition
+numeral: 1296 (* 6 6 6 6)  -- base6 10000
+** Related
+- momor
+** examples and usage: 
+** notes
+
+* tak
+** part of speech: 
+** definition
+demonstrative: that (near interlocutor)
+** Related
+- [[tik]], [[tok]], [[tek]]
+** examples and usage: 
+- tan tak î homin kentethot vêpanâlen borgîz mumbid wel
+  - fellow that copula human REL.he.acc in-past-time.see.fin.1s city.loc dead-flesh.adj RELTERM
+  - That fellow is the human I saw in the dead city.
+- tan tik tan-thor tak totâlethen
+  - fellow this fellow.-and that one.fin.3ps
+  - This fellow and that fellow are the same (fellow).
+    - literally /totâl-/ /(one.fin-)/ means /Be one and the same/
+** notes
+
+* târth
+** part of speech: 
+** definition
+*** nominal: counter-noun /a plurality, a multitude/
+** Related
+** examples and usage: 
+*** shivemen î târth
+*** my sufferings are a multitude
+** notes
+
+* tatam
+** part of speech: 
+** definition
+***** nominal: father
+** Related
+** examples and usage: 
+** notes
+
+* tek
+** part of speech: 
+** definition
+demonstrative: the gist of one particular interlocutor's argument in a group of interlocutors
+- usually the one person you happen to be talking to (your interlocutor) at any given moment, the substance of what they's saying
+** Related
+- tik, tak, tok (demonstratives)
+** examples and usage: 
+- /tek am hûdhaxeps shelelâlos bor/
+- That shit you talk is not okay!
+- /tekeps am hûdhaxemp shelelâlos bor :::/
+- your-gist appos to-shit.pastpcpl.unspec okay.fin.3si not
+- like it's "nobody's" turd, almost
+- That shit of yours you talk ain't okay.
+** notes
+- tek is considered a demonstrative by the Martians but functions also like a nominal meaning "gist"
+- /tek/ can be possessed, unlike /tik, tak, tok/
+- /tekeps î rûth/ ::: /What you say is good./
+
+* tekid
+** part of speech: adjective
+** definition: /that you're talking about/
+** valency: 
+** examples & usage: 
+** note: from [[tek]]
+* -then
+** part of speech: enclitic suffix
+** definition: subordinate clause and reported speech marker; /that/
+** valency: 
+** examples & usage: 
+*** subordinate clause
+**** feskâleth kafâlen-thenot tokov
+**** /He causes that I go far away.
+***** note the accusative marker /-ot/ attached to /-then/; the subordinate clause as a whole is the object of the verb;  so the objective case marker is placed on the word that creates it/
+** note: 
+
+* thesh
+** part of speech: nominal
+** definition: wind
+** Related
+*** [[tump]]
+** examples and usage: 
+** notes:
+*** /thesh/ refers to the wind you feel on your face. [[tump]] refers to the atmosphere, large weather patterns, and suchlike
+
+* thikt
+** part of speech: verbal root
+** definition: touch
+** Related
+** examples and usage: 
+*** Rorb thiktazâlos veshotem skrilenthos jothorid.
+*** sun touch.ActPart.fin.3si face.Acc.1s light-energy.instr.3si fire.adj
+*** The Sun is touching my face with its firey light 
+** notes
+
+* -thor
+** part of speech: 
+** definition
+suffix: and; additive coordinator ("plus"); conjunction suffix
+** Related
+- [[-sest]] disjunction suffix
+- [[shid]] clausal conjunction; "and"
+** Example and Usage
+- enclitic suffix, which means that for purposes of stress accent /-thor/ loses its own stress accent and causes the position of the modified word's stress accent to change
+- attaches to nominals, adjectives, adverbs, but not verbs, because many Jagarôth verbs are complete sentences in there own right and /-thor/ does not conjoin clauses
+** notes
+-
+
+* thrend
+** part of speech: verbal root
+** definition: have, possess, have hold of/on
+** valency: verb A O
+** examples & usage: 
+** note: Previously this was /hend/ but that was boring
+
+* thrip
+** part of speech: adverb
+** definition: habitual aspect marker
+** Related
+** examples and usage: 
+** notes
+
+* thrish
+** part of speech: nominal
+** definition: worm
+** Related
+** examples and usage: 
+** notes
+
+
+* tik 
+** part of speech: 
+** definition
+demonstrative: this (near speaker)
+** Related
+- [[tak]], [[tok]], [[tek]]
+** examples and usage: 
+- /tak tik tan-thor tak totâlethen/
+- fellow this fellow-and that one.fin.3ps
+** notes
+-
+
+* tok
+** part of speech: 
+** definition
+demonstrative: that (distant from speaker and interlocutor)
+** Related
+- [[tik]], [[tak]], [[tek]]
+** examples and usage: 
+- /tak tik tan-thor tak totâlethen/
+- fellow this fellow-and that one.fin.3ps
+** notes
+-
+
+* tokomovored
+** part of speech: imperative verb
+** definition: /Betake thyself far away/
+** valency: /verb A = O/ :: reflexive /-ed/, Agent is the Object
+** examples & usage: 
+** *Tokomovored !!!
+*** that-yonder.place.all.imper.reflex
+** note: Demonstrates a large trust in one's auditor's ability to quickly agglutinate words in their mind
+*** [[tok]] :: demonstrative
+*** [[-om]] <== [[nom]] /a location/
+
+* tometpo
+** part of speech: 
+** definition
+*** nominal: tomato
+** Related
+** examples and usage: 
+** notes
+
+* topap
+** part of speech: 
+** definition
+*** nonimal: potato
+** Related
+** examples and usage: 
+** notes
+
+* tor
+** part of speech: nominal
+** definition: tree
+** Related
+** examples and usage: 
+*** the Jagarôth word for any tree
+- jûjor vorôn hûdhâlos torkrôkîz ???
+  - question? to-shit.fin.3si bear tree.collective.loc
+  - /Does a bear shit in the woods?/
+** notes
+-
+
+* torth
+** part of speech: 
+** definition
+** 
+** Related
+** examples and usage: 
+** notes
+
+* Tos
+** part of speech: proper name
+** definition: The Lesser Moon
+** Related: [[Kahab]] /The Greater Moon/
+** examples and usage: 
+** notes
+
+* tot 
+** part of speech: numeral
+** definition: one
+*** Related
+- [[zip]] zero
+- [[sad]] two
+- [[fat]] three
+- [[fum]] four
+- [[kint]] five
+- [[kor]] six
+- [[jeps]] seven
+** examples and usage: 
+*** totâlosen Yrth Wahaz-thor :: î welk tot !!!
+*** one.FIN.3pi Earth Mars-and. BE planet one
+*** Yrth and Mars are one; they are one planet
+** notes
+*** "numeral" because "number" is already occupied by a property of pronouns and verbs
+
+
+* totid
+** part of speech: 
+** definition
+adjective: alone, lonely
+** Related
+** examples and usage: 
+- totid is a derived adject, derived from a numeral
+- the other kind of adjective is a natural adjective like [[rûth]]
+** notes
+
+* totid
+** part of speech: 
+*** definition
+**** derived adjective: alone, lone
+*** Related
+*** examples and usage: 
+*** notes
+
+* totîm
+** part of speech: 
+** definition
+*** derived adverb: only, alone
+** Related
+*** [[totid]] 
+** examples and usage: 
+*** î morb memôdh balashem totîm.
+*** BE hope me.dat god.abl.1s
+*** I have hope in my god only.
+*** totîm î morb memôdh balashem.
+*** I only have hope in my god.
+** notes
+
+* trelen
+** part of speech: 
+** definition
+nominal: the feeling called happiness or joy
+** Related
+** examples and usage: 
+- I'm happy to be home.
+- is happiness to me from/about home
+- î [[trelen]] memôdh hogâshash
+** notes: [[trelen]], [[trulen]], [[rûth]]
+
+* trulen
+** part of speech: nominal
+** definition: peace
+** valency: 
+** examples & usage: 
+** note: opposite of [[yâhor]]
+
+
+* tsal
+** part of speech: 
+** definition
+nominal: fear
+** Related
+** [[shiv]]
+** [[tsalid]]
+** examples and usage: 
+** notes
+*** fear, like all emotions, is a thing, hence is a nominal 
+*** tsalithâl- :: verbal :: to make afraid, frighten
+**** fear.experience.fin.1s
+**** tsalitâleth
+***** fear.adj.fin.3ss
+***** he is afraid (literally /feary/)
+**** tsalshivâleth
+***** fear.feel.fin.3ss
+***** he is afraid (literally /he experiences fear/)
+**** [[î]] tsal tepsôdh
+***** BE fear thou.dat
+
+* tsalid
+** part of speech: 
+** definition
+*** derived adjective: feary, scary
+** Related
+** examples and usage: 
+** notes
+
+
+
+* tsîts
+** part of speech: 
+** definition
+nominal: fly (insect)
+** Related
+** examples and usage: 
+** notes
+*** this word is kinda nonstandard. the question of whether /ts/ consists of one or two Jagarôth phonemes is hard to answer. should be two phonemes, sounds like one
+
+* tûb
+** part of speech: nominal
+** definition: an instance, instant in time; moment; occasion
+** valency: 
+** examples & usage: 
+*** lûb /when?/; tikûb /now/; takûb /then/; kekûb /at another time, otherwhen/; etc 
+*** takûb
+**** tak + -ûb ::: at that time/point/moment/occasion
+**** tên kafâlen zipûb Skârov.
+***** desire-modal go.fin.1s zero.instance Terra.all
+***** I want never to go to Terra.
+** note: 
+*** agglutinating form: <<-ub>>
+
+* tump
+** part of speech: 
+** definition
+*** nominal: atmosphere, air, wind
+** Related
+*** [[thesh]]
+** examples and usage: 
+** notes
+*** -ûd applicative is not an aspect
+** definition
+** Related
+** examples and usage: 
+*** attaches to verbal roots to denote beginning action
+*** flet vîlûdâlethen balethen tanot tak
+**** The gods are making that man yellow (literally /are yellowing that man/)
+**** progress color-yellow.applic.fin.3ps god.3ps man.acc that
+**** vîlûd- /make yellow/
+** notes
+
+* -ûd
+** part of speech: suffix
+** definition: applicative verbal suffix
+** valency: A (nom) /applies-X-to/ O (acc)
+** examples & usage:
+*** skrilûdâl Rorb Wahazûr veshot
+*** light.applic.fin sun Mars.gen face.acc
+*** The sun "applies" visible light to the face of Mars.
+** note: [[fesk]] to cause; 
+
+
+* -ûd
+** part of speech: 
+** definition
+*** 
+** Related
+** examples and usage: 
+** notes
+
+* -ûr
+** part of speech: 
+** definition
+suffix: genitive
+** Related
+- [[-ûr]], [[-ot]], [[-ôdh]], [[-enth]], [[-îz]], [[-ash]], [[-ov]], [[-eg]], [[-ej]]
+** examples and usage: 
+- attaches to nominals
+  - in Jagarôth adjectives do not decline, so case suffixes like [[-ash]] /only/ attach to nominals
+** notes
+
+* -urth
+** part of speech: 
+** definition
+*** suffix: cessative suffix
+** Related
+** examples and usage: 
+*** attaches to verbal roots to denote cessation of an object's action
+*** rê layurthâlos Rorb bor
+**** The Sun will not cease to shine.
+** flet vêvipâlen shid kafâlen borgov shid vipurthintâlen
+*** I was speeding and I come to town and I start slowing down.
+*** progressively in-past-time.to-speed.fin.1s conj come.fin.1s conj to-speed.cess.incho.fin.1s
+*** Due to the rule of composability /vipurthintâlen/ and words like it can exist. Both the Inchoative and the Cessative are on this verb making it mean begin to slow down
+*** to-speed.CESS.incho.FIN.1s 
+** notes
+
+* vê-
+** part of speech: prefix
+** definition: past tense prefix
+** valency: 
+** examples & usage: myriad example in this file just C-s them
+** note: might need to kill all of: vê- || rê- || shê- + -pep || -ded
+
+
+* veken
+** part of speech: verbal root
+** definition: begin, start
+** valency: /veken/ A O
+** examples & usage:
+*** vêkafâl rorb nûnov, nâlvekenaz 
+**** in-past-time.go/come.fin' sun up.all, nycthemeron.begin.ActParticip
+**** The Sun came up, starting the day (/verbatim/ daystarting).
+** note: 
+
+* velem
+** part of speech: 
+** definition
+*** nominal: blood
+** examples and usage: 
+*** velem velembalôdh !!!
+*** blood blood.god.dat !!!
+*** Blood for the Blood-God!
+** notes
+
+
+* veps
+** part of speech: 
+** definition
+*** numeral: nine
+** examples and usage: 
+** notes
+
+* vesh
+** part of speech: 
+** definition
+*** nominal: face, countenance
+** examples and usage: 
+*** Rorb thiktazâlos veshotem skrilenthos jothorit.
+*** sun touch.ActPart.fin.3si face.Acc.1s light-energy.instr.3si fire.adj
+*** The Sun is touching my face with its firey light
+** notes
+
+* vîl
+** part of speech: 
+** Description
+nominal: the color yellow
+** examples and usage: 
+- vîlid /adjective/ yellow 
+- vîlitintâleth /he is becoming a yellow thing, growing yellow/
+** notes
+
+
+* vip
+** part of speech: verbal root
+** definition: move quickly, run, hurry
+** valency: /verb Su/ 
+** examples & usage: 
+*** vipor !!! /Run!/
+*** hûn vipâlen borgov
+**** I must hurry to town                                               :::
+*** vipazâl tump mothîz kadâregen
+***** fast.ActivePart.fin air sky.loc cloud.com.pl
+***** The air is a fast moving thing in the sky with the clouds.
+*** vipid /fast/
+** note: /see/ [[warp]], [[moth]], [[kadâr]], [[-eg]]
+
+
+* vip
+** part of speech: 
+** definition
+verbal root: move quickly, run, hurry 
+** related
+- [[vipid]]: fast
+- [[warp]]: fly
+** examples and usage: 
+*** vipor !!! /Run!/
+*** hûn vipâlen borgov
+**** I must hurry to town                                              :::
+**** î vipaz tump mothîz kadaregen
+***** BE fast.ActivePart air sky.loc cloud.com.pl
+***** The air is fast in the sky with the clouds.
+** notes
+
+* vipid
+** part of speech: 
+** definition
+*** adjective: fast
+** related
+***  [[vip]], [[-id]]
+** examples and usage: 
+** notes
+* vom
+** definition
+*** nominal: moutain
+** examples and usage: 
+** notes
+
+* vorôn
+** part of speech: 
+** definition
+*** nominal: bear
+** examples and usage: 
+*** jûjor hûdhâl' vorôn torkrôkîz ???
+*** question? to-shit.fin.3si bear tree.collective.loc
+*** Does a bear shit in the woods?
+** notes
+
+* vov
+** part of speech: 
+** definition
+*** nominal: locaton to the RIGHT of (smthg, gen)
+*** [[Vov]] ::: a pet name for the personal monotheistic God
+** examples and usage: 
+** notes
+
+* vûk
+** part of speech: 
+** definition
+*** numeral: eight
+** examples and usage: 
+** notes
+
+* wâgum
+** part of speech: 
+** definition
+*** nominal: opium
+** examples and usage: 
+** notes
+
+* Wahaz
+** part of speech: 
+** definition
+*** proper name: Mars
+** examples and usage: 
+** notes
+
+* warp
+** part of speech: 
+** definition
+*** verbal root: to fly
+** examples and usage: 
+- warpazâlos wewet kadârîzen
+  - fly.ActivePart.fin.3si bird cloud.loc.pl
+  - the bird was flying in the clouds
+** notes
+warp used to mean to hit, strike a blow against/on. now it means to fly.
+[[wavûm]]
+[[kadâr]]
+
+* wavûm
+** part of speech: 
+** definition
+*** nominal: night, nighttime
+** examples and usage: 
+** notes
+
+* welk
+** part of speech: 
+** definition
+*** nominal: planet
+** examples and usage: 
+*** kel
+*** [[Wahaz]]
+*** [[Marish]]
+** notes
+
+* wewet
+** part of speech: 
+** definition
+*** nominal: bird
+** examples and usage: 
+** notes
+
+* wey
+** part of speech: 
+** definition
+*** verbal root: eat, drink, consume
+** examples and usage: 
+*** used for both eating and drinking
+** notes
+
+* with
+** part of speech: 
+** definition
+*** nominal: a galla, a woman like the ancient priestesses of Cybele, Inanna, Ishtar, etc.
+** examples and usage: 
+** notes
+
+* wlâp
+** part of speech: 
+** definition
+*** nominal: pig
+** examples and usage: 
+** notes
+
+* wrak
+** part of speech: 
+** definition
+*** verbal root: to destroy
+** examples and usage: 
+** notes
+
+* yâhor
+** part of speech: nominal
+** definition: war
+** valency: 
+** examples & usage: 
+** note: polar opposite of [[trulen]]
+
+* yerth
+** definition
+*** nominal: the color green, literal green light of the proper frequency to appear as green to Terran or Martian
+** examples and usage: 
+** notes
+*** Martians and Terrans perception of color is nearly identical, physically and measurably. Any differences are probably due to differing cultures and different physical environments
+
+* yur
+** part of speech: nominal
+** definition: money, coin, credit (as a unit of money), standard (as a unit of money) 
+** valency: 
+** examples & usage: 
+*** any unit of money, coin, bill, whatever, is a /yur/
+** note: 
+
+
+
+* zag
+** part of speech: 
+** definition
+*** verbal root: to run
+** examples and usage: 
+** notes
+
+* zakar
+** part of speech: 
+** definition
+*** nominal: throne
+** examples and usage: 
+*** gorgen gorgzakarôdh
+*** skull.pl skull.throne.dat
+*** Skulls for the Skull-Throne!!!
+** notes
+
+* zaz
+** part of speech: 
+** definition
+*** nominal: location to the LEFT of (smthg, gen)
+** examples and usage: 
+** notes
+*** was /sin/ like sinister
+
+* zîl
+** part of speech: 
+** definition
+*** nominal: some Martian drug more dangerous than cocaine or heroin
+** examples and usage:
+** notes
+
+
+* zip
+** part of speech: numeral
+** definition: zero
+** examples & Usage
+*** zipom /nowhere/; zipûn /no one/; zipomov /to nowhere/; zipomovored /Betake yourself to nowhere; disappear/
+** notes
+
+* -enth OBSOLETE
+** part of speech: case ending
+** definition: instrumental
+** valency: 
+** examples and usage: 
+** note: 
+
+* -ârth
+** part of speech: case ending
+** definition: instrumental
+** valency: 
+** examples and usage: 
+** note: 

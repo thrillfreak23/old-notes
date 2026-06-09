@@ -1,0 +1,146 @@
+
+NOTE :: this document is obsolete. I believe I've got everything of
+value out of it, but here it is in case I'm wrong. Links to this page
+will now be removed.
+
+
+# ~/notes/jag-index.norg
+{:index:}
+{:index:}
+{:jag-phonology:}
+{:jag-lexicon:}
+
+{# Jagarôth}
+
+* Jagarôth 
+* Phonology
+   
+   *Jagarôth vowels*
+   *and* /English/ words with illustrative vowel sounds
+
+** digraphs and diphones
+*** digraphs: sh zh th dh ch kh
+    Digraphs in transliterated Jagarôth represent a single consonantal phoneme (these 
+    digraphs have "h" as their 2nd component). 
+*** diphones: q, x, j
+    Jagarôth uses three diphones in transliteration:
+    *q* = /kw/
+    *x* = /ks/
+    *j* = /dzh/
+
+** pure vowels
+   a e i o u â ê î ô û
+*** a :: bat
+*** e :: bet
+*** i :: bit
+*** o :: boat
+*** u :: put~putt
+*** â :: khan
+*** ê :: bait
+*** î :: beet
+*** ô :: bought
+*** û :: boot
+
+** diphthongs
+   ai ei oi au eu
+*** ai :: bite
+*** ei :: bait
+*** oi :: boy
+*** au :: bout
+*** eu :: butte
+
+** consonants
+***  p b m f v t d n s 
+***  z sh zh th dh r l
+***  h kh k g h w y 
+***  ch j 
+
+*** initial clusters
+    there are three 3-phoneme initial consonant clusters:
+    skr skl str
+**** p b t d k g w th dh sk st f v + r
+**** p b k g w th s sk f v + l
+**** p t k + s
+**** s + p t k n m 
+
+*** final clusters
+**** nasal + p b t d 
+**** r + p b t d k g n m s z sh zh th dh
+**** l + p b t d k g n m th
+**** diphthong + most consonants (consonants that represent a single phoneme)
+**** p t k + s
+**** s + p t k 
+
+** Phonotactics (Syllabic structures)
+   - Content words begin and end consonantally.
+   - Particles and morphemes (non-content words) do not have to follow
+     that rule.
+   - Many content words do not contain a consonant cluster.
+   - A content word may either begin or end with a permitted cluster.
+     Only one cluster is permitted per content word. Many content
+     words do not contain a cluster. 
+   - Non-permitted clusters obviously occur at the inner boundaries of
+     compound words. 
+   - Content words have one two or three syllables in the nominative,
+     which is unmarked. 
+   - Long vowels and diphthongs take a stress.
+   - Compound words are usually stressed on the first syllable of the
+     second component.
+   - Most often a content word will be stressed on the initial
+     syllable unless the word contains a long vowel or diphthong, in
+     which case that vowel is stressed.
+   - If a word contains two long vowels, the first receives the stress
+     accent. 
+   - A content word will not contain two diphthongs. 
+
+** Phonotactics (Stress accent)
+
+*** TODOs
+   - (x) TODO Riddle me this: Is the stress accent of a Jagarôth
+         content word fixed? That is to say, is the stress accent an
+         inherent feature of each content word? Is it fixed according
+         to the above rules alone? Do additional rules exist? and is
+         all this consistent?
+         /*Answer*/: /*NO.*/ --There is no inherent stress accent in
+         Jagarôth words on which the stress must always fall. That is¸
+         the stress is not an inherent part of a word. Instead, the
+         stress is calculated in real time according to the following
+         rules:
+
+    - (x) DETERMINE the rules for stress accent placement. 
+
+*** /*The Rules of Stress Accent:*/ 
+
+    - For non-compound words: 
+    ~ If a word contains no long vowel or diphthong, the antepenult
+      is stressed. 
+    ~ If instead the ultima contains a long vowel or diphthong, the
+      ultima is stressed. 
+    ~ Otherwise the penult is stressed.
+
+    - For compound words:
+    ~ The first word component is ignored and the second word
+      component is stress-accented as it would be were it not
+      compound.
+
+*** Examples
+    - tometop :: tomato :: TOmetop :: no long vowel or diphthong present, stress on antepenult
+    - kîretein ::  eagle :: kîreTEYN :: long ultima vowel causes stress on ultima
+    - bûburîzeps :: in your mouth :: bûbuRÎzeps :: long vowel but not the ultima hence
+      penult is stressed
+    - gorgzakar :: the skull throne :: gorgZAkar :: no long vowel but only the second
+      component of a compound word is stressed, hence the penult of
+      /zakar/, hence gorgZAkar
+    - gorgzakarôdeth :: for his skull throne :: gorgzakaRÔdeth :: long vowel but not the
+      ultima hence penult is stressed 
+    - jizixem :: my methamphetamine :: jiZIxem :: no long vowel hence penult is stressed
+    - kîreteinôdem :: for my eagle ·  kîreteiNÔdem · long vowel but not the ultima
+      hence penult is stressed
+    - kîreteinashem :: from my eagle :: kîreteinAshem :: long vowel
+      present but not the ultima hence the penult is stressed
+    - shelelâLEPS-koi 
+
+
+** {:jag-lexicon:}
+** Tables {:jag-tables:}
+

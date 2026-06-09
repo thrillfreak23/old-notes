@@ -1,0 +1,113 @@
+t# ~/notes/Jag-Tables.org
+JAGARÔTH TABLES
+
+* problems
+** attaches to verbal roots to denote cessation of an object's action
+** this is where to work on problems
+** problems: do cessative and inchoative need another form? do words make sense the way they are now? is there a better way
+*** cessative: /-urth-/
+*** examples
+*** rê layurthâlos Rorb bor
+**** in-future-time radiate.cess.fin.3si sun not
+***** The sun will not stop shining.
+*** The answer to the problem is that the cessative seems really good to me
+
+
+* VERBS 
+
+** Voice, Aspect
+** Active Voice, Simple Aspect
+- thiktâlen ::: touch.fin.1ss /I touch/ [fn:fn0]
+
+** Active Voice, Progressive Aspect
+- flet thiktâlen ::: /I touch ongoingly, I am touching/
+- thiktazâlen ::: /I touch progressively, I am touching/
+
+** Active Voice, Perfective Aspect
+- jed thiktâlen ::: /I already touch,/ I am already touching, I have touched/ [fn:fn1]
+
+** Active Voice, Habitual Aspect
+- thrip thiktâlen ::: I habitually touch, I am used to touching
+- [[file:jlex.org::*thrip]]
+
+** Passive Voice, Simple Aspect
+- thiktaxâlen ::: touch.PassPart.1ss /I am touched/ 
+
+** Passive Voice, Imperfective Aspect
+- flet thiktaxâlen ::: I am touched ongoingly, I am being touched
+- thiktaxazâlen ::: I am ongoingly a touched entity, I am being touched
+
+** Passive Voice, Perfect Aspect
+- jed thiktaxâlen ::: already I am touched
+
+** Passive Voice, Habitual Aspect
+- thrip thiktaxâlen ::: I am habitually touched, I am used to being touched
+
+** TENSE PARTICLES
+- vê /in past time/: past tense marker
+- shê /in present time/: present tense marker
+- rê /in future time/: future tense marker
+- These markers can be used freely with the above verbal processes to create any desired combination of aspect and tense and voice.
+- examples
+  - word order: tense-particle aspect-particle verb
+  - vê panâlen ::: without aspect particle /I saw/
+  - vê thrip panâlen ::: with aspect particle /I used to see/
+  
+** VALENCY CHANGING SUFFIXES
+*** applicative: -ûd
+**** original valency: salt (nom)
+**** applicate valency: I apply salt to x (acc)
+**** skrilûdâl' Rorb Wahazûr veshot
+*** causative: 
+**** original sentence: he (nom) does x (acc)
+**** causative sentence: I (nom) make him (acc) do x
+**** karkeskâl' Târ memot
+***** The Lord makes me labor.
+
+* VERB ENDING RULES
+** If a verb is followed immediately by its subject in the nominative, the personal ending on the verb is elided.
+** With elision the personal ending is replaced by an apostrophe (or straight single quote), then comes:
+** the first word of the subject noun phrase with no space, like so:
+
+EXAMPLES
+|---+---------------------------+---------------------------+------------------------------------+---|
+| 1 | thiktâl'Rorb veshotem     | touch.fin'sun face.acc.1s | The Sun touches my face.           |   |
+| 2 | thrip stabâl'mem Vovîzdem | abide.fin'I/me God.loc.1s | Even I habitually abide in my God. |   |
+|---+---------------------------+---------------------------+------------------------------------+---|
+
+** notes on example 2.
+** /stabâl-/ Personal ending is omitted as told; replaced by "'"; /mem/ is directly attached; when 1s expressed by /mem/ and not by /-en/, emphasis is intended; translation /even I abide/. 
+
+
+* NOUNS
+* CASE ENDINGS
+|-------+--------------+---------------------------------|
+| abbr  | case name    | Jagarôth case ending            |
+|-------+--------------+---------------------------------|
+| nom   | Nominative   | -0                              |
+| acc   | Accusative   | -ot                             |
+| gen   | Genitive     | -ûr                             |
+| dat   | Dative       | -ôdh                            |
+| abl   | Ablative     | -asht (-ash or -ast)            |
+| all   | Allative     | -ov                             |
+| loc   | Locative     | -îzd                            |
+| instr | Instrumental | -enth                           |
+| com   | Comitative   | -eg                             |
+| car   | Caritive     | -ej                             |
+|-------+--------------+---------------------------------|
+| perl  | Perlative    | ???? probably desirable         |
+| ethic | Ethic        | nice for all those comparatives |
+|-------+--------------+---------------------------------|
+
+when a word loads double cases: kafâleth môthîzdov
+                              : go.FIN.3ss space.loc.all
+                              : He goes into space (/literally/ to into)
+
+
+* Footnotes
+[fn:fn0] Only 1s appears here because if verb conjugation is trivially regular in Jagarôth and only one example is needed.
+
+[fn:fn1] Jagarôth has not even a hint of verb tense, but the Simple Active + jed, without a time marker such as vê or rê amounts to a perfect tense, in addition to being of perfect aspect. But any of these verbs could be referring to past or to present or to future time. The use of the present tense in the English translations isn't meant to imply that such tense is true of the Jagarôth examples; they are tenseless and could as easily be translated with a past or future tense in English, depending on their J. context, if they had one.
+
+
+* 

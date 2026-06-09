@@ -1,0 +1,15 @@
+;;; type three A's and get â in the consult minibuffer
+(defun my-orderless-dispatch-shortcuts (pattern _index _total)
+  "Expand shortcuts like AAA to accented characters in the minibuffer."
+  (let ((replacements '(("AAA" . "â")
+			("EEE" . "ê")
+			("III" . "î")
+			("OOO" . "ô")
+			("UUU" . "û"))))
+    (when-let ((match (assoc pattern replacements)))
+      `(orderless-regexp . ,(regexp-quote (cdr match))))))
+
+(use-package orderless
+  :custom
+  (orderless-style-dispatchers '(my-orderless-dispatch-shortcuts 
+                                 orderless-affix-dispatch)))

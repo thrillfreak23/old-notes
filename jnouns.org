@@ -1,0 +1,21 @@
+
+*JAGARÔTH NOUNS*
+
+*TOPMATTER always visible*
+
+- Call them nouns. Nominals is silly.
+- Use capitals. It's too easy to not.
+-
+
+* Noun Cases
+** Nominative
+** Accusative
+** Genitive
+** Dative
+** Ablative
+** Instrumental
+** Locative
+** Comitative
+** Caritive
+** Perlative
+** Ethic

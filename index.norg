@@ -1,0 +1,80 @@
+### ~/notes/index.norg
+  
+* Links
+  - {:cheatsheet:}
+  - {:history:}
+  - {:the rolling stones:}
+
+  - {:poems:}
+  - {:ncdot-fine-payment-url:}
+
+  verb redo
+  - {:reverb:}
+
+  - {:is_this_file_backup_up:}
+  - {:is_this_file_backed_up:}
+
+* Jagarôth
+  - {:jag-verbs:}
+  - {:jag-phonology:}
+  - {:jag-lexicon:}
+  - {:jag-tables:}
+  - {:jag-problems:}
+  - {:jag-text:}
+  - {:jag-scifi-glossary:}
+  - {:new_note:}
+  - {:Old:}
+  =====
+
+
+
+  - {file:///home/rachel/.config/nvim/init.lua} :: this works but only with gf
+
+
+* I OWE $95 to CHIVOUS
+* I OWE CHARLES $209
+  - {# init.lua} :: this works with gf only because there's a symbolic
+    link to init.lua in `~/notes`
+  
+  this is not italic */this is italic/*
+    /italic/
+
+* ( ) every martian has a charity hearthstone of the Elders
+  - unlimited electricity, heat, cooking. Its a gift from the Elders  
+  - where should bits like this go at firts??
+  - charity stove ==> charity hearth ==> charity hearthstone
+  - /thelifor/
+  - The Elders are benevolent. They take care of the "Lesser Races", including hominity
+
+  /italic/ *bold* _underline_  -STRIKETHROUGH- 
+  
+
+* needed words
+
+
+  =====
+=====
+=====
+=====
+MOVE OBSOLETE STUFF BELOW HERE
+
+
+   - note: agenda should be in my daily journal instead of here
+   - (x) TODO :: learn about neovim tabs
+   --- (x) NEOVIM TABS
+   --- (x) create tabs with :tabnew
+   --- (x) go to next tab with gt
+   --- (x) go to previous tab with gT
+
+   /*Verbatim text*/ is created by surrounding it with backticks: `
+   - `<CR> \/fuck *.*` --this is done with ` --but it can't be the
+     first thing in a line in /norg/, otherwise it won't work 
+
+
+* Tables
+** bite me
+*** bite me again
+  - neorg doesn't do tables much
+  - the extension vim-table-mode does
+  - activate it with: `<leader>tm<CR>` <= verbatim text
+

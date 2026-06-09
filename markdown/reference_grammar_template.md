@@ -1,0 +1,97 @@
+TOPMATTER
+REFERENCE grammar template
+generated at my request by google ai
+
+1. Introduction
+    - The Language & Its Speakers
+    - Genetic affiliation (language family)
+    - Geography and Number of speakers
+    - Dialects
+    	- Overview of regional or social variations.
+    - Sociolinguistic Context: Status (official, endangered, etc.) and bilingualism.
+
+2. Phonology (Sounds)
+    - Phoneme Inventory
+        - Consonants
+        - Vowels
+    - Phonotactics
+    	- Syllable structure
+        - Constraints on sound combinations
+    - Suprasegmentals
+        - Tone
+        - Stress
+        - Pitch-accent systems
+    - Phonological Processes
+        - Allophony
+        - Assimilation
+        - Vowel harmony
+
+3. Morphology (Word Structure)
+    - Parts of Speech (Word Classes)
+    - Distinguishing open from closed Word Classes 
+        - Open Classes (nouns, verbs) 
+        - Closed classes (prepositions, conjunctions)
+    - Noun Morphology
+        - Gender/noun classes, number, case, and possession.
+    - Verb Morphology
+        - TAM
+            - Tense
+            - Aspect
+            - Mood
+        - Person/number agreement
+        - Voice (active/passive/middle)
+    - Derivational Morphology
+        - How new words are formed
+            - prefixes
+            - suffixes
+            - compounding
+
+4. The Noun Phrase (NP)
+   - NP Structure: The order of elements 
+     (e.g., Demonstrative + Numeral + Adjective + Noun).
+   - Determiners
+       - Articles
+       - Demonstratives
+   - Modifiers
+   - Adjectives
+   - Relative clauses
+   - Possessives within the NP.
+
+5. The Verb Phrase (VP)
+    - Valency & Argument Structure: Intransitive, transitive, and ditransitive patterns.
+    - Auxiliaries: Use of "helping" verbs.Adverbs: Placement and types of verbal modifiers.
+
+6. Syntax (Sentence Structure)
+    - Basic Word Order
+      Predominant order (e.g., SOV, SVO).
+    - Alignment
+      Nominative-Accusative vs. Ergative-Absolutive patterns.
+    - Clause Types
+        - Declaratives
+        - interrogatives (questions)
+        - imperatives (commands).
+    - Negation: How to form negative statements.
+
+7. Complex Sentences
+    - Coordination
+      Using "and," "but," or "or."
+    - Subordination
+        - Complement clauses
+        (e.g., "I think that...")
+        - adverbial clauses 
+        - relative clauses
+    - Conditionals: "If/then" structures.
+
+8. Discourse & Pragmatics
+    - Information Structure
+      How the language handles Topic and Focus.
+    - Anaphora
+      How pronouns refer back to previous nouns.
+    - Particles
+      Small words used for emphasis, politeness, or attitude.
+
+9. Lexicon & Sample Text
+    - Core Vocabulary
+      A brief list or Swadesh list.
+    - Interlinearized Text
+      A short story or conversation broken down word-by-word to show the grammar in action.

@@ -1,0 +1,623 @@
+#+STARTUP: desclinks
+
+#+title:
+
+
+* Jagarôth Reference Grammar and Lexicon :frontmatter:
+** a language of the Martian Low-Canals region (west of Syrtis Major)
+
+* Abbreviations :frontmatter:
+** this is here to allow folding
+Apart /active participle/
+Ppart /passive participle/
+fin /finite verb marker/
+1, 2, 3 /person markers/
+ss /singular sapient/
+si singular /insapient/
+ps /plural sapient/
+pi /plural insapient/
+appos /appositive particle/
+act /active/
+pass /passive/
+imperf /imperfect(ive)/
+perf /perfect(ive)/
+
+* TABLES
+** personal pronouns
+|---------+------------------------|
+| Pronoun | Person, Number, Gender |
+|---------+------------------------|
+| mem     | 1 singular             |
+| memen   | 1 plural               |
+| teps    | 2 singular             |
+| tepsen  | 2 plural               |
+| teth    | 3 singular sapient     |
+| tethen  | 3 plural sapient       |
+| sos     | 3 singular insapient   |
+| sosen   | 3 plural insapient     |
+|---------+------------------------|
+NOTE: 1st and 2nd person are always sapient
+
+** VERB CONJUGATION
+|-----------------+-------------------------+-------------------+----------------------------|
+| verb            | Parse                   |                   |                            |
+|-----------------+-------------------------+-------------------+----------------------------|
+| thiktâlen       | 1st sg active           | active            | I touch                    |
+| thiktâlenen     | 1st pl active           |                   | We touch                   |
+| thiktâleps      | 2nd sg active           |                   | Thou touchest              |
+| thiktâlepsen    | 2nd pl active           |                   | Ye touch                   |
+| thiktâleth      | 3rd sg active sapient   |                   | He toucheth                |
+| thiktâlethen    | 3rd pl active sapient   |                   | They touch                 |
+| thiktâlos       | 3rd sg active insapient |                   | It toucheth                |
+| thiktâlosen     | 3rd pl active insapient |                   | They touch                 |
+|-----------------+-------------------------+-------------------+----------------------------|
+| thiktaxâlen     | 1st sg passive          | passive           | I have been/was/am touched |
+| thiktaxâlenen   | 2st pl passive          |                   | [fn:fn1]                   |
+| ...             | ...                     |                   |                            |
+| thiktaxâlosen   | 3rd pl insapient        |                   |                            |
+|-----------------+-------------------------+-------------------+----------------------------|
+| thiktazâlen     | 3ss imperfect active    | imperfect active  |                            |
+| thiktazâlenen   | 3ps imperfect active    |                   |                            |
+| ...             | ...                     |                   |                            |
+| thiktazâlosen   | 3pi act. imperf.        |                   |                            |
+|-----------------+-------------------------+-------------------+----------------------------|
+| thiktaxazâlen   | 1ss imperf passive      | imperfect passive |                            |
+| ...             | ...                     |                   |                            |
+| thiktaxazâlosen | 3pi ""     ""           |                   |                            |
+|-----------------+-------------------------+-------------------+----------------------------|
+
+* Word Template :frontmatter:
+*** Definition
+*** Related
+*** Examples and Usage
+*** Notes
+
+* GENERAL NOTES :frontmatter:
+** Construability and Composability
+- the rule of composability and construability
+- As long as the meaning of a word is /construable/ by the auditor, the grammatical and content elements of Jagarôth may be /composed/ to an indefinite length; the possible length of /composed/ chains of parts is determined by whether the result is /construable/.
+** small grammatical notes
+*** adjectives
+- note: adjectives take no case ending if adjacent to the noun they modify
+- note: if separated from the noun they modify, adjectives take the case ending of their noun
+
+*** nouns
+*** verbs
+*** adverbs
+*** numerals
+- ordinal numbers, i don't know how to do them
+  - keg tot /one stone/, tot keg /first stone/ -- i don't think this will work, nowhere else is word order important, why here?
+  - maybe a secondary adjectival ending, to be added if -ik is already meaningful and still another derived adjective is needed
+  - -is ??? totis /first/
+*** pronouns
+*** miscellaneous
+
+* REFERENCE GRAMMAR :grammar:
+** Construability and Composability
+- As long as the meaning of a word is /construable/ by the auditor, the grammatical and content elements of Jagarôth may be /composed/ to an indefinite length; the possible length of /composed/ chains of parts is determined by whether the result is /construable/.
+- borg /city/ ==> borgîzd /city.loc/ ==> borgîzdâl /city.loc.fin/ verbal root /be in the city/
+- borgîzdâl: verbal root /be in the city/
+- when /-âl/ is attached to a declined noun like /borgîzd/, it means just /to be/
+  - /borgîzd/ in the city + /-âl/ /be/ = borgîzdâl-
+  - "jûjor î Sherîn borgîzd ???"
+    - question copula Sherîn city.loc
+    - "Is Sherîn in the city?"
+  - "skrîd, borgîzdâleth :::"
+    - yes city.loc.fin.3ss
+    - "Yes, she is in the city."
+** Simple Verbs
+- a simple verb is a finite verb not marked for aspect 
+- thiktâlen kegot :::
+  - I touch the rock.
+  - touch.fin.1s stone.acc
+- thiktaxâlos keg tumpash :::
+  - The rock is touched by the wind.-
+  - touch.fin.Ppart.3si stone air.abl-
+    - note: the agent in a passive clause is expressed by the ablative
+- thiktaxâlosen shevemenen tanashten :::
+  - touch.Ppart.fin.3pi face.2p fellow.abl.pl
+    - note: the personal ending /-emenen/ is not needed for verbs
+    - note: /-emenen/ ::: /-emen/ is the possessor, -en is the number (plural)
+      - shevemen /our face/
+      - kenetemenen /our dogs/
+** Complex Verbs :grammar:
+
+* Lexicon :frontmatter:
+* -âl
+*** Definition
+suffix: finite verb marker
+*** Related
+*** Examples and Usage
+- attaches to verbal roots to make finite verbs
+  - thiktâlos rorb shevem ::: the sun touches (is shining on, metaphorically) my face
+- attaches to adjectives to make a verb meaning "be-adjectival"
+  - jûjor shelelâleps ??? Are you okay?
+  - shelelâl- be okay
+- attaches to numerals
+  - totâlosen Mars Wahaz-thor ::: î welk tot
+  - one.fin.3pi Mars Wahaz-and ::: there-is planet one
+    - totâl- be one
+*** Notes
+
+* am
+** Definition
+particle: appositive particle; namely, even
+** Related
+- [[î]]
+** Examples and Usage
+- /târ am balem baleps-thor î bal tot ::/
+- lord appos god.1s god.2s-and copula god one
+- The Lord Our God and your god are one god. 
+- in Jagarôth all words and phrases that are appositive to each other must be separated by *am*. "Our Lord, *even* Jesus Christ" kinda thing.
+- another way of saying it: /târ am balem baleps-thor totâlethen/ :::
+- totâlethen ::: one.fin.3ps: are one
+** Notes
+- what about cases like this where there are nested appositives? /The Lord Our God even Jesus Christ./ Like so:
+- ((The Lord Our God) even Jesus Christ)
+- 
+
+
+
+
+* -asht
+*** Definition
+suffix: ablative
+*** Related
+- [[-ûr]], [[-ot]], [[-ôdh]], [[-enth]], [[-îzd]], [[-asht]], [[-ov]], [[-eg]], [[-ej]]
+*** Examples and Usage
+- attaches to nouns
+- in Jagarôth adjectived so not decline, so case suffixes [[-asht]] only attach to nouns
+*** Notes
+
+* -ax
+*** Definition
+suffix: past participle suffix
+*** Related
+- [[-az]]
+- [[-axaz]]
+*** Examples and Usage
+- attaches to verbal roots
+  - to make past participles: example, [[hûdhax]] /to-shit.Ppart, a turd/
+  - to make passive verbs: example:
+    - vê thiktaxâlos keg rorbasht :::
+    - in-past-time touch.Ppart.fin.3si stone sun.abl
+    - The stone was touched by the sun.
+*** Notes
+- /temporary note, delete later/ [[vê]], [[thikt]], [[keg]], [[rorb]], [[-asht]], [[-ot]], [[-âl]], 
+
+  
+
+* -axaz
+* -az
+*** Definition
+suffix: active participle marker
+*** Related
+- [[-ax]] past participle suffix
+*** Examples and Usage
+- attaches to verbal roots
+  - to make active participles (or participials, which in Jagarôth are nouns): hûdhaz, to-shit.Apart, a shitting entity
+    - the participle, that is adjectival, form is /hûdhazik/ shitty.
+  - to make imperfect aspect verbs: example, vê thiktazâlos kegot rorb :::
+    - in-past-time touch.Apart.fin.3si stone.acc sun
+    - The sun was touching the stone.
+*** Notes
+-
+* gash
+** Definition
+disjunction: but; clausal conjunctive
+** Related
+** Examples and Usage
+- /vê kafâlen borgov mumbik gash panâlen kenetotempen bor :::/
+- in-past-time go.fin.1s but see.fin.1s dog.acc.unspec.plural
+- I went to the dead city but I didn't see the stray dogs.
+** Notes
+- was /<<thrip>>/ but that wasn't metal enough
+
+
+* hogâsh
+*** Definition
+noun: home, domicile, house
+*** Related
+*** Examples and Usage
+- I'm happy to be home.
+- is happiness to me from/about home
+- î [[trulen]] memôdh hogâshasht
+*** Notes
+
+* hûdh
+** Definition
+verbal root: to shit
+** Related
+- <<hûdhax>> (nominal past perfect participle) turd <== shit.passive ::: a thing that has been shat
+  - note: do not create a new entry (org-mode heading) for [[hûdhax]]: defining it one time is enough
+- <<hûdhik>> to-shit.adj; /hûdhaxik/ turdy
+  - note: do not create a new entry (org-mode heading) for [[hûdhik]]: defining it one time is enough
+** Examples and Usage
+- tekeps am [[hûdhax]] ::: 
+  - gist.2s appos to-shit.Ppart
+  - that shit you're talking
+- jûjor hûdhâlos vorôn torkrôkîzd ???
+  - question? to-shit.fin.3si bear tree.collective.loc
+  - /Does a bear shit in the woods?/
+** Notes
+- see [[-ax]], [[-ik]], [[vorôn]] /bear/, torkrôk /woods/, from [[tor]] /tree/ + [[krôk]] /collective/; see also, [[shîr]] /a paucality, a few/, [[târth]] /a plurality, a very many/, [[tot]] /one, a single one of/, [[jûjor]] /question opener/, [[-or]] /imperative suffix/
+
+
+* î
+*** Definition
+copula: is, are...; compare /Sp. hay/
+*** Related
+- [[am]]
+*** Examples and Usage
+- asserts (or questions) existence
+  - "jûjor î Sherîn borgîzd ???" "skrîd, borgîzdâleth :::"
+  - question BE Sherîn city.loc??? yes, city,loc.fin.3ss
+  - Is Sherîn in the city? Yes, she is in the city.
+- serves as copula, linking (even if not between) subject and predicate
+  - î lal tak shelel :::
+    - BE water that okay
+    - That water is okay (good to drink)
+*** Notes
+-
+
+
+* -ik
+*** Definition
+suffix: adjectival suffix
+*** Related
+*** Examples and Usage
+- attaches to nouns, verbal roots, underived adverbs, numerals, to make adjectives
+- [[hûdhik]] shitty
+- [[totik]] alone (note: cardinal and ordinal numbers ????, becasue [[totik]] cannot mean first)
+- rorbik sunny; solar
+*** Notes
+
+* jûjor
+*** Definition
+particle: question marker
+*** Related
+*** Examples and Usage
+- in Jagarôth a question begins with some interrogative word. if question is yes/no (polar), and no interrogative pronoun is available, jûjor begins the clause
+- opens questions
+- jûj ::: archaic verbal root meaning to speak, to say
+- -or ::: interrogative verb ending
+- jûjor is basically a transitive verb, imperative mode, where the rest of the clause is the object of the verb root jûj-
+- jûjor vê panâleps kenetotem borgîzd mumbik ???
+  - question in-past-time see.fin.2s dog.acc.1s city.loc carrion.adj?
+  - Did you see my dog in the dead city?
+*** Notes
+
+* keg
+*** Definition
+noun: a stone, a rock
+*** Related
+*** Examples and Usage
+*** Notes
+
+* krôk
+*** Definition
+noun: collective, a counter noun (similar to English a /head/ of cattle)
+*** Related
+*** Examples and Usage
+- jûjor vorôn hûdhâlos torkrôkîzd ???
+  - question? to-shit.fin.3si bear tree.collective.loc
+  - /Does a bear shit in the woods?/
+*** Notes
+-
+
+* lûth
+** Definition
+adjective: good, wholesome, healthy, pertaining to what the riches experience
+** Related
+- [[totik]] (a derived adjective)
+** Examples and Usage
+- /tekeps î lûth/ ::: /What you say is good./
+** Notes
+- So called /natural adjectives/ such as /lûth/ do not require the adjectival ending (/-ik/) bc they are already adjectives; bare, naked adjectives gone wild
+
+* -or
+*** Definition
+suffix: imperative suffix
+*** Related
+*** Examples and Usage
+- jûjor... question marker
+- "jûjor î Sherîn borgîzd ???"
+  - Is Sherîn in the city?
+- vipor !!! Run!!! see [[vip]]
+*** Notes
+
+* -ot
+*** Definition
+suffix: accusative case marker
+*** Related
+*** Examples and Usage
+- totîm rorb tump-thor thiktâlosen mumbikûr kegoten borgûr 
+- one.wise sun air-and touch.fin.3pi  carrion.adj.gen stone.acc.pl city.gen 
+- Only the sun and the air touch the stones of the dead city.
+  - a note on adjectives
+  - note: adjectives take no case ending if adjacent to the noun they modify
+  - note: if separated from the noun they modify, adjectives take the case ending of their noun
+*** Notes
+
+* rorb
+*** Definition
+noun: the sun
+*** Related
+*** Examples and Usage
+*** Notes
+
+* sep
+** Definition
+(conjunction): and
+** Related
+- [[-thor]], [[gash]], [[-sest]], [[thrip]]
+** Examples and Usage
+- /shelelâlen sep shelelâleps :::/
+- okay.fin.1s and okay.fin.2s 
+- I am okay and you are okay.
+** Notes
+- /sep/ conjoins clauses. Not nouns, not adjectives, etc.
+- /-thor/ conjoins words and phrases of every kind but for declined verbs (because they are clauses) and entire clauses 
+
+* -sest
+** Definition
+suffix: but; disjunction suffix
+** Related
+- related: [[-thor]] ::: disjunction suffix
+- related: /sep/ ::: clausal conjunction; "and"
+** Examples and Usage
+- enclitic suffix, which means that for purposes of stress accent /-thor/ loses its own stress accent and causes the position of the modified word's stress accent to change
+- attaches to nouns, adjectives, adverbs, but not verbs, because many Jagarôth verbs are complete sentences in there own right and /-thor/ does not conjoin clauses
+** Notes
+-
+* shîr
+*** Definition
+noun: collective, a counter noun (similar to English a /head/ of cattle)
+*** Related
+*** Examples and Usage
+- stabazâlos kenet torshîrîzd ::: the dog is standing in the coppice/copse
+  - stand.Apart.fin.3si dog tree.paucality.loc
+*** Notes
+
+* skrîd
+*** Definition
+particle: the affirmative particle, yes
+*** Related
+*** Examples and Usage
+- "jûjor î Sherîn borgîzd ???"
+  - question copula Sherîn city.loc
+  - "Is Sherîn in the city?"
+- "skrîd, borgîzdâleth :::"
+  - yes city.loc.fin.3ss
+  - "Yes, she is in the city."
+*** Notes
+
+
+* tak
+** Definition
+demonstrative: that (near interlocutor)
+** Related
+- [[tik]], [[tok]], [[tek]]
+** Examples and Usage
+- tan tak î homin kentethot vê panâlen borgîzd mumbik
+  - fellow that copula human REL.he.acc in-past-time see.fin.1s city.loc dead-flesh.adj
+  - That fellow is the human I saw in the dead city.
+- tan tik tan-thor tak totâlethen
+  - fellow this fellow.-and that one.fin.3ps
+  - This fellow and that fellow are the same (fellow).
+    - literally /totâl-/ /(one.fin-)/ means /Be one and the same/
+** Notes
+* târth
+* tek
+** Definition
+demonstrative: the gist of one particular interlocutor's argument in a group of interlocutors
+- usually the one person you happen to be talking to (your interlocutor) at any given moment, the substance of what they's saying
+** Related
+- tik, tak, tok (demonstratives)
+** Examples and Usage
+- /tek am hûdhaxeps shelelâlos bor/
+- That shit you talk is not okay!
+- /tekeps am hûdhaxemp shelelâlos bor :::/
+- your-gist appos to-shit.pastpcpl.unspec okay.fin.3si not
+- like it's "nobody's" turd, almost
+- That shit of yours yout talk ain't okay.
+** Notes
+- tek is considered a demonstrative by the Martians but functions also like a noun meaning "gist"
+- /tek/ can be possessed, unlike /tik, tak, tok/
+- /tekeps î lûth/ ::: /What you say is good./
+
+
+* thikt
+*** Definition
+verbal root: touch
+*** Related
+*** Examples and Usage
+- 
+*** Notes
+
+* -thor
+** Definition
+suffix: and; additive coordinator ("plus"); conjunction suffix
+** Related
+- [[-sest]] disjunction suffix
+- [[sep]] clausal conjunction; "and"
+** Example and Usage
+- enclitic suffix, which means that for purposes of stress accent /-thor/ loses its own stress accent and causes the position of the modified word's stress accent to change
+- attaches to nouns, adjectives, adverbs, but not verbs, because many Jagarôth verbs are complete sentences in there own right and /-thor/ does not conjoin clauses
+** Notes
+-
+
+  
+* tik 
+** Definition
+demonstrative: this (near speaker)
+** Related
+- [[tak]], [[tok]], [[tek]]
+** Examples and Usage
+- /tak tik tan-thor tak totâlethen/
+- fellow this fellow-and that one.fin.3ps
+** Notes
+-
+
+
+* tok
+** Definition
+demonstrative: that (distant from speaker and interlocutor)
+** Related
+- [[tik]], [[tak]], [[tek]]
+** Examples and Usage
+- /tak tik tan-thor tak totâlethen/
+- fellow this fellow-and that one.fin.3ps
+** Notes
+-
+
+  
+* tor
+*** Definition
+noun: tree
+*** Related
+*** Examples and Usage
+- jûjor vorôn hûdhâlos torkrôkîzd ???
+  - question? to-shit.fin.3si bear tree.collective.loc
+  - /Does a bear shit in the woods?/
+*** Notes
+-
+
+* tot 
+*** Definition
+numeral: one
+- "numeral" because "number" is already occupied by a property of pronouns and verbs
+*** Related
+- [[zip]] zero
+- [[sad]] two
+- [[fat]] three
+- [[fum]] four
+- [[kint]] five
+- [[kor]] six
+- [[jeps]] seven
+ 
+*** Examples and Usage
+*** Notes
+
+* totik
+*** Definition
+adjective: alone, lonely
+*** Related
+*** Examples and Usage
+- totik is a derived adject, derived from a numeral
+- the other kind of adjective is a natural adjective like [[lûth]]
+*** Notes
+
+* trelen
+*** Definition
+noun: the feeling called happiness or joy
+*** Related
+*** Examples and Usage
+- I'm happy to be home.
+- is happiness to me from/about home
+- î [[trelen]] memôdh hogâshasht
+*** Notes
+
+* -ûr
+*** Definition
+suffix: genitive
+*** Related
+- [[-ûr]], [[-ot]], [[-ôdh]], [[-enth]], [[-îzd]], [[-asht]], [[-ov]], [[-eg]], [[-ej]]
+*** Examples and Usage
+- attaches to nouns
+  - in Jagarôth adjectives do not decline, so case suffixes like [[-asht]] /only/ attach to nouns
+*** Notes
+* vê
+* vorôn
+*** Definition
+noun: bear
+*** Related
+*** Examples and Usage
+- jûjor vorôn hûdhâlos torkrôkîzd ???
+  - question? to-shit.fin.3si bear tree.collective.loc
+  - translation: Does a bear shit in the woods?
+*** Notes
+* <<zip>>
+*** Definition
+numeral: zero
+*** Related
+*** Examples and Usage
+*** Notes
+* sad
+*** Definition
+numeral: two
+*** Related
+*** Examples and Usage
+*** Notes
+* fat
+*** Definition
+numeral: three
+*** Related
+*** Examples and Usage
+*** Notes
+* fum
+*** Definition
+numeral: four
+*** Related
+*** Examples and Usage
+*** Notes
+* kint
+*** Definition
+numeral: five
+*** Related
+*** Examples and Usage
+*** Notes
+* kor
+*** Definition
+numeral: six
+*** Related
+*** Examples and Usage
+*** Notes
+* jeps
+*** Definition
+numeral: seven
+*** Related
+*** Examples and Usage
+*** Notes
+* vip
+*** Definition
+verbal root: move quickly, run, hurry 
+*** Related
+- [[vipik]]: fast
+- [[warp]]: fly
+*** Examples and Usage
+- hûn vipâlen borgov
+  - I must hurry to town
+*** Notes
+* vipik
+*** Definition
+adjective: fast
+*** Related
+[[vip]], [[-ik]]
+*** Examples and Usage
+*** Notes
+* warp
+*** Definition
+verbal root: to fly
+*** Related
+*** Examples and Usage
+*** Notes
+
+* flet
+*** Definition
+adverb: still, ongoingly
+*** Related
+*** Examples and Usage
+*** Notes
+
+* jed
+*** Definition
+adverb: already
+*** Related
+*** Examples and Usage
+*** Notes
+
+* Footnotes
+[fn:fn1] REgarding the basic or simple passive In Jagarôth, /-ax/ is used first to form a past participle like /thiktax/ a touched thing. It /has already been touched/ ergo its inherent aspect is the perfective apspect. Therefore a conjugated verb like /thiktaxâlos/ is /perfect/ passive. There really is not simple passive conjugation, but the perfect passive is used more or less indifferently as a simple passive and a perfect passive both. The difference is not heard in Jagarôth. See [[jed]] and [[flet]].
+
+

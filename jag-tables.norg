@@ -1,0 +1,271 @@
+* /_*Jagarôth grammatical tables*_/
+
+* This file is: ~/notes/jag-tables.norg
+  ### *return to:*
+  - {:index:}
+  - {:jag-lexicon:}
+  - {:jag-phonology:}
+  - {:jag-problems:}
+  - {:jag-text:}
+  - {:jag-verbs:}
+  ##### 
+* (x) todo :: learn how to do tables in neorg
+
+* TABLE 1 :: Imperative verbal conjugation
+
+  |------------+-------------|
+  | verbal     | translation |
+  | imperative |             |
+  |------------+-------------|
+  | qîz        | Piss!       |
+  |------------+-------------|
+
+  - RULE :: the active imperative has one form: the bare verbal root
+
+* TABLE 2 :: The Rolling Stones and their Instruments
+ |----------------+-----------------------|
+ | Stone          | Instrument            |
+ |----------------+-----------------------|
+ | Mick Jagger    | Vocals                |
+ | Keith Richards | Guitar                |
+ | Charlie Watts  | Drums                 |
+ | Brian Jones    | Multi-instrumentalist |
+ | Bill Wyman     | Bass                  |
+ |----------------+-----------------------|
+
+  - blah
+
+* TABLE :: Personal pronouns
+  - stand-alone forms and suffixed forms
+ 
+  |--------+--------+-----------+-------------+----------|
+  | Person | Number | Gender    | Stand-alone | Suffixed |
+  |--------+--------+-----------+-------------+----------|
+  | 1st    | sing.  | --        | men         | -en      |
+  | 2nd    | sing.  | --        | teps        | -eps     |
+  | 3rd    | sing.  | Sapient   | teth        | -eth     |
+  | 3rd    | sing.  | Insapient | sos         | -os      |
+  | 1st    | plur.  | --        | menen       | -enen    |
+  | 2nd    | plur.  | --        | tepsen      | -epsen   |
+  | 3rd    | plur.  | Sapient   | tethen      | -ethen   |
+  | 3rd    | plur.  | Insapient | sosen       | -osen    |
+  |--------+--------+-----------+-------------+----------|
+
+  - RULE :: to form the suffixed form, drop the initial consonant
+
+* TABLE :: Participles and Perfect suffix
+
+  |---------+--------+-----------+------------------------------------------|
+  | Voice   | Suffix | Example   | Translation                              |
+  |---------+--------+-----------+------------------------------------------|
+  | Active  | -az    | hûdhaz    | defecating; shitting organism            |
+  | Passive | -ax    | hûdhax    | turd; defecated (adjective)              |
+  | Perfect | -azdaz | hûdhazdaz | denotes an organism that has shat        |
+  | Perfect | -azdax | hûdhazdax | denotes a thing that has been shat, eliminated |
+  |---------+--------+-----------+------------------------------------------|
+
+{:jag-verbs:}
+
+* TABLE :: list of verb markers
+
+
+* TABLE :: Number suffixes
+** ( ) todo :: paucal, pluplural, collective suffixes :: create them
+** DEFINITIONS and NOTES
+   - paucal • a few • contextual • of sapients, most often from 2 to 5 or
+     6 or 7 •
+   - pluplural • a very many • of sapients, describes a crowd •
+   - collective • denotes one out of the possibilities implied by the
+     meaning of /collective/ •
+   ---- /*examples of collective meaning*/ • a collective of people
+        is a tribe, or "nation" in the sense of a (Latin) /gens/, or
+        the inhabitants of a village • a collective of soldiers is an
+        army • a collective of crows is a murder of crows • of deer, a
+        herd •
+   ---- /examples/ :: /hominen/ humans :: /hominempep/ a few humans ::
+        /hominended/ a crowd or multitude of humans :: /hominâzd/
+        /gens/, tribe, "nation"
+
+        
+  |------------+--------|
+  | Number     | Suffix |
+  |------------+--------|
+  | Plural     | -en    |
+  | Paucal     | -empep |
+  | Pluplural  | -ended |
+  | Collective | -âzd   |
+  |------------+--------|
+
+* TABLE :: Suffixes that qualify or narrow down meanings
+  - RULE: these suffixes, as they modify the meaning of the base word,
+    must occur only adjacent to the base word, i.e., on its
+    word-border, thus creating a new base word
+  - QUESTION: is the above really true? Should these be suffixed
+    final particles instead, able to modify any word with attitude?
+  - Question: call them attitudinals?
+  - QUESTION: call only pejorative and approbative suffices
+    attitudinals? and only suffix them? Or allow -pep and -ded to be
+    used with verbs, adjectives, etc?
+  - ( ) todo :: create approbative suffix :: answer above QUESTIONS
+
+  |----------+--------------|
+  | Function | Suffix       |
+  |----------+--------------|
+  | -pep     | diminutive   |
+  | -ded     | augmentative |
+  | -fiw     | pejorative   |
+  |          | approbative  |
+  |----------+--------------|
+
+  - a
+
+* TABLE :: numerals
+  |----------+--------------|
+  | Jagarôth | Arabic glyph |
+  |----------+--------------|
+  | zip      | 0            |
+  | tot      | 1            |
+  | sad      | 2            |
+  | fat      | 3            |
+  | fûm      | 4            |
+  | kint     | 5            |
+  | kor      | 6            |
+  | konet    | 36           |
+  | momor    | 216          |
+  | stokor   | 1296         |
+  |----------+--------------|
+
+  - 2026 in senary is 13214.
+  - two thousand twenty six  
+  - /stokor momor-fat konet-sad kor-fûm/
+  - note :: 1296 + (216*3) + (36*2) + 6 + 4
+  - note :: the final 6 + 4 (/kor-fûm/) is not multiplicative like
+    /momor-fat/ and /konet-sad/ are. /kor-fûm/ is additive, it means 10 (in
+    decimal). one utters each digit as a multiple of 6 beginning with
+    the largest multiple (/stokor/) uttered first and written on the
+    left side.
+  - in base-6 10000 (/stokor/) + 3000 (/momor-fat/) + 200 (/konet-sad/) +
+    10 (/kor/) + 4 (/fûm/)
+
+* TABLE :: Jagarôth verbal suffixes and personal possessive suffixes 
+
+  |--------------+----------+------------|
+  | person &     | finite v | possessive |
+  | number &     | suffix   | suffix     |
+  | gender       |          |            |
+  |--------------+----------+------------|
+  | 1s           | -en      | -em        |
+  | 1p           | -enen    | -emen      |
+  | 2s           | -eps     | -eps       |
+  | 2p           | -epsen   | -epsen     |
+  | 3s sapient   | -eth     | -eth       |
+  | 3p sapient   | -ethen   | -ethen     |
+  | 3s insapient | -os      | -os        |
+  | 3p insapient | -osen    | -osen      |
+  |--------------+----------+------------|
+
+* TABLE :: FINITE VERBAL CONJUGATION
+|--------------------+---------------------------|
+| weyâlen            | I eat                     |
+| weyâlenen          | We eat                    |
+| weyâleps           | Thou eat'st               |
+| weyâlepsen         | Ye eat                    |
+| weyâleth           | He/She eats               |
+| weyâlethen         | They eat                  |
+| weyâlos            | It eats                   |
+| weyâlosen          | They eat (insentient)     |
+| weyâlemp           | UNSPEC eats               |
+| weyâled            | she eats herself          |
+| weyâlotekek - ???? | they eat each other       |
+| weyâlek - ????     | they eat each other       |
+| weyâr              | to eat, the act of eating |
+| weyaz              | eating                    | short /a/ in participles
+| weyax              | eaten                     | """ - ditto
+| weyazâlen          | I am eating               | short /a/ in participles
+| ...                | ...                       |
+| weyaxâlen          | I am eaten                | note -ax- w/ short a
+| ...                | ...                       |
+|--------------------+---------------------------|
+
+* TABLE :: indirect or reported speech
+  |-------------------------+------------------------------------|
+  | I said, "I ate my food" | pê spelâlen weyâlen-then weyumotem |
+  |                         |                                    |
+  |-------------------------+------------------------------------|
+  - PAST say-FINITE-1s eat-FINITE-1s-IndirectSpeech
+    eat-CONCRETE-ACC-1sPossessive
+  - Indirect speech is done as in Ancient Greek with /hoti/. /-then/
+    is a clitic suffix indicating the word to which it is attached is
+    the first word of reported speech.
+  - /te/ turns that clause that follows it into an object in the
+    sentence subject to grammatical processes like being in the
+    Accusative or whatever.
+
+* TABLE :: clitic suffixes, their nature and uses
+  |--------+------------------------------------+-------------|
+  | clitic | description                        | translation |
+  |--------+------------------------------------+-------------|
+  | -then  | reported speech                    | that        |
+  | -thor  | non-clause conjunctive conjunction | and         |
+  | -sest  | non-clause disjunctive conjunction | but         |
+  |--------+------------------------------------+-------------|
+
+* TABLE :: conjunctions, stand-alone & clitic
+|-------------+-------------+-----------------------------------|
+| conjunction | description | meaning                           |
+|-------------+-------------+-----------------------------------|
+| -then       | clitic      | marks indirect or reported speech |
+| -thor       | clitic      | phrase conjunction "and"          |
+| -sest       | clitic      | clause conjunction "but"          |
+| koi         | word        | clausal-level "and"               |
+| thrip       | word        | clausal-level "but"               |
+|-------------+-------------+-----------------------------------|
+
+* TABLE :: case endings
+  |--------+--------------|
+  | suffix | case         |
+  |--------+--------------|
+  | -0     | Nominative   |
+  | -ûr    | Genitive     |
+  | -ot    | Accusative   |
+  | -ôdh   | Dative       |
+  | -ash   | Ablative     |
+  | -îz    | Locative     |
+  | -enth  | Instrumental |
+  | -êv    | Comitative   |
+  | -ork   | Caritive     |
+  | -o     | Vocative     |
+  |--------+--------------|
+
+* TABLE :: comparative and superlative
+  |---------------+----------------------------------------------|
+  | example 1     | shê skai-vîlâlosen dafodîlen Rorbôdh ::      |
+  | translation 1 | PAST out-yellow-3pInspnt dafodil-pl Sun-DAT  |
+  | translation 2 | The daffodils were more yellow than the Sun. |
+  |---------------+----------------------------------------------|
+  | example 2     | blah                                         |
+  |---------------+----------------------------------------------|
+
+
+* TABLE :: some example declension of a noun /dafodîl/ in the nominative and Dative
+ |-------------------+-------------------------+-------------------+-----------------|
+ | dafodîl           | daffodil                | Nominative sing   | unpossessed     |
+ | dafodîleps        | your daffodil           | Nominative sing   | 2sing possessor |
+ | dafodîlen         | daffodils               | Nominative pl     | unpossessed     |
+ | dafodîleneps      | your daffodils          | Nominative plural | 2sing possessor |
+ | dafodîlenepsen    | your all's daffodils    | Nominative plural | 2plur possessor |
+ | dafodîlôdheps     | to your daffodil        | Dative singular   | 2sing possessor |
+ | dafodîlôdheneps   | to your daffodils       | Dative plural     | 2sing possessor |
+ | dafodîlôdhenepsen | to your all's daffodils | Dative plural     | 2plur possessor |
+ |-------------------+-------------------------+-------------------+-----------------|
+
+* TABLE :: comparatives (it's plural)
+
+  |-------------+-------+--------|
+  | comparative | Jag.  | trans. |
+  |-------------+-------+--------|
+  | supercomp   | skai- | over-  |
+  | subcomp     | vrî-  | under- |
+  |-------------+-------+--------|
+
+
